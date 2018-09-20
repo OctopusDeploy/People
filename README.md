@@ -8,48 +8,14 @@ It's the anchor point used through all of our hiring, feedback, promotion, and s
 
 It's a living document, maintained by the very people it affects.
 
-## Background, Purpose, and Attribution
+## How to use this tool
 
-Much of this is drawn from the [work I did at Readify in 2015](https://github.com/Readify/madskillz), but written specifically for Octopus.
+This document should act like a tuning fork, and provide encouragement for personal growth. It is broken down into a few sections:
 
-In 2014 at Readify (a software consultancy) we had a very "human resources" approach to ~~resources~~ people. Processes were written in language nobody really understood and couldn't apply to their daily life or personal growth. We were expected to recommend or exclude people for promotion based on our best memory of their performance during the entire year, often based on third-hand information. Personal interaction and mentoring was inconsistent.
+1. [Everyone](Everyone.md) defines the overall culture of Octopus and ways each person can strengthen that culture.
+2. Other sections build on top of these cultural norms for specific roles.
 
-After one of these experiences in 2015 I set out to reimagine the whole situation from my own point of view:
-
-- I want to provide a simple breakdown of what I value most about the people I work with in the hope that most of us agree.
-- I want this to read as a either a narrative or as a reference.
-- I want to use language that promotes personal ownership.
-- I want to use language people can identify with: more human than human resources.
-- I want people to be inspired to grow personally just by reading through this.
-- I want people to feel like this is achievable.
-- I want this to be helpful for personal and team retrospectives.
-- I want this to help when recommending people for hire, promotion, and recognition.
-- I want people to collaborate on this as a living statement: it's maintained by the very people it affects.
-
-We adopted the approach in Queensland first, followed quickly by all of the state branches in Readify, and has become a routine part of the fabric of the company.
-
-## Contributions
-
-This is a living document, maintained by the very people it affects. You should raise issues and pull requests. Pull requests will be accepted by a peer, once it has reached reasonable consensus amongs the people affected by the change.
-
-## Defining characteristics and examples
-
-We have identified several **defining characteristics** about each role at Octopus, and provided some concrete **behavioural examples** to explain what we mean. For example:
-
----
-
-### Senior Developer
-
-> I am a highly sought-after member of an Octopus team with a proven record of shipping high-quality code to production.
-
-#### _DEFINING CHARACTERISTIC_ I am trusted to ship full products (or vertical slices of larger products) from idea to production
-
-- _Example_ I am proficient with my tools and the core building blocks used by our team.
-- _Example_ I can confidently step outside my comfort zone and adapt quickly to new technologies.
-
----
-
-## Thoughts about the retrospective process
+## How to conduct a personal retrospective
 
 > Retrospective: To look back at events that have taken place and incorporate our successes and improvements into our daily work life.
 
@@ -57,7 +23,24 @@ Each person at Octopus should have a regular 1:1 with other people using this st
 
 Prepare for your 1:1 by going through the parts of this statement relevant to your situation, and rate yourself at each of the **defining characteristics**. Your mentor will do the same thing so your 1:1 leads to fruitful conversation.
 
-### Thoughts about rating
+1. [Everyone](Everyone.md)
+2. Your specific role
+3. Any role you are aspiring to
+
+### Defining characteristics and examples
+
+We have identified several **defining characteristics** about each role at Octopus, and provided some concrete **behavioural examples** to explain what we mean. For example:
+
+---
+
+#### _DEFINING CHARACTERISTIC_ I play my part in building effective teams
+
+- _Example_ I am confident to take risks, ask questions, and offer new ideas.
+- _Example_ The people around me feel confident to take risks, ask questions, or offer new ideas.
+
+---
+
+### How to rate yourself
 
 Rate yourself at the **defining characteristics** level so it's not too hard to maintain over time; the examples act as a frame of reference for the rating
 
@@ -106,3 +89,27 @@ When it comes to salary review and promotion:
 - I don't want to try and recall everything I know about someone when salary reviews come around, but I'd rather have it collected as a natural by-product of mentoring a person.
 - I don't want to be the single person responsible for a person’s growth/salary/promotion in Octopus, I want it to be collaborative.
 - I want decisions for a person’s growth/salary/promotion in Octopus to be based on their proven growth over time, not just a because they did the right things for one month a year.
+
+## Background, Purpose, and Attribution
+
+The concept is drawn from [work Michael Noonan did at Readify in 2015](https://github.com/Readify/madskillz), but written specifically for Octopus.
+
+> In 2014 at Readify (a software consultancy) we had a very "human resources" approach to ~~resources~~ people. Processes were written in language nobody really understood and couldn't apply to their daily life or personal growth. We were expected to recommend or exclude people for promotion based on our best memory of their performance during the entire year, often based on third-hand information. Personal interaction and mentoring was inconsistent.
+>
+> After one of these experiences in 2015 I set out to reimagine the whole situation from my own point of view:
+>
+>- I want to provide a simple breakdown of what I value most about the people I work with in the hope that most of us agree.
+>- I want this to read as a either a narrative or as a reference.
+>- I want to use language that promotes personal ownership.
+>- I want to use language people can identify with: more human than human resources.
+>- I want people to be inspired to grow personally just by reading through this.
+>- I want people to feel like this is achievable.
+>- I want this to be helpful for personal and team retrospectives.
+>- I want this to help when recommending people for hire, promotion, and recognition.
+>- I want people to collaborate on this as a living statement: it's maintained by the very people it affects.
+>
+>We adopted the approach in Queensland first, followed quickly by all of the state branches in Readify, and has become a routine part of the fabric of the company.
+
+## Contributions
+
+This is a living document, maintained by the very people it affects. You should raise issues and pull requests. Pull requests will be accepted by a peer, once it has reached reasonable consensus amongs the people affected by the change.
