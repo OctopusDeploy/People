@@ -1,46 +1,54 @@
 # Everyone
 
-The culture at Octopus is the sum result of its people and the way they interact. These are the defining characteristics of all Octopus people: all of the other roles build on these.
+Octopus was founded by Paul Stovell in 2011. At that time the culture of Octopus was the result of Paul himself. As Octopus steadily grew adding new people to the mix, we've tried to foster those same cultural principles, even though we've struggled at times to articulate exactly what Octopus culture means. After years we've recognised the following principles which guide the Octopus culture:
 
-- Work life harmony
-- Mateship
-- Servant leadership
-- Consensus
-- Trust/Phsycological safety
+- [The Australian cultural idiom of mateship](https://en.wikipedia.org/wiki/Mateship) where people have a will to win, dedication to duty, honour, compassion and honesty, mateship and teamwork, loyalty, and physical and moral courage.
+- [Servant leadership](https://en.wikipedia.org/wiki/Servant_leadership) where the leader shares power, puts the needs of others first, and helps people develop and perform as highly as possible.
+- [Building effective teams](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/) where people take risks without feeling insecure or embarrassed, allowing innovation to come from anyone.
+- [Work life harmony](https://medium.com/@katemccready/work-life-balance-vs-work-life-harmony-ea23ba05e279) where people use the privilege of flexibility to discover their most productive and rewarding ways to contribute to the success of Octopus. _(is there a better reference?)_
+- [Decision making through building consensus](https://en.wikipedia.org/wiki/Consensus_decision-making) where people agree to support a decision in the best interest of Octopus as a whole.
 
-### I am a humble, team oriented person
+The culture at Octopus is the sum result of its people and the way they interact. If we want to maintain and strengthen the culture of Octopus, by extension every person at Octopus must embody these cultural norms.
 
-- Other team members genuinely want me on their team.
+These are the defining characteristics of all Octopus people: all of the other roles and specialities build on these.
+
+## I am a humble, net positive, team oriented person
+
+- Other people genuinely enjoy working with me.
 - I happily take responsibility for what I produce.
 - I avoid going dark and I know when to call out for help.
-- I communicate professionally and clearly, and am effective at reaching consensus with other people.
-- I am well aware of all processes of the team and diligently follow them, encouraging others to do the same.
+- I help other people when it's within my power to do so.
+- I am well aware of all processes of my team and diligently follow them, encouraging others to do the same.
 - Even when I disagree with something I continue to work enthusiastically, learning from the others in the team.
 - Every venture has mundane tasks and I work happily and diligently through them.
-- My contributions to team discussions are net-positive, informative, and helpful.
+- I am recognised by my desire to learn and my motivation to improve.
 
+## I exercise servant leadership regardless of my role
 
-### I use the privilege of flexibility wisely to find my own work life harmony
+- I put the needs of other people before my own.
+- I help other people perform at their best.
+- I readily praise people publicly, and deal with the awkward stuff privately.
+- I prefer other people are recognised for their accomplishments.
 
-- I am a self-managing team member, I make and keep my commitments using the privilege of flexibility wisely.
-- I treat flexibility as a privilege and a useful tool.
+## I play my part in building effective teams
 
-What aspects of my life are having the most positive/negative affect on my work?
-What aspects of my work are having the most postitive/negative affect on my life?
-Can I improve an area of my life by shifting something with my work?
-Can I improve an area of my work by shifting something in my life?
-What changes could I make to life and work so that each supports me better in living to my fullest potential?
-
-### I am recognised by my desire to learn and my motivation to improve
-
-- I take my personal growth seriously and realise it is valuable to both myself and to Octopus.
-- I reach out to my peers and mentors to develop my personal growth plan.
-
-### Trust
-
-- The people around me feel confident to take risks, ask questions, or offer new ideas.
 - I am confident to take risks, ask questions, and offer new ideas.
+- The people around me feel confident to take risks, ask questions, or offer new ideas.
+- I am dependable. My team can count on me to do high quality work on time.
+- I help clarify the goals, roles, and execution plans for our teams.
+- I help my team understand the meaning and impact of the work we are doing so we all feel engaged.
 
+## I use the privilege of flexibility wisely to find my own work life harmony
 
+- I treat flexibility as a privilege and a helfpul tool, instead of treating it as a right and something to be exploited.
+- I am a self-managing team member. I make and keep my commitments using the privilege of flexibility wisely.
+- I communicate proactively when I can't keep commitments I've made, and help find an amicable solution.
+- I recognise I can't do everything and still do a good job. I make wise choices about where to invest my time, and where to bow out and let others invest theirs.
 
-- I am an effective communicator...
+## I am effective consensus builder
+
+- My contributions to discussions are net-positive, informative, and helpful.
+- I communicate professionally and clearly, and am effective at reaching consensus with other people.
+- I accelerate the decision making process by identifying potential solutions and building a case for them, rather than merely identifying problems.
+- I approach decision making with an open mind regardless of my preferences or experiences.
+- I trust the decision made by consensus will be in the best interest of Octopus as a whole, and happily commit myself to its success.
