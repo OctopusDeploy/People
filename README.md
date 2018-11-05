@@ -2,7 +2,7 @@
 
 This repository describes the culture we strive for as Octopus, recognising our culture is the sum product of our people.
 
-It defines what we appreciate about the people we work with on a daily basis. I helps us champion each person's individual growth. It helps us hold each other accountable for upholding our cultural values. It helps us have fruitful one-on-one conversations.
+It defines what we appreciate about the people we work with on a daily basis. It helps us champion each person's individual growth. It helps us hold each other accountable for upholding our cultural values. It helps us have fruitful one-on-one conversations.
 
 It's the anchor point used through all of our hiring, feedback, promotion, and salary review cycles.
 
@@ -80,7 +80,7 @@ When it comes to salary review and promotion:
 
 When it comes to personal growth:
 
-- As a mentor want to provide insights to someone I’ve been working with closely, where I’ve experienced what it’s like to face the challenges they have, helping them as they develop and mature.
+- As a mentor I want to provide insights to someone I’ve been working with closely, where I’ve experienced what it’s like to face the challenges they have, helping them as they develop and mature.
 - I want the process to be centred around their growth as an individual person.
 - I want to understand their personal goals in Octopus and help them achieve those goals.
 
