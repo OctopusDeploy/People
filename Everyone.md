@@ -40,7 +40,7 @@ These are the defining characteristics of all Octopus people: all of the other r
 
 ## I use the privilege of flexibility wisely to find my own work life harmony
 
-- I treat flexibility as a privilege and a helfpul tool, instead of treating it as a right and something to be exploited.
+- I treat flexibility as a privilege and a helpful tool, instead of treating it as a right and something to be exploited.
 - I am a self-managing team member. I make and keep my commitments using the privilege of flexibility wisely.
 - I communicate proactively when I can't keep commitments I've made, and help find an amicable solution.
 - I recognise I can't do everything and still do a good job. I make wise choices about where to invest my time, and where to bow out and let others invest theirs.
