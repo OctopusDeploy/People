@@ -32,7 +32,7 @@
 - I am well aware of all processes of the team and diligently follow them (like maintaining accurate documentation, maintaining tests and so on).
 - Even when I disagree with something I continue to work enthusiastically, learning from the others in the team.
 - Every venture has mundane tasks and I work happily and diligently through them.
-- I go out of my way develop a friendly and professional rapport with my customer and their team members.
+- I go out of my way to develop a friendly and professional rapport with my customer and their team members.
 - My contributions to team discussions are net-positive, informative and helpful.
 
 ## Senior Software Engineer
