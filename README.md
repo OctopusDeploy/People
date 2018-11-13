@@ -1,6 +1,6 @@
 # Octopus People
 
-This repository describes the culture we strive for as Octopus, recognising our culture is the sum product of our people.
+This repository describes the culture we strive for as Octopus, recognising our culture is the sum product of our people, the way we behave towards each other, and the behaviours we tolerate.
 
 It defines what we appreciate about the people we work with on a daily basis. It helps us champion each person's individual growth. It helps us hold each other accountable for upholding our cultural values. It helps us have fruitful one-on-one conversations.
 
@@ -42,7 +42,7 @@ We have identified several **defining characteristics** about each role at Octop
 
 ### How to rate yourself
 
-Rate yourself at the **defining characteristics** level so it's not too hard to maintain over time; the examples act as a frame of reference for the rating
+Rate yourself at the **defining characteristics** level so it's not too hard to maintain over time; the examples act as a frame of reference for the rating.
 
 If you're aiming for a promotion or different role, rate yourself on both your current role and your desired role. Looking at the desired role will provide clarity about gaps you might need to fill or grow into. You should discuss your desire before rating with a peer or mentor, so that they can provide feedback on your goals.
 
