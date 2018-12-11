@@ -37,7 +37,7 @@
 
 ## Senior Software Engineer
 
-> I am a highly sought-after member of a Octopus team with a proven record of shipping high-quality code to production.
+> I am a highly sought-after member of an Octopus team with a proven record of shipping high-quality code to production.
 
 ### I am trusted to ship full products (or vertical slices of larger products) from idea to production
 
