@@ -45,7 +45,7 @@ These are the defining characteristics of all Octopus people: all of the other r
 - I communicate proactively when I can't keep commitments I've made, and help find an amicable solution.
 - I recognise I can't do everything and still do a good job. I make wise choices about where to invest my time, and where to bow out and let others invest theirs.
 
-## I am effective consensus builder
+## I am an effective consensus builder
 
 - My contributions to discussions are net-positive, informative, and helpful.
 - I communicate professionally and clearly, and am effective at reaching consensus with other people.
