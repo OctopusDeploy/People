@@ -1,6 +1,6 @@
 # Everyone
 
-Octopus was founded by Paul Stovell in 2011. At that time the culture of Octopus was the result of Paul himself. As Octopus steadily grew adding new people to the mix, we've tried to foster those same cultural principles, even though we've struggled at times to articulate exactly what Octopus culture means. After years we've recognised the following principles which guide the Octopus culture:
+Octopus was founded by Paul Stovell in 2011. At that time the culture of Octopus was the result of Paul himself. As Octopus steadily grew, adding new people to the mix, we've tried to incorporate a diverse, and geographically distributed, team of people, while fostering those same cultural principles.  Even though we've struggled at times to articulate exactly what Octopus culture means. After years we've recognised the following principles which guide the Octopus culture:
 
 - [The Australian cultural idiom of mateship](https://en.wikipedia.org/wiki/Mateship) where people have a will to win, dedication to duty, honour, compassion and honesty, mateship and teamwork, loyalty, and physical and moral courage.
 - [Servant leadership](https://en.wikipedia.org/wiki/Servant_leadership) where the leader shares power, puts the needs of others first, and helps people develop and perform as highly as possible.
@@ -8,13 +8,15 @@ Octopus was founded by Paul Stovell in 2011. At that time the culture of Octopus
 - [Work life harmony](https://medium.com/@katemccready/work-life-balance-vs-work-life-harmony-ea23ba05e279) where people use the privilege of flexibility to discover their most productive and rewarding ways to contribute to the success of Octopus. _(is there a better reference?)_
 - [Decision making through building consensus](https://en.wikipedia.org/wiki/Consensus_decision-making) where people agree to support a decision in the best interest of Octopus as a whole.
 
-The culture at Octopus is the sum result of its people and the way they interact. If we want to maintain and strengthen the culture of Octopus, by extension every person at Octopus must embody these cultural norms.
+The culture at Octopus is the sum of its people and the way they interact. We want to maintain and strengthen the culture of Octopus.  This means every person at Octopus must make an individual contribution to a team that embodies Octopus's cultural norms.
 
 These are the defining characteristics of all Octopus people: all of the other roles and specialities build on these.
 
 ## I am a humble, net positive, team oriented person
 
 - Other people genuinely enjoy working with me.
+- I recognise the individuals as well as the team.
+- I understand that diversity in age, gender identity, race, sexual orientation, physical or mental ability, ethnicity, and perspective is beneficial to the team.
 - I happily take responsibility for what I produce.
 - I avoid going dark and I know when to call out for help.
 - I help other people when it's within my power to do so.
