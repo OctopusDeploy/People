@@ -47,6 +47,12 @@ These are the defining characteristics of all Octopus people: all of the other r
 - I communicate proactively when I can't keep commitments I've made, and help find an amicable solution.
 - I recognise I can't do everything and still do a good job. I make wise choices about where to invest my time, and where to bow out and let others invest theirs.
 
+## I am a [responsible remote worker](https://octopushq.atlassian.net/wiki/spaces/IN/pages/542539777/Working+Remote).
+
+- I am a helpful teammate. I ensure that my work schedule sufficiently overlaps with my teammates so I can help others and get help efficiently.
+- I am a respectful teammate. I share my work schedule with my teammates, attend team meetings and let my team know (set expectations) when I need time for personal matters. 
+- I work remotely to do my best work and I’m mindful of distractions. My best work happens when I give it my full attention and focus. i.e. Not working in disruptive environments, working via my phone is not my best work, watching children etc.
+
 ## I am an effective consensus builder
 
 - My contributions to discussions are net-positive, informative, and helpful.
