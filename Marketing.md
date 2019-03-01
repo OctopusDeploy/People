@@ -1,6 +1,6 @@
 # Marketing
 
-## Product Marketer Manager (Developer doing Marketing)
+## Developer doing Marketing (Product Marketer Manager)
 
 > I am the voice of the customer, and I am the glue between engineering and marketing to drive interest and people trying our product
 
