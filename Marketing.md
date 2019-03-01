@@ -30,7 +30,6 @@
 **I oversee the content we produce, and I ensure it's right for our audience** 
 
 * I am the gatekeeper for content (written, video, speaking etc.) and I ensure it's appropriate for our audience
-* I ensure we communicate inline with the Octopus Personality, i.e. We're friendly, human, genuine etc.
+* I ensure we communicate inline with the Octopus Personality, i.e. we're friendly, human, genuine etc.
 * I try to focus on why new features are valuable for our customers instead of what they do and how they work
 * I create content and collaborate with others to create content to generate new, high-quality leads consistently
-
