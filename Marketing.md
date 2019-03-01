@@ -4,7 +4,7 @@
 
 > I am the voice of the customer, and I am the glue between engineering and marketing to drive interest and people trying our product
 
-**I am an Octopus Deploy specialist and I understand its benefits for teams and the problems it solves**
+**I have a deep knowledge of the ethos, patterns and principles of Octopus Deploy and I understand its benefits for teams and the problems it solves**
 
 * I am the authority on our customers, who are they, how they buy and why they pick Octopus (buying criteria).
 * I understand the competitive landscape, and I work to be an expert on our competition and how they are positioned.
