@@ -6,10 +6,10 @@
 
 **I have a deep knowledge of the ethos, patterns and principles of Octopus Deploy and I understand its benefits for teams and the problems it solves**
 
-* I am an authority on our customers: who they are, how they buy and why they pick Octopus (buying criteria).
+* I am an authority on our customers being a developer myself, and understand what motivates them to choose Octopus
 * I understand the competitive landscape, and I work to be an expert on our competition and how they are positioned.
 * I collaborate with engineering teams and marketing to develop product messaging and positioning that resonates with our customers (target personas).
-* I understand and document our customer’s buying process, including where they get information, and the who, what, when and why behind the decisions they make. Then drive changes to our sales and marketing processes based on what you learn.
+* I help dig beneath the surface of the evidence in our marketing tools to help our marketing team understand the real buying process.
 
 **I help develop effective marketing campaigns/activities and monitor them so we can iterate**
 
@@ -30,6 +30,6 @@
 **I oversee the content we produce, and I ensure it's right for our audience** 
 
 * I am a gatekeeper (sanity-check) for our content (written, video, speaking etc.) and I ensure it's appropriate for our audience.
-* I ensure we communicate inline with the Octopus Personality, i.e. we're friendly, human, genuine etc.
+* I ensure we communicate inline with the Octopus Personality, i.e. We're friendly, human, genuine and you can't "smell the marketing"
 * I try to focus on why new features are valuable for our customers instead of what they do and how they work.
 * I create content and collaborate with others to create content to generate new, high-quality leads consistently.
