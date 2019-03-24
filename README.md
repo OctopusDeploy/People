@@ -1,6 +1,6 @@
-# Octopus People
+﻿# Octopus People
 
-This repository describes the culture we strive for as Octopus, recognising our culture is the sum product of our people, the way we behave towards each other, and the behaviours we tolerate.
+This repository describes the culture we strive for as Octopus. We recognise our culture is the sum product of our people, the way we behave towards each other, and the behaviours we tolerate.
 
 It defines what we appreciate about the people we work with on a daily basis. It helps us champion each person's individual growth. It helps us hold each other accountable for upholding our cultural values. It helps us have fruitful one-on-one conversations.
 
