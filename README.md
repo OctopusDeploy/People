@@ -1,6 +1,6 @@
 # Octopus People
 
-This repository describes the culture we strive for as Octopus, recognising our culture is the sum product of our people, the way we behave towards each other, and the behaviours we tolerate.
+This repository describes the culture we strive for at Octopus, recognising our culture is the sum product of our people, the way we behave towards each other, and the behaviours we tolerate.
 
 It defines what we appreciate about the people we work with on a daily basis. It helps us champion each person's individual growth. It helps us hold each other accountable for upholding our cultural values. It helps us have fruitful one-on-one conversations.
 
@@ -10,7 +10,7 @@ It's a living document, maintained by the very people it affects.
 
 ## How to use this tool
 
-This document should act like a tuning fork, and provide encouragement for personal growth. It is broken down into a few sections:
+This document should act like a tuning fork and provide encouragement for personal growth. It is broken down into a few sections:
 
 1. [Everyone](Everyone.md) defines the overall culture of Octopus and ways each person can strengthen that culture.
 2. Other sections build on top of these cultural norms for specific roles.
@@ -23,9 +23,9 @@ Each person at Octopus should have a regular 1:1 with other people using this st
 
 Prepare for your 1:1 by going through the parts of this statement relevant to your situation, and rate yourself at each of the **defining characteristics**. Your mentor will do the same thing so your 1:1 leads to fruitful conversation.
 
-1. [Everyone](Everyone.md)
-2. Your specific role
-3. Any role you are aspiring to
+1. [Everyone](Everyone.md).
+2. Your specific role.
+3. Any role you are aspiring to.
 
 ### Defining characteristics and examples
 
@@ -44,7 +44,7 @@ We have identified several **defining characteristics** about each role at Octop
 
 Rate yourself at the **defining characteristics** level so it's not too hard to maintain over time; the examples act as a frame of reference for the rating.
 
-If you're aiming for a promotion or different role, rate yourself on both your current role and your desired role. Looking at the desired role will provide clarity about gaps you might need to fill or grow into. You should discuss your desire before rating with a peer or mentor, so that they can provide feedback on your goals.
+If you're aiming for a promotion or a different role, rate yourself on both your current role and your desired role. Looking at the desired role will provide clarity about gaps you might need to fill or grow into. You should discuss your desire before rating with a peer or mentor, so that they can provide feedback on your goals.
 
 Let's use simple terms for the ratings:
 
@@ -112,4 +112,4 @@ The concept is drawn from [work Michael Noonan did at Readify in 2015](https://g
 
 ## Contributions
 
-This is a living document, maintained by the very people it affects. You should raise issues and pull requests. Pull requests will be accepted by a peer, once it has reached reasonable consensus amongs the people affected by the change.
+This is a living document, maintained by the very people it affects. You should raise issues and pull requests. Pull requests will be accepted by a peer, once it has reached reasonable consensus among the people affected by the change.
