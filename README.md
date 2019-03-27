@@ -1,4 +1,4 @@
-# Octopus People
+﻿# Octopus People
 
 This repository describes the culture we strive for at Octopus, recognising our culture is the sum product of our people, the way we behave towards each other, and the behaviours we tolerate.
 
