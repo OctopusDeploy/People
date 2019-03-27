@@ -44,13 +44,13 @@ These are the defining characteristics of all Octopus people: all of the other r
 
 - I treat flexibility as a privilege and a helpful tool, instead of treating it as a right and something to be exploited.
 - I am a self-managing team member. I make and keep my commitments using the privilege of flexibility wisely.
-- I communicate proactively when I can't keep commitments I've made, and help find an amicable solution.
-- I recognise I can't do everything and still do a good job. I make wise choices about where to invest my time, and where to bow out and let others invest theirs.
+- I communicate proactively when I can't keep commitments I've made and help find an amicable solution.
+- I recognise I can't do everything and still do a good job. I make wise choices about where to invest my time and where to bow out and let others invest theirs.
 
 ## I am an effective consensus builder
 
 - My contributions to discussions are net-positive, informative, and helpful.
-- I communicate professionally and clearly, and am effective at reaching consensus with other people.
+- I communicate professionally and clearly, and I am effective at reaching consensus with other people.
 - I accelerate the decision making process by identifying potential solutions and building a case for them, rather than merely identifying problems.
 - I approach decision making with an open mind regardless of my preferences or experiences.
-- I trust the decision made by consensus will be in the best interest of Octopus as a whole, and happily commit myself to its success.
+- I trust the decision made by consensus will be in the best interest of Octopus as a whole and happily commit myself to its success.
