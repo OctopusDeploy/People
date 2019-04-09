@@ -22,7 +22,7 @@ These are the defining characteristics of all Octopus people: all of the other r
 - I help other people when it's within my power to do so.
 - I am well aware of all processes of my team and diligently follow them, encouraging others to do the same.
 - Even when I disagree with something I continue to work enthusiastically, learning from the others in the team.
-- Every venture has mundane tasks and I work happily and diligently through them.
+- Every venture has mundane tasks and I work happily and diligently work through them.
 - I am recognised by my desire to learn and my motivation to improve.
 
 ## I exercise servant leadership regardless of my role
