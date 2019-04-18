@@ -62,7 +62,8 @@
 - I help our customers make informed purchasing decisions
 - I know our product well enough to help our customers buy the right sized license based on their needs
 - I help customers understand the key differences between license tiers
-- I ensure every sales ticket answered each business day
+- I ensure every sales ticket is answered each business day (either by answering them or making sure they are assigned)
 - I help extend trials for customers working on a POC
 - I process all free license requests 
 - I ensure all sales systems are in sync
+- I am responsible for maintaining our Customer's NDAs and which customers don't want to be included in advertising
