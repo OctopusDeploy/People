@@ -1,6 +1,22 @@
 # Marketing
 
-## Developer doing Marketing (Product Marketer Manager)
+## Developer Advocate
+
+> One liner
+
+** Point one **
+
+* Example
+* Example
+* ...
+
+** Point two **
+
+* Example
+* Example
+* ...
+
+## Product Marketer Manager
 
 > I am the voice of the customer, and I am the glue between engineering and marketing to drive interest and people trying our product
 
