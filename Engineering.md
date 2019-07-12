@@ -35,7 +35,7 @@
 - I go out of my way to develop a friendly and professional rapport with my customers and their team members.
 - My contributions to team discussions are net-positive, informative, and helpful.
 
-## Senior Software Engineer
+## Senior Engineer
 
 > I am a highly sought-after member of an Octopus team with a proven record of shipping high-quality code to production.
 
@@ -51,6 +51,14 @@
 - I know when to call out for help and how to do it effectively.
 - I am technically persuasive.
 - I am proficient at delivering software projects using agile practices.
+
+### I am a quality ambassador
+- I contribute and provide feedback to engineering efforts so that the product is user-friendly, efficient, consistent, robust and meets expectations. 
+- I use customer’s feedback and data to determine potential issues and apply it to improve future deliveries. 
+- I identify gaps in the implementation processes and product and collaborate with the team to improve the overall system design. 
+- I develop and maintain automated tests. 
+- I device strategies to make automated tests more accurate, reliable, reusable and extendable. 
+- I introduce new testing tools and practices for faster feedback cycles across different layers of the product. 
 
 ### I am a technical mentor
 
