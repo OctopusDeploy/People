@@ -35,7 +35,7 @@
 - I go out of my way to develop a friendly and professional rapport with my customers and their team members.
 - My contributions to team discussions are net-positive, informative, and helpful.
 
-## Senior Softare Engineer
+## Senior Software Engineer
 
 > I am a highly sought-after member of an Octopus team with a proven record of shipping high-quality code to production.
 
