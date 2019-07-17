@@ -16,7 +16,7 @@
 * Example
 * ...
 
-## Product Marketer Manager (Octopus Release Champion)
+## Product Marketing Manager (Octopus Release Champion)
 
 > I have a deep undestanding of our customers, I tell stories that **genuinely** describe our product features, I help engineering teams launch and share their hard work, and I ensure we have an active blog, resulting in teams engaging with us and trying our product.
 
