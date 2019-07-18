@@ -61,7 +61,7 @@
 - I can effectively coach people and pass on my knowledge.
 - I am a confident and proficient teacher of my craft.
 
-### I am focussed on the success of my team and my customers, without the need to boost my ego
+### I am focused on the success of my team and my customers, without the need to boost my ego
 
 - I add value to my team by being a trusted, proactive supporter of my team and its leadership, and by delivering high quality work with a minimum of fuss.
 - I seek to understand the real needs of my customers, and I am comfortable building requirements and technical recommendations off those.
