@@ -6,12 +6,13 @@
 
 ### I write high quality responses quickly and with minimal oversight
 
-- I understand that Octopus is a complex product and that I will not have a total understanding of all areas.
+- I recognise Octopus is complex and I don't know everything about it, so I reach out for help in a timely and effective way when I need it.
 - I write well crafted, succinct and informative support responses with minimal coaching.
-- I have a good understanding of one area of Octopus, and can confidentaly answer support questions in this area.
-- I am learning to take the time to anticipate related issues and provide support before the customers knows it's needed.
+- I am gaining a good understanding of one area of Octopus, and can confidently answer support questions in this area.
+- I am learning to anticipate my customer's needs. I am learning how to explain a few steps at a time so the customer can continue after I have finished working for the day.
 - I am becoming proficient with my tools and the core building blocks used by our team.
-- I am learning to prioritise tickets and when to reach out for further assistance
+- I am learning to prioritise my workload.
+- I am learning to recognise when I need help, and how to do this in an effective and timely manner.
 - I am a self-managing team member, I make and keep my commitments using the privilege of flexibility wisely.
 
 ### I am recognised by my desire to learn and my motivation to improve
@@ -19,7 +20,7 @@
 - I am learning, maybe through a variety of ways like reading books, reading code, configuring test environments, watching online courses, attending conferences or user group meetings.
 - I am discussing the things I'm learning about or experimenting on with my teammates, maybe even collaborating on the experience.
 - I take my individual growth seriously and realise it is valuable to both myself and to Octopus.
-- I reach out to my peers and leadership group to develop my personal growth plan.
+- I recognise I am my career owner. I reach out to my peers and my manager to develop my personal growth plan.
 
 ### I am an egoless, team oriented support engineer
 
@@ -35,17 +36,20 @@
 
 ## Senior Support Engineer
 
-> I am a confident, secure member of the Octopus support team with a proven record of customer support.
+The Senior Support Engineer role builds upon the foundation of the Support Engineer role.
+
+> I am a confident, secure member of the Octopus support team with a proven record of excellent customer support.
 
 ### I am trusted to delight our customers with every interaction
 
 - I am proficient with my tools and the core building blocks used by our team.
 - I have a good understanding of more than one area of Octopus, and can confidentaly answer support questions in these areas.
-- I take the time to anticipate related issues and provide support before the customers knows it's needed.
-- I can confidently step outside my comfort zone and adapt quickly to new area of Octopus.
-- I am proficient at qualifying and analysing support and feature requests.
-- I know how to make pragmatic decisions in order to provide the best outcomes for our customers
-- I know when to call out for help and how to do it effectively.
+- I confidently anticipate my customer's needs. I am effective at explaining a few steps at a time so the customer can continue after I have finished working for the day.
+- I can confidently step outside my comfort zone and adapt quickly to unfamiliar areas of Octopus.
+- I am proficient at qualifying support tickets into the RUF categories, reliability, usability, and features.
+- I know how to make pragmatic decisions in order to provide the best outcomes for our customers.
+- I am excellent at prioritising my workload.
+- I am quick to recognise when I need help, and I know how to do this in an effective and timely manner.
 - I am technically persuasive.
 
 
