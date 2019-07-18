@@ -4,11 +4,12 @@
 
 > I am a valuable, enthusiastic and net-positive member of the Octopus support team.
 
-### I write high quality responses quickly and with minimal oversite
+### I write high quality responses quickly and with minimal oversight
 
 - I understand that Octopus is a complex product and that I will not have a total understanding of all areas.
 - I write well crafted, succinct and informative support responses with minimal coaching.
 - I have a good understanding of one area of Octopus, and can confidentaly answer support questions in this area.
+- I am learning to take the time to anticipate related issues and provide support before the customers knows it's needed.
 - I am becoming proficient with my tools and the core building blocks used by our team.
 - I am learning to prioritise tickets and when to reach out for further assistance
 - I am a self-managing team member, I make and keep my commitments using the privilege of flexibility wisely.
@@ -40,6 +41,7 @@
 
 - I am proficient with my tools and the core building blocks used by our team.
 - I have a good understanding of more than one area of Octopus, and can confidentaly answer support questions in these areas.
+- I take the time to anticipate related issues and provide support before the customers knows it's needed.
 - I can confidently step outside my comfort zone and adapt quickly to new area of Octopus.
 - I am proficient at qualifying and analysing support and feature requests.
 - I know how to make pragmatic decisions in order to provide the best outcomes for our customers
