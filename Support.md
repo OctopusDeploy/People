@@ -44,7 +44,7 @@ The Senior Support Engineer role builds upon the foundation of the Support Engin
 ### I am trusted to delight our customers with every interaction
 
 - I am proficient with my tools and the core building blocks used by our team.
-- I have a good understanding of more than one area of Octopus, and can confidentaly answer support questions in these areas.
+- I have a good understanding of more than one area of Octopus, and can confidently answer support questions in these areas.
 - I confidently anticipate my customer's needs. I am effective at explaining a few steps at a time so the customer can continue after I have finished working for the day.
 - I can confidently step outside my comfort zone and adapt quickly to unfamiliar areas of Octopus.
 - I am proficient at qualifying support tickets into the RUF categories, reliability, usability, and features.
