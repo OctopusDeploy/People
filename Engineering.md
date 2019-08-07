@@ -119,7 +119,7 @@
 - I use customer’s feedback and data to determine potential issues and apply it to improve future deliveries. 
 - I identify gaps in the implementation processes and product and collaborate with the team to improve the overall system design. 
 - I help other team members to achieve better business value.
-- I devise strategies to make automated tests more accurate, reliable, reusable and extendable. 
+- I devise strategies to make automated tests more accurate, reliable, reusable, and extendable. 
 - I use code reviews to coach on how to improve test coverage and apply better practices.
 - I introduce new testing tools and practices for faster feedback cycles across different layers of the product. 
 
