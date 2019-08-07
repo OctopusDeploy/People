@@ -115,7 +115,7 @@
 
 ### I ensure Octopus can ship with confidence
 
-- I contribute and provide feedback to engineering efforts so that the product is user-friendly, efficient, consistent, robust and meets expectations. 
+- I contribute and provide feedback to product, design, and engineering activities so that the product is user-friendly, efficient, consistent, robust, and useful to customers.
 - I use customer’s feedback and data to determine potential issues and apply it to improve future deliveries. 
 - I identify gaps in the implementation processes and product and collaborate with the team to improve the overall system design. 
 - I help other team members to achieve better business value.
