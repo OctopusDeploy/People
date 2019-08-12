@@ -108,3 +108,18 @@
 - I am actively involved in the retrospective process, and I am comfortable challenging and coaching my peers.
 - I am mentoring another engineer, deliberately helping them to round out their skill set.
 - I am sharing my on-the-job learning and experiences with others so they can be more effective in their roles.
+
+## Quality Assurance Engineer
+
+> I work with Octopus team members to improve the overall quality of the Octopus ecosystem. 
+
+### I ensure Octopus can ship with confidence
+
+- I contribute and provide feedback to product, design, and engineering activities so that the product is user-friendly, efficient, consistent, robust, and useful to customers.
+- I use customer’s feedback and data to determine potential issues and apply it to improve future deliveries. 
+- I identify gaps in the implementation processes and product and collaborate with the team to improve the overall system design. 
+- I help other team members to achieve better business value.
+- I devise strategies to make automated tests more accurate, reliable, reusable, and extendable. 
+- I use code reviews to coach on how to improve our tests and apply better practices.
+- I introduce new testing tools and practices for faster feedback cycles across different layers of the product. 
+
