@@ -22,6 +22,7 @@
 - I reach out to my peers and leadership group to develop my personal growth plan.
 - I am a self-managing team member, I make and keep my commitments using the privilege of flexibility wisely.
 - I am applying agile practices in my day to day work, and I am beginning to understand why they are important to software development
+- I share my lessons learned and interesting technical decision points by writing content for the Octopus Blog.
 
 ### I am an egoless, team oriented developer
 
