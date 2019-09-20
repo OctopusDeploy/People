@@ -35,6 +35,26 @@
 - I go out of my way to develop a friendly and professional rapport with my customers and their team members.
 - My contributions to team discussions are net-positive, informative, and helpful.
 
+## Systems Engineer
+
+> I empower Software Engineers by optimizing infrastructure to increase developer velocity.
+
+### I am proficient in automating infrastructure deployments for on-premise and in the cloud
+
+- I have a solid understanding of operating system, network, and security fundamentals.
+- I can design and implement infrastructure as code.
+- I am learning how to implement and support continuous integration and continuous delivery pipelines.
+- I am familiar with virtualisation, containerisation, and serverless.
+- I am becoming proficient with scripting languages.
+
+### I am able to break down and troubleshoot an issue to discover the root cause
+
+- Meow
+
+### Meow
+
+- Meow
+
 ## Senior Software Engineer
 
 > I am a highly sought-after member of an Octopus team with a proven record of shipping high-quality code to production.
@@ -79,6 +99,14 @@
 - I am actively introspective and take time to work on my personal and professional development.
 - I happily take responsibility for my own mistakes and I learn from the mistakes of others.
 
+## Senior Systems Engineer
+
+> Woof
+
+### Woof
+
+- Woof
+
 ## Software Architect
 
 > I am a well-rounded developer, architect, problem solver, and leader of people. I can be trusted to take a brand new idea from inception to production with a small group of people.
@@ -111,15 +139,14 @@
 
 ## Quality Assurance Engineer
 
-> I work with Octopus team members to improve the overall quality of the Octopus ecosystem. 
+> I work with Octopus team members to improve the overall quality of the Octopus ecosystem.
 
 ### I ensure Octopus can ship with confidence
 
 - I contribute and provide feedback to product, design, and engineering activities so that the product is user-friendly, efficient, consistent, robust, and useful to customers.
-- I use customer’s feedback and data to determine potential issues and apply it to improve future deliveries. 
-- I identify gaps in the implementation processes and product and collaborate with the team to improve the overall system design. 
+- I use customer’s feedback and data to determine potential issues and apply it to improve future deliveries.
+- I identify gaps in the implementation processes and product and collaborate with the team to improve the overall system design.
 - I help other team members to achieve better business value.
-- I devise strategies to make automated tests more accurate, reliable, reusable, and extendable. 
+- I devise strategies to make automated tests more accurate, reliable, reusable, and extendable.
 - I use code reviews to coach on how to improve our tests and apply better practices.
-- I introduce new testing tools and practices for faster feedback cycles across different layers of the product. 
-
+- I introduce new testing tools and practices for faster feedback cycles across different layers of the product.
