@@ -41,19 +41,20 @@
 
 ### I am proficient in automating infrastructure deployments for on-premise and in the cloud
 
-- I have a solid understanding of operating system, network, and security fundamentals.
 - I can design and implement infrastructure as code.
-- I am learning how to implement and support continuous integration and continuous delivery pipelines.
-- I am familiar with virtualisation, containerisation, and serverless.
 - I am becoming proficient with scripting languages.
+- I am familiar with implementing and supporting continuous integration and continuous delivery pipelines.
+- I am familiar with virtualisation, containerisation, and serverless.
 
 ### I am able to break down and troubleshoot an issue to discover the root cause
 
-- Meow
+- I have a solid understanding of operating system, network, and security fundamentals.
+- I am able to filter out irrelevant data when looking at logs to find what is most important.
 
 ### Meow
 
-- Meow
+- Something about being secrutiy minded
+- Something about using the right tool for the job.
 
 ## Senior Software Engineer
 
