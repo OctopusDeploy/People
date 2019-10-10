@@ -79,13 +79,26 @@
 - I am actively introspective and take time to work on my personal and professional development.
 - I happily take responsibility for my own mistakes and I learn from the mistakes of others.
 
+## Team Lead
+
+> I am a leader of people, with a proven record of delivering ideas from inception to their successful completion and beyond.
+
+### I am trusted to lead a team of diverse roles (from Architects, Engineers, Designers and QA) to ship full products to production
+
+As well as encompassing the qualities outlined in [Leadership](Leadership.md):
+
+- I am a well-rounded leader of people.
+- I am comfortable with transparently assessing risk, making recommendations, escalating appropriately, and dealing with the consequences along the way.
+- I am proficient at leading software projects using agile practices.
+- I can confidently and charismatically pitch ideas, positively influencing my team to take decisive action based on reaching consensus.
+- I am an adept communicator, and can effectively steer technical and non-technical conversations to positive outcomes over any medium.
+
 ## Software Architect
 
-> I am a well-rounded developer, architect, problem solver, and leader of people. I can be trusted to take a brand new idea from inception to production with a small group of people.
+> I am a well-rounded developer, architect and problem solver. I can be trusted to take a brand new idea from inception to production with a small group of people.
 
 ### I am trusted to lead a small team (of up to 3) to ship a brand new idea to production with limited supervision
 
-- I am maturing as a leader of people.
 - I can confidently step outside my comfort zone and adapt quickly to new team situations.
 - I am comfortable diving head-first into moderately risky situations with relatively little upfront information and oversight.
 - I am confident making architectural decisions taking concerns like infrastructure, identity management, security, scalability, concurrency, and maintainability into consideration.
@@ -111,15 +124,15 @@
 
 ## Quality Assurance Engineer
 
-> I work with Octopus team members to improve the overall quality of the Octopus ecosystem. 
+> I work with Octopus team members to improve the overall quality of the Octopus ecosystem.
 
 ### I ensure Octopus can ship with confidence
 
 - I contribute and provide feedback to product, design, and engineering activities so that the product is user-friendly, efficient, consistent, robust, and useful to customers.
-- I use customer’s feedback and data to determine potential issues and apply it to improve future deliveries. 
-- I identify gaps in the implementation processes and product and collaborate with the team to improve the overall system design. 
+- I use customer’s feedback and data to determine potential issues and apply it to improve future deliveries.
+- I identify gaps in the implementation processes and product and collaborate with the team to improve the overall system design.
 - I help other team members to achieve better business value.
-- I devise strategies to make automated tests more accurate, reliable, reusable, and extendable. 
+- I devise strategies to make automated tests more accurate, reliable, reusable, and extendable.
 - I use code reviews to coach on how to improve our tests and apply better practices.
-- I introduce new testing tools and practices for faster feedback cycles across different layers of the product. 
+- I introduce new testing tools and practices for faster feedback cycles across different layers of the product.
 
