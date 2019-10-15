@@ -93,7 +93,7 @@ As well as encompassing the qualities outlined in [Leadership](Leadership.md):
 - I can confidently and charismatically pitch ideas, positively influencing my team to take decisive action based on reaching consensus.
 - I am an adept communicator, and can effectively steer technical and non-technical conversations to positive outcomes over any medium.
 
-## Software Architect
+## Solution Architect
 
 > I am a well-rounded developer, architect and problem solver. I can be trusted to take a brand new idea from inception to production with a small group of people.
 
