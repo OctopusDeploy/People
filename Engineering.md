@@ -81,15 +81,15 @@
 
 ## Team Lead
 
-> I am a leader of people, with a proven record of delivering ideas from inception to their successful completion and beyond.
-
-### I am trusted to lead a team of diverse roles (from Architects, Engineers, Designers and QA) to ship full products to production
+> I am trusted to autonomously lead people through complex problems with a proven record of delivering ideas from inception to their successful completion and beyond. I am a respected communicator, a servant leader, a mentor, with an effectiveness of building trust and relationships with the people I lead, and my investment back into Octopus as a whole is significant.
 
 As well as encompassing the qualities outlined in [Leadership](Leadership.md):
 
-- I am a well-rounded leader of people.
-- I am comfortable with transparently assessing risk, making recommendations, escalating appropriately, and dealing with the consequences along the way.
+### I am trusted to lead a team of diverse technical roles (from Architects, Engineers, Designers and Testers) to ship full products to production
+
+- I am a well-rounded leader of people, known for having a collaborative leadership style.
 - I am proficient at leading software projects using agile practices.
+- I am comfortable with transparently assessing risk, making recommendations, escalating appropriately, and dealing with the consequences along the way.
 - I can confidently and charismatically pitch ideas, positively influencing my team to take decisive action based on reaching consensus.
 - I am an adept communicator, and can effectively steer technical and non-technical conversations to positive outcomes over any medium.
 
