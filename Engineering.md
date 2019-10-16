@@ -95,9 +95,8 @@
 
 ## Team Lead
 
-> I am trusted to autonomously lead people through complex problems with a proven record of delivering ideas from inception to their successful completion, usually combined with SSE or SA.
-
-> A Team Lead emcompasses all the qualities listed in the [Leadership](Leadership.md).
+> I am trusted to autonomously lead people through complex problems with a proven record of delivering ideas from inception to their successful completion.
+> A Team Lead emcompasses all of the qualities listed in [Leadership](Leadership.md) and is usually combined with either a Senior Software Engineer or Solution Architect role.
 
 ### I am trusted to lead a team of diverse technical roles (from Architects, Engineers, Designers and Testers) to ship full products to production
 
@@ -134,3 +133,9 @@
 - I am actively involved in the retrospective process, and I am comfortable challenging and coaching my peers.
 - I am mentoring another engineer, deliberately helping them to round out their skill set.
 - I am sharing my on-the-job learning and experiences with others so they can be more effective in their roles.
+
+## Engineering Manager
+
+> I lead groups of teams of engineers to deliver strategic engineering outcomes. This includes "ship a brand new idea to production", but also things like building a stable and maintainable Cloud platform, security capability, etc.
+
+Potentially leads more than one team, responsible for hiring/firing [TODO: needs clarification], and ultimately accountable for engineering outcomes of the team.
