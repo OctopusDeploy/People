@@ -81,9 +81,9 @@
 
 ## Team Lead
 
-> I am trusted to autonomously lead people through complex problems with a proven record of delivering ideas from inception to their successful completion and beyond. I am a respected communicator, a servant leader, a mentor, with an effectiveness of building trust and relationships with the people I lead, and my investment back into Octopus as a whole is significant.
+> I am trusted to autonomously lead people through complex problems with a proven record of delivering ideas from inception to their successful completion, usually combined with SSE or SA.
 
-As well as encompassing the qualities outlined in [Leadership](Leadership.md):
+> A Team Lead emcompasses all the qualities listed in the [Leadership](Leadership.md).
 
 ### I am trusted to lead a team of diverse technical roles (from Architects, Engineers, Designers and Testers) to ship full products to production
 
@@ -95,25 +95,24 @@ As well as encompassing the qualities outlined in [Leadership](Leadership.md):
 
 ## Solution Architect
 
-> I am a well-rounded developer, architect and problem solver. I can be trusted to take a brand new idea from inception to production with a small group of people.
+> I am a well-rounded developer, architect and problem solver. I can be trusted to take a brand new idea from inception to production.
 
-### I am trusted to lead a small team (of up to 3) to ship a brand new idea to production with limited supervision
+### I am trusted to ship a brand new idea to production with limited supervision
 
-- I can confidently step outside my comfort zone and adapt quickly to new team situations.
+- I can confidently step outside my comfort zone and adapt quickly to new situations.
 - I am comfortable diving head-first into moderately risky situations with relatively little upfront information and oversight.
 - I am confident making architectural decisions taking concerns like infrastructure, identity management, security, scalability, concurrency, and maintainability into consideration.
 - I am comfortable with transparently assessing risk, making recommendations, escalating appropriately, and dealing with the consequences along the way.
 - I am comfortable building a product vision based on the needs of multiple customers, regardless of whether this involves technology or otherwise.
-- I am proficient at leading software projects using agile practices.
-- I can confidently and charismatically pitch ideas, positively influencing my team to take decisive action based on reaching consensus.
+- I can confidently and charismatically pitch ideas, positively influencing people to take decisive action based on reaching consensus.
 - I am an adept communicator, and can effectively steer technical and non-technical conversations to positive outcomes over any medium.
 
-### I help our team focus on delivering value to our customers
+### I focus on delivering value to our customers
 
 - I invest in sustainable delivery, maintaining professional standards and striking a pragmatic balance between idealistic purity and business pressures.
 - I am typically the first to take responsibility for reducing waste in our process.
 - I am comfortable performing business analysis work. I help clarify our product vision and turn it into an ordered product backlog, or other form of requirements, collaborating with others to reach a shared understanding of what should be built, including acceptance criteria.
-- I recognise problems with my team and proactively engage with other people to prevent or resolve them quickly.
+- I recognise problems and proactively engage with other people to prevent or resolve them quickly.
 
 ### I am investing back into Octopus
 
@@ -135,4 +134,3 @@ As well as encompassing the qualities outlined in [Leadership](Leadership.md):
 - I devise strategies to make automated tests more accurate, reliable, reusable, and extendable.
 - I use code reviews to coach on how to improve our tests and apply better practices.
 - I introduce new testing tools and practices for faster feedback cycles across different layers of the product.
-
