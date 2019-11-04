@@ -133,9 +133,3 @@
 - I am actively involved in the retrospective process, and I am comfortable challenging and coaching my peers.
 - I am mentoring another engineer, deliberately helping them to round out their skill set.
 - I am sharing my on-the-job learning and experiences with others so they can be more effective in their roles, making sure others understand the solution throughout the process.
-
-## Engineering Manager
-
-> I lead groups of teams of engineers to deliver strategic engineering outcomes. This includes "ship a brand new idea to production", but also things like building a stable and maintainable Cloud platform, security capability, etc.
-
-Potentially leads more than one team, responsible for hiring/firing [TODO: needs clarification], and ultimately accountable for engineering outcomes of the team.
