@@ -108,7 +108,7 @@
 
 ## Solution Architect
 
-> I am a well-rounded developer, architect and problem solver. I can be trusted to take a brand new idea from inception to production, providing clarity and bringing people along with me throughout the process.
+> I am a well-rounded developer, architect and problem solver. I can be trusted to take a brand new idea from inception to production, bringing people along with me throughout the process and providing clarity for our team.
 
 ### I am trusted to ship a brand new idea to production with limited supervision
 
@@ -120,7 +120,7 @@
 - I can confidently and charismatically pitch ideas, positively influencing and convincing people to take decisive action based on reaching consensus.
 - I am an adept communicator, and can effectively steer technical and non-technical conversations to positive outcomes over any medium.
 
-### I focus on delivering value to our customers
+### I help our team focus on delivering value to our customers
 
 - I invest in sustainable delivery, maintaining professional standards and striking a pragmatic balance between idealistic purity and business pressures.
 - I am typically the first to take responsibility for reducing waste in our process.
