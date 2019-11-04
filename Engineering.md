@@ -53,12 +53,12 @@
 
 > I am a highly sought-after member of an Octopus team with a proven record of shipping high-quality code to production.
 
-### I am trusted to ship full products (or vertical slices of larger products) from idea to production
+### I am trusted to ship shaped pitches (or vertical slices of larger products) from idea to production
 
 - I am proficient with my tools and the core building blocks used by our team.
 - I can confidently step outside my comfort zone and adapt quickly to new technologies.
 - I am proficient at qualifying and reducing technical debt.
-- I am comfortable pulling together the Lego blocks of a full product.
+- I am comfortable pulling together the Lego blocks of a shaped pitches.
 - I am comfortable setting up an automated integration and delivery pipeline.
 - I am comfortable determining technical direction within brown-fields projects.
 - I know how to make pragmatic decisions in order to ship a product.
@@ -108,7 +108,7 @@
 
 ## Solution Architect
 
-> I am a well-rounded developer, architect and problem solver. I can be trusted to take a brand new idea from inception to production.
+> I am a well-rounded developer, architect and problem solver. I can be trusted to take a brand new idea from inception to production, providing clarity and bringing people along with me throughout the process.
 
 ### I am trusted to ship a brand new idea to production with limited supervision
 
@@ -117,7 +117,7 @@
 - I am confident making architectural decisions taking concerns like infrastructure, identity management, security, scalability, concurrency, and maintainability into consideration.
 - I am comfortable with transparently assessing risk, making recommendations, escalating appropriately, and dealing with the consequences along the way.
 - I am comfortable building a product vision based on the needs of multiple customers, regardless of whether this involves technology or otherwise.
-- I can confidently and charismatically pitch ideas, positively influencing people to take decisive action based on reaching consensus.
+- I can confidently and charismatically pitch ideas, positively influencing and convincing people to take decisive action based on reaching consensus.
 - I am an adept communicator, and can effectively steer technical and non-technical conversations to positive outcomes over any medium.
 
 ### I focus on delivering value to our customers
@@ -132,7 +132,7 @@
 - I am known as someone who looks for opportunities to invest back into Octopus.
 - I am actively involved in the retrospective process, and I am comfortable challenging and coaching my peers.
 - I am mentoring another engineer, deliberately helping them to round out their skill set.
-- I am sharing my on-the-job learning and experiences with others so they can be more effective in their roles.
+- I am sharing my on-the-job learning and experiences with others so they can be more effective in their roles, making sure others understand the solution throughout the process.
 
 ## Engineering Manager
 
