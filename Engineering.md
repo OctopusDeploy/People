@@ -98,7 +98,7 @@
 > I am trusted to autonomously lead people through complex problems with a proven record of delivering ideas from inception to their successful completion.
 > A Team Lead emcompasses all of the qualities listed in [Leadership](Leadership.md) and is usually combined with either a Senior Software Engineer or Solution Architect role.
 
-### I am trusted to lead a team of diverse technical roles (from Architects, Engineers, Designers and Testers) to ship full products to production
+### I am trusted to lead a team of diverse technical roles (from Architects, Engineers, Designers and Testers) to ship shaped pitches to production
 
 - I am a well-rounded leader of people, known for having a collaborative leadership style.
 - I am proficient at leading software projects using agile practices.
