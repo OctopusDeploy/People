@@ -58,7 +58,7 @@
 - I am proficient with my tools and the core building blocks used by our team.
 - I can confidently step outside my comfort zone and adapt quickly to new technologies.
 - I am proficient at qualifying and reducing technical debt.
-- I am comfortable pulling together the Lego blocks of a shaped pitches.
+- I am comfortable pulling together the Lego blocks of shaped pitches.
 - I am comfortable setting up an automated integration and delivery pipeline.
 - I am comfortable determining technical direction within brown-fields projects.
 - I know how to make pragmatic decisions in order to ship a product.
