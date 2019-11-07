@@ -111,7 +111,7 @@
 _We consider an engineering manager to be a full time role. See the [manager's handbook](https://octopushq.atlassian.net/wiki/spaces/IN/pages/628981849/Managers+at+Octopus)._
 
 > I take responsibility for a tribe of people in the engineering team and the results they ultimately deliver.
-> An Engineering Manager emcompasses all of the qualities listed in [Leadership](Leadership.md) and is usually a full-time role.
+> An Engineering Manager encompasses all of the qualities listed in [Leadership](Leadership.md) and is usually a full-time role.
 
 - I take ultimate responsibility for the people in my team and the results they deliver.
 - I empower my team to get things done and I drive results collaboratively.
