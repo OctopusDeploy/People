@@ -98,13 +98,28 @@
 > I am trusted to autonomously lead people through complex problems with a proven record of delivering ideas from inception to their successful completion.
 > A Team Lead emcompasses all of the qualities listed in [Leadership](Leadership.md) and is usually combined with either a Senior Software Engineer or Solution Architect role.
 
-### I am trusted to lead a team of diverse technical roles (from Architects, Engineers, Designers and Testers) to ship shaped pitches to production
+### I am trusted to lead a team of diverse technical roles (from Architects, Engineers, Designers, and Testers) to ship shaped pitches to production
 
 - I am a well-rounded leader of people, known for having a collaborative leadership style.
 - I am proficient at leading software projects using agile practices.
 - I am comfortable with transparently assessing risk, making recommendations, escalating appropriately, and dealing with the consequences along the way.
 - I can confidently and charismatically pitch ideas, positively influencing my team to take decisive action based on reaching consensus.
 - I am an adept communicator, and can effectively steer technical and non-technical conversations to positive outcomes over any medium.
+
+## Engineering Manager
+
+_We consider an engineering manager to be a full time role. See the [manager's handbook](https://octopushq.atlassian.net/wiki/spaces/IN/pages/628981849/Managers+at+Octopus)._
+
+> I take responsibility for a tribe of people in the engineering team and the results they ultimately deliver.
+> An Engineering Manager emcompasses all of the qualities listed in [Leadership](Leadership.md) and is usually a full-time role.
+
+- I take ultimate responsibility for the people in my team and the results they deliver.
+- I empower my team to get things done and I drive results collaboratively.
+- I recognise dysfunction in my team and work effectively to resolve it in a timely manner.
+- I help clarify the goals, roles, and execution plans for my team.
+- I help my team understand our strategy and how they are contributing to the big picture.
+- I proactively coach people, accelerating them along their personal growth trajectory.
+- I give radically candid feedback which is timely, actionable, and helpful. As a result, the feedback I give in performance reviews is rarely a surprise.
 
 ## Solution Architect
 
