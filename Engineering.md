@@ -113,13 +113,15 @@ _We consider an engineering manager to be a full time role. See the [manager's h
 > I take responsibility for a tribe of people in the engineering team and the results they ultimately deliver.
 > An Engineering Manager encompasses all of the qualities listed in [Leadership](Leadership.md) and is usually a full-time role.
 
-- I take ultimate responsibility for the people in my team and the results they deliver.
+- I take ultimate responsibility for the people in my team, the way they work, and the results they deliver.
 - I empower my team to get things done and I drive results collaboratively.
 - I recognise dysfunction in my team and work effectively to resolve it in a timely manner.
-- I help clarify the goals, roles, and execution plans for my team.
+- I clarify the goals, roles, and execution plans for my team.
 - I help my team understand our strategy and how they are contributing to the big picture.
 - I proactively coach people, accelerating them along their personal growth trajectory.
-- I give radically candid feedback which is timely, actionable, and helpful. As a result, the feedback I give in performance reviews is rarely a surprise.
+- I give radically candid feedback which is timely, actionable, and helpful.
+- The feedback I give in performance reviews is rarely a surprise because it summarises the timely, actionable, and helpful feedback my teammate has been receiving.
+- I am a net-positive contributor to how we approach people and culture in the engineering team, including hiring, firing, performance reviews, culture fit, salary reviews, and how we pay.
 
 ## Solution Architect
 
