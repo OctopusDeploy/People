@@ -3,7 +3,7 @@
 
 - I craft great user experiences that reduce cognitive load and improve task completion efficiency.
 - I design within brand and pattern guidelines and identify design debt to ensure consistency.
-- I apply design principles, UI heuristics, UX principles when crafting user experiences.
+- I apply the Octopus design principles when crafting user experiences.
 - I use UX research methods and testing results to drive decision making and improve outcomes while respecting existing conventions users are familiar with.
 - I consider the effect additional UI elements, patterns etc have on the existing user experience.
 - I seek to understand the real needs of my customers, and I am comfortable producing user stories and scenarios, user journeys and walkthroughs and prototypes to quickly validate ideas.
@@ -12,6 +12,5 @@
 - I help recognise UX problems early and offer solutions.
 - I am proficient at delivering designs using agile practices with engineers and determining UX and UI direction.
 - I collaborate with engineers and debate ideas, always working towards the best outcome for our users.
-
 
 
