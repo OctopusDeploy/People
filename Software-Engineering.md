@@ -1,4 +1,4 @@
-# Engineering Roles
+# Software Engineering Roles
 
 ## Software Engineer
 
@@ -34,28 +34,6 @@
 - Every venture has mundane tasks, and I work happily and diligently through them.
 - I go out of my way to develop a friendly and professional rapport with my customers and their team members.
 - My contributions to team discussions are net-positive, informative, and helpful.
-
-## Systems Engineer
-
-> I empower Software Engineers by optimizing infrastructure to increase developer velocity.
-
-### I am proficient in automating infrastructure deployments for on-premise and in the cloud
-
-- I can design and implement infrastructure as code.
-- I am becoming proficient with scripting languages.
-- I am familiar with implementing and supporting continuous integration and continuous delivery pipelines.
-- I am becoming proficient with virtualisation, containerisation, and serverless.
-- I am becoming proficient with network routing, interconnectivity, and addressesing.
-
-### I am able to break down and troubleshoot an issue to discover the root cause
-
-- I have a solid understanding of operating system, network, and security fundamentals.
-- I am able to filter out irrelevant data when looking at logs to find what is most important.
-
-### I am egoless, team oriented, and have a desire to learn and improve
-
-- Something about being security minded
-- Something about using the right tool for the job.
 
 ## Senior Software Engineer
 
@@ -100,14 +78,6 @@
 - I am devoted to learning; it's become a natural part of my life.
 - I am actively introspective and take time to work on my personal and professional development.
 - I happily take responsibility for my own mistakes and I learn from the mistakes of others.
-
-## Senior Systems Engineer
-
-> Woof
-
-### Woof
-
-- Woof
 
 ## Software Architect
 
