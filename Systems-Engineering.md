@@ -48,7 +48,7 @@
 
 ## Senior Systems Engineer
 
-> 
+> I am a well-rounded and, highly sought-after member, architect, problem solver, and leader of people.
 
 ### I am a technical mentor
 
@@ -56,17 +56,21 @@
 - I can effectively coach people, and pass on my knowledge.
 - I am a confident, and proficient teacher of my craft.
 
-### ?
+### Obstacles don't stop you. If you run into a wall, don't turn around and give up
 
-- I am proficient with my tools, and the core building blocks used by our team.
 - I can confidently step outside my comfort zone and adapt quickly to new technologies.
 - I am confident making architectural decisions taking concerns like infrastructure, identity management, security, scalability, concurrency, and maintainability into consideration.
 - I recognize and accept that change is constant, and my approach allows me to tactfully challenge, or confidently adapt, depending on which I deem appropriate.
+- I identify gaps in the implementation processes and product and collaborate with the team to improve the overall system design.
 
-### ?
+### I am proficient with my tools, and the core building blocks used by our team
 
-- 
+- I am proficient in automating, and designing infrastructure as code.
+- I am proficient with virtualization, containerization, and serverless technologies.
+- I am proficient with implementing, and supporting continuous integration, and continuous delivery pipelines.
 
-### ?
+### I am investing back into Octopus
 
-- 
+- I am known as someone who looks for opportunities to invest back into Octopus.
+- I am actively involved in the retrospective process, and I am comfortable challenging and coaching my peers.
+- I am mentoring another engineer, deliberately helping them to round out their skill set.
