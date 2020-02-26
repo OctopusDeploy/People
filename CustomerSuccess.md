@@ -1,69 +1,74 @@
 # Customer Success Roles
 
+## Continuous Delivery Analyst
+
+> I am leveling up my knowledge of Continuous Delivery and Octopus Deploy.
+
+### I help our customers
+- I am learning about Octopus Deploy by helping our customers.
+- I pair with a senior member of the team to answer customer questions.
+- I am learning how to produce content to help our self-learning customers.
+- I am learning how to help customers 1:1.
+
+### I am recognized by my desire to learn and my motivation to improve
+- I am learning, maybe through a variety of ways like reading books, reading code, trying and shipping ideas, watching online courses, attending conferences or user group meetings.
+- I am discussing the things I'm learning about or experimenting on with my teammates, maybe even collaborating on the experience.
+- I take my individual growth seriously and realise it is valuable to both myself and to Octopus.
+- I reach out to my peers and leadership group to develop my personal growth plan.
+- I am a self-managing team member, I make and keep my commitments using the privilege of flexibility wisely.
+
+### I am an egoless, team oriented developer
+- Other team members genuinely want me on their team.
+- I happily take responsibility for what I produce.
+- I avoid going dark and I know when to call out for help.
+- I communicate professionally and keep stake holders engaged at all times.
+- I am well aware of all processes of the team and diligently follow them
+- Even when I disagree with something I continue to work enthusiastically, learning from the others in the team.
+- Every venture has mundane tasks, and I work happily and diligently through them.
+- I go out of my way to develop a friendly and professional rapport with my customers and their team members.
+- My contributions to team discussions are net-positive, informative, and helpful.
+
+## Continuous Delivery Engineer
+
+> I have extensive knowledge of Continuous Delivery with limited experience with Octopus Deploy.
+
+### I help our customers
+- I am learning about Octopus Deploy by helping our customers.
+- I am comfortable producing content based on questions from customers.
+- I am confident I can help most customers who reaches out to us for help. 
+- I recongize when I need to reach out for additional help to level-up my learning.
+
+### I am a customer advocate inside Octopus Deploy
+- I speak for our customers when new features are discussed and designed
+- I share feedback, both positive and negative, with everyone
+- I am learning how to dig into customer questions and get to the core problem.
+
 ## Continuous Delivery Architect
 
 > I am a Octopus Deploy / Continuous Delivery expert customers can leverage to help them be successful.
 
-### I am a Technical Account Manager
+### I help our customers
+- I am an expert in Octopus Deploy.  
+- I proactively reach out to customers rather than waiting on them to reach out to me.
+- I mentor others in how to best solve customer's problems.
+- I am pragmatic with my solutions I give to customers.  I know from experience we can't ask people to make wholesale changes quickly.
 
-- I am assigned as a Technical Account Manager for a specific set of customers
-- I build healthy one-on-one relationships with my assigned customers
-- I work with my customers to ensure they are successful using Octopus Deploy
-- I take any feature requests from my customers and discuss them with engineering
-- When possible I help triage bugs to ensure they can be fixed in a timely manner
-- I am a problem solver, I try to find the best solution with the license the customer has, not try to upsell them
+### I am a customer advocate inside Octopus Deploy
+- I am comfortable writing pitches or feature requests to extend Octopus Deploy.
+- I can dig into a customer's request and find the core problem they are trying to solve.
 
-### I am a Customer Advocate with my interactions with Engineering
+## Senior Continuous Delivery Architect
 
-- I speak for our customers when new features are discussed and designed
-- I work with engineering in setting a priority on new features
-- I share feedback, both positive and negative, with everyone
-
-### I am a Developer Advocate for our customers
-
-- When possible I create content to help all customers, not just customers I am assigned to as a Technical Account Manager
-- I have the freedom to choose what kind of content is created (Blog, Webinar, Book, Video, etc)
-- If I am comfortable with public speaking, I have the freedom to speak at conferences and user groups
-- I am willing to take risks and try new ideas to help our customers
-
-### I am flexible and team-oriented 
-
-- I provide sales demos when a customer asks for one
-- Although not my area of expertise, I can have pricing discussions with customers
-- I help answer sales tickets and support tickets when needed
-- I know some days will be spent talking to a lot of customers, while other days will be spent producing content, it is my responsibility to make that a healthy balance
-
-## Account Manager
-
-> I am a sales expert who can navigate the trickiest of deals
-
-### I am a Account Manager
-
-- I help our customer's procurement teams purchase Octopus Deploy
-- I help create multi-year deals for our customers
-- I am the one our customer's look to when they need answers to their purchasing questions
-- I know our product well enough to help our customers buy the right sized license based on their needs
-- I help customers understand the key differences between license tiers
-- I follow up on quotes and invoices for sales in my assigned region
-
-### I am a Sales Mentor
-
-- I am a sounding board for my non-sales teammates
-- I can jump in and help out on sales tickets, even for customers not in my region
-
-## Sales Administrator
-
-> I am the person who makes sure all every sale is processed correctly
+> I am a leader on the team who helps guide the direction of everyone.
 
 ## I help our customers
+- I mentor others on how to solve the toughest customer problems.
+- I am able to dig in quickly and find the core problem and offer solutions and work-arounds.
 
-- I help create quotes for resellers and customers
-- I process invoices for resellers and customers
-- I help our customers make informed purchasing decisions
-- I know our product well enough to help our customers buy the right sized license based on their needs
-- I help customers understand the key differences between license tiers
-- I ensure every sales ticket is answered each business day (either by answering them or making sure they are assigned)
-- I help extend trials for customers working on a POC
-- I process all free license requests 
-- I ensure all sales systems are in sync
-- I am responsible for maintaining our Customer's NDAs and which customers don't want to be included in advertising
+## I am a leader
+- I see the big picture, and come up with ideas of how best help our customers in new ways.
+- I am comfortable with transparently assessing risk, making recommendations, escalating appropriately, and dealing with the consequences along the way.
+- I can confidently and charismatically pitch ideas, positively influencing my team to take decisive action based on reaching consensus.
+- I am a mentor, a person anyone on the team can come to provide guidance or bounce ideas off of.
+- I share my experiences with everyone to help the team learn and grow their skill-set.
+- I am actively involved in the retrospective process, and I am comfortable challenging and coaching my peers.
