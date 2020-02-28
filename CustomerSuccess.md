@@ -80,3 +80,5 @@
 - I share my experiences with everyone to help the team learn and grow their skill-set.
 - I am actively involved in the retrospective process, and I am comfortable challenging and coaching my peers.
 - I am an adept communicator, and can effectively steer technical and non-technical conversations to positive outcomes over any medium.
+- I am comfortable with taking the lead on an idea and making all the little decisions that must be made for the idea to succeed.
+- I am confident in making decisions with the information on hand, and making adjustments as new information becomes available.
