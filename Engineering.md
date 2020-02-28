@@ -1,5 +1,38 @@
 # Engineering Roles
 
+## Junior Engineer
+
+> I am an enthusiastic learner, continually improving my value to an Octopus team.
+
+### I am an egoless, team oriented developer
+
+- Other team members genuinely want me on their team.
+- I happily take responsibility for what I produce.
+- I avoid going dark and I know when to call out for help.
+- I communicate professionally and keep stake holders engaged at all times.
+- I am well aware of all processes of the team and diligently follow them (like maintaining accurate documentation, maintaining tests, and so on).
+- Even when I disagree with something I continue to work enthusiastically, learning from the others in the team.
+- Every venture has mundane tasks, and I work happily and diligently through them.
+- I go out of my way to develop a friendly and professional rapport with my customers and their team members.
+- My contributions to team discussions are net-positive, informative, and helpful.
+
+### I am establishing my ability to write and ship high quality code
+
+- I am learning to write the correct code; code that meets my team's needs.
+- I am learning about complexity and its tradeoffs during software delivery.
+- I am learning to identify good and bad patterns in everyday code. 
+- I am learning how to write automated tests.
+- I am learning about the tools and core building blocks used by our team.
+- I am focussing myself on quality over delivery speed.
+
+### I am establishing my desire to learn and my motivation to improve
+
+- I actively participate in a school to ensure I am maximizing learning opportunities.
+- I reach out to my peers and leadership group to develop my personal growth plan.
+- I take my individual growth seriously and realise it is valuable to both myself and to Octopus.
+- I am learning to become a self-managing team member, I manage my commitments with the help of my leadership group.
+- I am learning about agile practices and doing my best to apply that knowledge whenever I can.
+
 ## Software Engineer
 
 > I am a valuable, enthusiastic and net-positive member of an Octopus team.
@@ -13,27 +46,15 @@
 - I am learning how to pull together the Lego blocks of a product.
 - I am learning how to set up a build and delivery pipeline.
 - I am writing the correct code; code that meets my team's needs.
+- I am learning how to cut scope, make tradeoffs and deliver code quickly.
 
 ### I am recognised by my desire to learn and my motivation to improve
 
 - I am learning, maybe through a variety of ways like reading books, reading code, trying and shipping ideas, watching online courses, attending conferences or user group meetings.
 - I am discussing the things I'm learning about or experimenting on with my teammates, maybe even collaborating on the experience.
-- I take my individual growth seriously and realise it is valuable to both myself and to Octopus.
-- I reach out to my peers and leadership group to develop my personal growth plan.
+- I have a track record of achieving the goals on my personal growth plan.
 - I am a self-managing team member, I make and keep my commitments using the privilege of flexibility wisely.
 - I am applying agile practices in my day to day work, and I am beginning to understand why they are important to software development
-
-### I am an egoless, team oriented developer
-
-- Other team members genuinely want me on their team.
-- I happily take responsibility for what I produce.
-- I avoid going dark and I know when to call out for help.
-- I communicate professionally and keep stake holders engaged at all times.
-- I am well aware of all processes of the team and diligently follow them (like maintaining accurate documentation, maintaining tests, and so on).
-- Even when I disagree with something I continue to work enthusiastically, learning from the others in the team.
-- Every venture has mundane tasks, and I work happily and diligently through them.
-- I go out of my way to develop a friendly and professional rapport with my customers and their team members.
-- My contributions to team discussions are net-positive, informative, and helpful.
 
 ## Quality Assurance Engineer
 
