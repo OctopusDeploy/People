@@ -46,7 +46,7 @@
 - I am learning how to pull together the Lego blocks of a product.
 - I am learning how to set up a build and delivery pipeline.
 - I am writing the correct code; code that meets my team's needs.
-- I am learning how to cut scope, make tradeoffs and deliver code quickly.
+- I am learning how to hammer scope, make tradeoffs and deliver code quickly.
 
 ### I am recognised by my desire to learn and my motivation to improve
 
