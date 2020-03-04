@@ -10,7 +10,7 @@
 - I happily take responsibility for what I produce.
 - I avoid going dark and I know when to call out for help.
 - I communicate professionally and keep stake holders engaged at all times.
-- I am well aware of all processes of the team and diligently follow them (like maintaining accurate documentation, maintaining tests, and so on).
+- I am learning about the processes of the team and do my best to follow them, with the help of others around me.
 - Even when I disagree with something I continue to work enthusiastically, learning from the others in the team.
 - Every venture has mundane tasks, and I work happily and diligently through them.
 - I go out of my way to develop a friendly and professional rapport with my customers and their team members.
@@ -36,6 +36,11 @@
 ## Software Engineer
 
 > I am a valuable, enthusiastic and net-positive member of an Octopus team.
+
+### I am an egoless, team oriented developer
+
+- I am well aware of all processes of the team and diligently follow them (like maintaining accurate documentation, maintaining tests, and so on).
+
 
 ### I write high quality code quickly and ship it to production
 
