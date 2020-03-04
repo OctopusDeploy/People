@@ -27,7 +27,7 @@
 
 ### I am establishing my desire to learn and my motivation to improve
 
-- I actively participate in a school to ensure I am maximizing learning opportunities.
+- I actively seek out learning opportunities that align with my chosen career direction and current skill set.
 - I reach out to my peers and leadership group to develop my personal growth plan.
 - I take my individual growth seriously and realise it is valuable to both myself and to Octopus.
 - I am learning to become a self-managing team member, I manage my commitments with the help of my leadership group.
