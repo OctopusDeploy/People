@@ -32,6 +32,7 @@
 - I am familiar with implementing, and supporting continuous integration, and continuous delivery pipelines.
 - I am becoming proficient with scripting languages.
 - I can implement security measures for the protection of systems, networks, and information.
+- I have an interest in learning .NET fundamentals so that I can contribute to the Octopus Cloud codebase.
 
 ### I am able to break down, and troubleshoot an issue to discover the root cause
 
@@ -43,7 +44,7 @@
 
 - I am a self-managing team member, I make and keep my commitments using the privilege of flexibility wisely.
 - I happily take responsibility for what I produce.
-- I avoid going dark and I know when to call out for help.
+- I avoid going dark, and I know when to call out for help.
 - I understand the importance of using the right tool for the job.
 
 ## Senior Systems Engineer
@@ -60,8 +61,8 @@
 
 - I can confidently step outside my comfort zone and adapt quickly to new technologies.
 - I am confident making architectural decisions taking concerns like infrastructure, identity management, security, scalability, concurrency, and maintainability into consideration.
-- I recognize and accept that change is constant, and my approach allows me to tactfully challenge, or confidently adapt, depending on which I deem appropriate.
-- I identify gaps in the implementation processes and product and collaborate with the team to improve the overall system design.
+- I recognize, and accept that change is constant, and my approach allows me to tactfully challenge, or confidently adapt, depending on which I deem appropriate.
+- I identify gaps in the implementation processes, and product and collaborate with the team to improve the overall system design.
 
 ### I am proficient with my tools, and the core building blocks used by our team
 
