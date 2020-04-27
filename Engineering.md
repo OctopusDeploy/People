@@ -23,12 +23,12 @@
 - I am a self-managing team member, I make and keep my commitments using the privilege of flexibility wisely.
 - I am applying agile practices in my day to day work, and I am beginning to understand why they are important to software development
 
-### I am an egoless, team oriented developer
+### I am an egoless, team-oriented  developer
 
 - Other team members genuinely want me on their team.
 - I happily take responsibility for what I produce.
 - I avoid going dark and I know when to call out for help.
-- I communicate professionally and keep stake holders engaged at all times.
+- I communicate professionally and keep stakeholders engaged at all times.
 - I am well aware of all processes of the team and diligently follow them (like maintaining accurate documentation, maintaining tests, and so on).
 - Even when I disagree with something I continue to work enthusiastically, learning from the others in the team.
 - Every venture has mundane tasks, and I work happily and diligently through them.
@@ -71,7 +71,7 @@
 - Every venture has mundane tasks, but I'm the one that can be trusted to get them done and get them done right, and usually with a handful of ingenuity.
 - I recognize and accept that change is constant, and my approach allows me to tactfully challenge, or confidently adapt, depending on which I deem appropriate.
 - I have proven I can decompose larger requirements into smaller, more manageable pieces, to deliver functionality in an incremental and iterative manner.
-- I possess writing skills that let me be clear, concise, articulate, and persuasive in all of my outgoing communications.
+- I possess writing skills that let me be clear, concise, articulate, and persuasive.
 
 ### I've become a student of my craft
 
