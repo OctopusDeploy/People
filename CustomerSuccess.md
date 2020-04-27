@@ -36,7 +36,7 @@
 - I am learning about Octopus Deploy by helping our customers.
 - I am comfortable producing content based on questions from customers.
 - I am confident I can help most customers who reaches out to us for help. 
-- I recongize when I need to reach out for additional help to level-up my learning.
+- I recognize when I need to reach out for additional help to level-up my learning.
 
 ### I am a customer advocate inside Octopus Deploy
 - I speak for our customers when new features are discussed and designed
