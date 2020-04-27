@@ -28,7 +28,7 @@
 ### I am an egoless, team-oriented person
 - Product development teams genuinely want my assistance with their projects.
 - I can effectively coach multiple teams in the same cycle knowing we are aiming for a 1:10 ratio of quality coaches to developers.
-- I communicate professionally and keep stakeholders engaged at all times.
+- I communicate clearly and keep stakeholders engaged at all times.
 - Even when I disagree with something I continue to work enthusiastically, learning from the others in the team.
 - Every venture has mundane tasks, and I work happily and diligently through them.
 - I go out of my way to develop a friendly and professional rapport with the teams I am coaching.
