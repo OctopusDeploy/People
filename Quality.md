@@ -17,7 +17,7 @@
 - When it comes to software quality, I have strong opinions loosely held, and I effective at building consensus.
 - I help product teams make pragmatic decisions in order to balance scope and quality within the constraints of fixed project timelines.
 
-### I ensure Octopus teams can ship with confidence
+### I help Octopus teams ship with confidence
 
 - I am an advocate for quality.
 - I help engineers refine requirements and identify the optimal kind, level, and timing for testing.
