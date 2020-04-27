@@ -17,13 +17,13 @@
 ### I ensure Octopus teams can ship with confidence
 
 - I am an advocate for quality.
-- I help engineers refine requirements and identify the right level of testing
+- I help engineers refine requirements and identify the optimal kind, level, and timing for testing.
 - I use customer’s feedback and data to measure our level of quality.
 - I identify gaps in the quality processes and collaborate with the team to close those gaps.
 - I introduce new testing practices for faster feedback cycles.
 
-### I am an egoless, team oriented developer
-- Other team members genuinely want me on their team.
+### I am an egoless, team-oriented person
+- Other team members genuinely want my assistance with their projects.
 - I communicate professionally and keep stake holders engaged at all times.
 - Even when I disagree with something I continue to work enthusiastically, learning from the others in the team.
 - Every venture has mundane tasks, and I work happily and diligently through them.
