@@ -45,7 +45,7 @@
 
 - I am able to filter out irrelevant data when looking at logs to find what is most important.
 - I communicate professionally, and keep stake holders engaged at all times.
-- I understand the importance of, and can write a clear and concise post-mortem of an incident.
+- I undersrand the importance of, and how to write a clear, and consise incident post-mortem.
 
 ### I am egoless, and team oriented
 
