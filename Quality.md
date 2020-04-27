@@ -30,5 +30,5 @@
 - I communicate professionally and keep stakeholders engaged at all times.
 - Even when I disagree with something I continue to work enthusiastically, learning from the others in the team.
 - Every venture has mundane tasks, and I work happily and diligently through them.
-- I go out of my way to develop a friendly and professional rapport with my customers and their team members.
+- I go out of my way to develop a friendly and professional rapport with the teams I am coaching.
 - My contributions to team discussions are net-positive, informative, and helpful.
