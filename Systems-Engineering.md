@@ -2,14 +2,14 @@
 
 ## Junior Systems Engineer
 
-> I am learning to design and optimize infrastructure.
+> I am learning about the responsibilities of designing, and implementing infrastructure
 
 ### I am recognised by my desire to learn, and my motivation to improve
 
-- I am curious about new, and emerging, technologies.
+- I am curious about new, and emerging technologies.
 - I actively seek learning opportunities, and enjoy sharing what I have learned.
 - I take my individual growth seriously, and realise it is valuable to both myself, and to Octopus.
-- I reach out to my peers and leadership group to develop my personal growth plan.
+- I reach out to my peers, and leadership group to develop my personal growth plan.
 - Every venture has mundane tasks, and I work happily, and diligently through them.
 
 ### Get the fundamentals down, and the level of everything you do will rise
@@ -18,13 +18,13 @@
 - I am learning how to design and implement infrastructure as code.
 - I am learning about virtualization, containerization, and serverless technologies.
 - I am learning about continuous integration, and continuous delivery.
-- I collaborate with my colleagues to write detailed, and clear documentation.
+- I am learning how to write clear, and structured documentation.
 
 ### I am learning to troubleshoot an issue to discover the root cause
 
 - I understand the concept of filtering out irrelevant data when looking at logs to find what is most important.
 - I am learning to communicate professionally, including how to keep stake holders engaged at all times.
-- I am learning the importance of, and how to write, a clear and concise post-mortem of an incident.
+- I am learning the importance of, and how to write a clear, and consise incident post-mortem.
 
 ## Systems Engineer
 

@@ -35,16 +35,30 @@
 - I go out of my way to develop a friendly and professional rapport with my customers and their team members.
 - My contributions to team discussions are net-positive, informative, and helpful.
 
+## Quality Assurance Engineer
+
+> I work with Octopus team members to improve the overall quality of the Octopus ecosystem.
+
+### I ensure Octopus can ship with confidence
+
+- I contribute and provide feedback to product, design, and engineering activities so that the product is user-friendly, efficient, consistent, robust, and useful to customers.
+- I use customer’s feedback and data to determine potential issues and apply it to improve future deliveries.
+- I identify gaps in the implementation processes and product and collaborate with the team to improve the overall system design.
+- I help other team members to achieve better business value.
+- I devise strategies to make automated tests more accurate, reliable, reusable, and extendable.
+- I use code reviews to coach on how to improve our tests and apply better practices.
+- I introduce new testing tools and practices for faster feedback cycles across different layers of the product.
+
 ## Senior Software Engineer
 
 > I am a highly sought-after member of an Octopus team with a proven record of shipping high-quality code to production.
 
-### I am trusted to ship full products (or vertical slices of larger products) from idea to production
+### I am trusted to ship shaped pitches (or vertical slices of larger products) from idea to production
 
 - I am proficient with my tools and the core building blocks used by our team.
 - I can confidently step outside my comfort zone and adapt quickly to new technologies.
 - I am proficient at qualifying and reducing technical debt.
-- I am comfortable pulling together the Lego blocks of a full product.
+- I am comfortable pulling together the Lego blocks of shaped pitches.
 - I am comfortable setting up an automated integration and delivery pipeline.
 - I am comfortable determining technical direction within brown-fields projects.
 - I know how to make pragmatic decisions in order to ship a product.
@@ -79,20 +93,18 @@
 - I am actively introspective and take time to work on my personal and professional development.
 - I happily take responsibility for my own mistakes and I learn from the mistakes of others.
 
-## Software Architect
+## Solution Architect
 
-> I am a well-rounded developer, architect, problem solver, and leader of people. I can be trusted to take a brand new idea from inception to production with a small group of people.
+> I am a well-rounded developer, architect and problem solver. I can be trusted to take a brand new idea from inception to production, bringing people along with me throughout the process and providing clarity for our team.
 
-### I am trusted to lead a small team (of up to 3) to ship a brand new idea to production with limited supervision
+### I am trusted to ship a brand new idea to production with limited supervision
 
-- I am maturing as a leader of people.
-- I can confidently step outside my comfort zone and adapt quickly to new team situations.
+- I can confidently step outside my comfort zone and adapt quickly to new situations.
 - I am comfortable diving head-first into moderately risky situations with relatively little upfront information and oversight.
 - I am confident making architectural decisions taking concerns like infrastructure, identity management, security, scalability, concurrency, and maintainability into consideration.
 - I am comfortable with transparently assessing risk, making recommendations, escalating appropriately, and dealing with the consequences along the way.
 - I am comfortable building a product vision based on the needs of multiple customers, regardless of whether this involves technology or otherwise.
-- I am proficient at leading software projects using agile practices.
-- I can confidently and charismatically pitch ideas, positively influencing my team to take decisive action based on reaching consensus.
+- I can confidently and charismatically pitch ideas, positively influencing and convincing people to take decisive action based on reaching consensus.
 - I am an adept communicator, and can effectively steer technical and non-technical conversations to positive outcomes over any medium.
 
 ### I help our team focus on delivering value to our customers
@@ -100,25 +112,41 @@
 - I invest in sustainable delivery, maintaining professional standards and striking a pragmatic balance between idealistic purity and business pressures.
 - I am typically the first to take responsibility for reducing waste in our process.
 - I am comfortable performing business analysis work. I help clarify our product vision and turn it into an ordered product backlog, or other form of requirements, collaborating with others to reach a shared understanding of what should be built, including acceptance criteria.
-- I recognise problems with my team and proactively engage with other people to prevent or resolve them quickly.
+- I recognise problems and proactively engage with other people to prevent or resolve them quickly.
 
 ### I am investing back into Octopus
 
 - I am known as someone who looks for opportunities to invest back into Octopus.
 - I am actively involved in the retrospective process, and I am comfortable challenging and coaching my peers.
 - I am mentoring another engineer, deliberately helping them to round out their skill set.
-- I am sharing my on-the-job learning and experiences with others so they can be more effective in their roles.
+- I am sharing my on-the-job learning and experiences with others so they can be more effective in their roles, making sure others understand the solution throughout the process.
 
-## Quality Assurance Engineer
+## Team Lead
 
-> I work with Octopus team members to improve the overall quality of the Octopus ecosystem.
+> I am trusted to autonomously lead people through complex problems with a proven record of delivering ideas from inception to their successful completion.
+> A Team Lead emcompasses all of the qualities listed in [Leadership](Leadership.md) and is usually combined with either a Senior Software Engineer or Solution Architect role.
 
-### I ensure Octopus can ship with confidence
+### I am trusted to lead a team of diverse technical roles (from Architects, Engineers, Designers, and Testers) to ship shaped pitches to production
 
-- I contribute and provide feedback to product, design, and engineering activities so that the product is user-friendly, efficient, consistent, robust, and useful to customers.
-- I use customer’s feedback and data to determine potential issues and apply it to improve future deliveries.
-- I identify gaps in the implementation processes and product and collaborate with the team to improve the overall system design.
-- I help other team members to achieve better business value.
-- I devise strategies to make automated tests more accurate, reliable, reusable, and extendable.
-- I use code reviews to coach on how to improve our tests and apply better practices.
-- I introduce new testing tools and practices for faster feedback cycles across different layers of the product.
+- I am a well-rounded leader of people, known for having a collaborative leadership style.
+- I am proficient at leading software projects using agile practices.
+- I am comfortable with transparently assessing risk, making recommendations, escalating appropriately, and dealing with the consequences along the way.
+- I can confidently and charismatically pitch ideas, positively influencing my team to take decisive action based on reaching consensus.
+- I am an adept communicator, and can effectively steer technical and non-technical conversations to positive outcomes over any medium.
+
+## Engineering Manager
+
+_We consider an engineering manager to be a full time role building on top of the Solution Architect role. See the [manager's handbook](https://octopushq.atlassian.net/wiki/spaces/IN/pages/628981849/Managers+at+Octopus)._
+
+> I take responsibility for a tribe of people in the engineering team and the results they ultimately deliver.
+> An Engineering Manager encompasses all of the qualities listed in [Leadership](Leadership.md) and is usually a full-time role.
+
+- I take ultimate responsibility for the people in my team, the way they work, and the results they deliver.
+- I empower my team to get things done and I drive results collaboratively.
+- I recognise dysfunction in my team and work effectively to resolve it in a timely manner.
+- I clarify the goals, roles, and execution plans for my team.
+- I help my team understand our strategy and how they are contributing to the big picture.
+- I proactively coach people, accelerating them along their personal growth trajectory.
+- I give radically candid feedback which is timely, actionable, and helpful.
+- The feedback I give in performance reviews is rarely a surprise because it summarises the timely, actionable, and helpful feedback my teammate has been receiving.
+- I am a net-positive contributor to how we approach people and culture in the engineering team, including hiring, firing, performance reviews, culture fit, salary reviews, and how we pay.
