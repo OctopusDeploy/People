@@ -21,11 +21,13 @@
 ### I am recognised for my communication skills   
 
 - I am an information honey bee, helping all the teams at Octopus connect the dots 
-- I communicate clearly, in the best places, at the best times. That probably means I communicate a _lot_!
+- I communicate clearly, in the right places, at the right times. That probably means I communicate a _lot_!
 - I am passionate and persuasive when discussing product direction 
 - I help the marketing team to tell a compelling story
 
 ### I play a key role in delivering software that users love 
 
 - I am influential in shaping pitches which progress the product in a direction which aligns with company strategy
+- I help the development team to understand the level of polish required in different areas: i.e. minimal/viable/complete/lovable 
+- I am decisive, but always willing to listen. I have strong opinions, weakly held.   
 - I am valued by development teams, and help to deliver a higher quality product
