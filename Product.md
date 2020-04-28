@@ -21,7 +21,7 @@
 ### I am recognised for my communication skills   
 
 - I am an information honey bee, helping all the teams at Octopus connect the dots 
-- I communicate clearly, and I communicate a _lot_
+- I communicate clearly, in the best places, at the best times. That probably means I communicate a _lot_!
 - I am passionate and persuasive when discussing product direction 
 - I help the marketing team to tell a compelling story
 
