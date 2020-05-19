@@ -87,33 +87,24 @@ The Lead Support Engineer role builds upon the foundation of the Support Enginee
 
 > I am a technical leader, a person that is recognised both within the Support team and as part of the wider Octopus community for the breadth and depth of your technical ability.
 
-### I am trusted to delight our customers with every interaction
+### I am trusted
 
 - I have mastered my tools and the core building blocks used by our team.
 - I have a a deep technical understanding of more than one area of Octopus, and can confidently use this knowledge to assist customers and fellow support team members in all areas of Octopus.
 - I know when it makes sense to push back against a customer, and when it is appropriate to not create an issue
+- I know how to mentor a customer to the best path, and understand that what they are asking for may not be what they need
 
 
-### I am a technical support mentor
+### I am a mentor of mentors
 
 - I know when to assist with a ticket, and when to push to encourage others to learn more.
 - I help others in my team to become mentors.
 - I am always on the lookout for opportunities to teach and show others alternate, cleaner ways to delight our customers in an ego-less manner. 
 - I am working to improve our processes, making it easier for everyone in our team to grow and learn.
 
-### I am focussed on the success of my team and my customers, without the need to boost my ego
 
-- I add value to my team by being a trusted, proactive supporter of my team and its leadership, and by delivering high quality work with a minimum of fuss.
-- I seek to understand the real needs of my customers, and I am comfortable selecting the best approach to best serve those needs (including saying no).
-- I recognise problems early and get in and fix them regardless of whose fault it is.
-- I am good at recognising problems outside the scope of my work and eagerly get involved in improving our product, our environment, and our processes.
-- I happily tackle all problems regardless of difficulty.
-- Every venture has mundane tasks, but I'm the one that can be trusted to get them done and get them done right, and usually with a handful of ingenuity.
-- I recognize and accept that change is constant, and my approach allows me to tactfully challenge, or confidently adapt, depending on which I deem appropriate.
-- I possess writing skills that let me be clear, concise, articulate, and persuasive in all of my outgoing communications.
+### Everything is a learning oppurtunity
 
-### I've become a student of my craft
-
-- I am constantly learning new technologies that relate to Octopus.
-- I am working with teams outside of Support to further enhance my knowledge
+- I am constantly learning new technologies and methodologies that relate to Octopus.
+- I work with teams outside of Support to further enhance my knowledge
 - I happily take responsibility for my own mistakes and I learn from the mistakes of others.
