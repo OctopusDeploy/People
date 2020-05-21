@@ -92,7 +92,7 @@ The Lead Support Engineer role builds upon the foundation of the Support Enginee
 - I have mastered my tools and the core building blocks used by our team.
 - I have a deep technical understanding of more than one area of Octopus, and I can confidently use this knowledge to assist customers and fellow support team members in all areas of Octopus.
 - I know when it makes sense to push back against a customer, and when it is appropriate to not create an issue
-- I know how to mentor a customer to the best path, and understand that what they are asking for may not be what they need
+- I know how to mentor a customer to the best path, and I understand that the customer's stated issue and the actual issue might not be the same thing
 - I am trusted across Octopus Deploy and have established good working relationships across the organization, and I co-ordinate our response to complicated support issues by pulling in the right people at the right time.
 
 ### I am a mentor of mentors
