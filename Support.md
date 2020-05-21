@@ -93,18 +93,24 @@ The Lead Support Engineer role builds upon the foundation of the Support Enginee
 - I have a deep technical understanding of more than one area of Octopus, and I can confidently use this knowledge to assist customers and fellow support team members in all areas of Octopus.
 - I know when it makes sense to push back against a customer, and when it is appropriate to not create an issue
 - I know how to mentor a customer to the best path, and I understand that the customer's stated issue and the actual issue might not be the same thing
-- I am trusted across Octopus Deploy and have established good working relationships across the organization, and I co-ordinate our response to complicated support issues by pulling in the right people at the right time.
+
+### I lead technically
+
+- I am trusted across Octopus Deploy and have established good working relationships across the organization, and I co-ordinate our response to complicated support issues by pulling in the right people and teams at the right time.
+- I actively research and implement technical solutions to improve our response times
+- I confidently, accurately, and quickly replicate complex deployment scenarios to assist with issue replication and resolution 
 
 ### I am a mentor of mentors
 
-- I know when to assist with a ticket, and when to push to encourage others to learn more.
+- I know when to directly assist with a ticket, and when to encourage others to learn more.
+- I encourage others to find creative solutions to problems and accept that my way isn't the only way.
 - I help others in my team to become mentors.
 - I am always on the lookout for opportunities to teach and show others alternate, cleaner ways to delight our customers in an ego-less manner. 
 - I am working to improve our processes, making it easier for everyone in our team to grow and learn.
-
 
 ### Everything is a learning oppurtunity
 
 - I am constantly learning new technologies and methodologies that relate to Octopus.
 - I work with teams outside of Support to further enhance my knowledge
 - I happily take responsibility for my own mistakes and I learn from the mistakes of others.
+- I share the lessons I learn so the entire team and Octopus can benefit
