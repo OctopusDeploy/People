@@ -14,7 +14,7 @@
 - I help teams to achieve better business value.
 - I recognize and accept that change is constant, and my approach allows me to tactfully challenge, or confidently adapt, depending on which I deem appropriate.
 - I possess writing skills that let me be clear, concise, articulate, and persuasive.
-- When it comes to software quality, I have strong opinions loosely held, and I effective at building consensus.
+- When it comes to software quality, I have strong opinions loosely held, and I am effective at building consensus.
 - I help product teams make pragmatic decisions in order to balance scope and quality within the constraints of fixed project timelines.
 
 ### I help Octopus teams ship with confidence
