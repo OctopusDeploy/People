@@ -1,8 +1,10 @@
 # Software Engineering Roles
 
-## Software Engineer
+## Junior Software Engineer / Software Engineer
 
-> I am a valuable, enthusiastic and net-positive member of an Octopus team.
+_We avoid distinguishing too much between the Junior Software Engineer and Software Engineer. These roles are primarily focused on learning with the aim to grow into the contribution of a Senior Software Engineer or beyond. The primary indicator inside these levels is how far you are along your journey from dependent contribution to independent contribution._
+
+> I am a valuable and enthusiastic member of an Octopus team. I show great potential and have a high growth trajectory toward independent contribution.
 
 ### I write high quality code quickly and ship it to production
 
@@ -33,9 +35,9 @@
 - Even when I disagree with something I continue to work enthusiastically, learning from the others in the team.
 - Every venture has mundane tasks, and I work happily and diligently through them.
 - I go out of my way to develop a friendly and professional rapport with my customers and their team members.
-- My contributions to team discussions are net-positive, informative, and helpful.
+- My contributions to team discussions are positive, informative, and helpful.
 
-## Quality Assurance Engineer
+## Quality Coach
 
 > I work with Octopus team members to improve the overall quality of the Octopus ecosystem.
 
@@ -93,9 +95,9 @@
 - I am actively introspective and take time to work on my personal and professional development.
 - I happily take responsibility for my own mistakes and I learn from the mistakes of others.
 
-## Solution Architect
+## Lead Software Engineer
 
-> I am a well-rounded developer, architect and problem solver. I can be trusted to take a brand new idea from inception to production, bringing people along with me throughout the process and providing clarity for our team.
+> I am a well-rounded developer, architect and problem solver. I can be trusted to take a brand new idea from inception to production, bringing people along with me throughout the process and providing clarity for our team. I am trusted to autonomously lead people through complex problems with a proven record of delivering ideas from inception to their successful completion. A Lead Software Engineer encompasses all of the qualities listed in [Leadership](Leadership.md).
 
 ### I am trusted to ship a brand new idea to production with limited supervision
 
@@ -121,12 +123,7 @@
 - I am mentoring another engineer, deliberately helping them to round out their skill set.
 - I am sharing my on-the-job learning and experiences with others so they can be more effective in their roles, making sure others understand the solution throughout the process.
 
-## Team Lead
-
-> I am trusted to autonomously lead people through complex problems with a proven record of delivering ideas from inception to their successful completion.
-> A Team Lead encompasses all of the qualities listed in [Leadership](Leadership.md) and is usually combined with either a Senior Software Engineer or Solution Architect role.
-
-### I am trusted to lead a team of diverse technical roles (from Architects, Engineers, Designers, and Testers) to ship shaped pitches to production
+### I am trusted to lead a team of diverse technical roles (from Software Engineers, Product Designers, and Quality Coaches) to ship shaped pitches to production
 
 - I am a well-rounded leader of people, known for having a collaborative leadership style.
 - I structure my work according to these priorities: coordinate, communicate, then contribute.
@@ -138,9 +135,9 @@
 
 ## Engineering Manager
 
-_We consider an engineering manager to be a full time role building on top of the Solution Architect role. See the [manager's handbook](https://octopushq.atlassian.net/wiki/spaces/IN/pages/628981849/Managers+at+Octopus)._
+_We consider an engineering manager to be a full time role building on top of the Lead Software Engineer. See the [manager's handbook](https://octopushq.atlassian.net/wiki/spaces/IN/pages/628981849/Managers+at+Octopus)._
 
-> I take responsibility for a tribe of people in the engineering team and the results they ultimately deliver.
+> I take responsibility for 6-10 people in the engineering team and the results they ultimately deliver.
 > An Engineering Manager encompasses all of the qualities listed in [Leadership](Leadership.md) and is usually a full-time role.
 
 - I take ultimate responsibility for the people in my team, the way they work, and the results they deliver.
@@ -151,4 +148,4 @@ _We consider an engineering manager to be a full time role building on top of th
 - I proactively coach people, accelerating them along their personal growth trajectory.
 - I give radically candid feedback which is timely, actionable, and helpful.
 - The feedback I give in performance reviews is rarely a surprise because it summarises the timely, actionable, and helpful feedback my teammate has been receiving.
-- I am a net-positive contributor to how we approach people and culture in the engineering team, including hiring, firing, performance reviews, culture fit, salary reviews, and how we pay.
+- I am a positive contributor to how we approach people and culture in the engineering team, including hiring, firing, performance reviews, culture fit, salary reviews, and how we pay.
