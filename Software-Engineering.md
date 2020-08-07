@@ -2,9 +2,9 @@
 
 ## Junior Software Engineer / Software Engineer
 
-_We avoid distinguishing too much between the Junior Software Engineer and Software Engineer. These roles are primarily focused on learning with the aim to grow into the contribution of a Senior Software Engineer or beyond. The primary indicator inside these levels is how much help you need to be a net-positive contributor._
+_We avoid distinguishing too much between the Junior Software Engineer and Software Engineer. These roles are primarily focused on learning with the aim to grow into the contribution of a Senior Software Engineer or beyond. The primary indicator inside these levels is how far you are along your journey from dependent contribution to independent contribution._
 
-> I am a valuable, enthusiastic and net-positive member of an Octopus team. I show great potential and have a high growth trajectory.
+> I am a valuable and enthusiastic member of an Octopus team. I show great potential and have a high growth trajectory toward independent contribution.
 
 ### I write high quality code quickly and ship it to production
 
@@ -35,7 +35,7 @@ _We avoid distinguishing too much between the Junior Software Engineer and Softw
 - Even when I disagree with something I continue to work enthusiastically, learning from the others in the team.
 - Every venture has mundane tasks, and I work happily and diligently through them.
 - I go out of my way to develop a friendly and professional rapport with my customers and their team members.
-- My contributions to team discussions are net-positive, informative, and helpful.
+- My contributions to team discussions are positive, informative, and helpful.
 
 ## Quality Coach
 
@@ -146,4 +146,4 @@ _We consider an engineering manager to be a full time role building on top of th
 - I proactively coach people, accelerating them along their personal growth trajectory.
 - I give radically candid feedback which is timely, actionable, and helpful.
 - The feedback I give in performance reviews is rarely a surprise because it summarises the timely, actionable, and helpful feedback my teammate has been receiving.
-- I am a net-positive contributor to how we approach people and culture in the engineering team, including hiring, firing, performance reviews, culture fit, salary reviews, and how we pay.
+- I am a positive contributor to how we approach people and culture in the engineering team, including hiring, firing, performance reviews, culture fit, salary reviews, and how we pay.
