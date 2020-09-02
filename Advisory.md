@@ -1,6 +1,6 @@
-# Customer Success Roles
+# Octopus Advisory Team Roles
 
-## Continuous Delivery Analyst
+## Solutions Engineer
 
 > I am leveling up my knowledge of Continuous Delivery and Octopus Deploy.
 
@@ -28,7 +28,7 @@
 - I go out of my way to develop a friendly and professional rapport with my customers and their team members.
 - My contributions to team discussions are net-positive, informative, and helpful.
 
-## Continuous Delivery Engineer
+## Senior Solutions Engineer
 
 > I have extensive knowledge of Continuous Delivery with limited experience with Octopus Deploy.
 
@@ -43,7 +43,7 @@
 - I share feedback, both positive and negative, with everyone
 - I am learning how to dig into customer questions and get to the core problem.
 
-## Continuous Delivery Architect
+## Solutions Architect
 
 > I am a Octopus Deploy / Continuous Delivery expert customers can leverage to help them be successful.
 
@@ -62,7 +62,7 @@
 - I am comfortable writing pitches or feature requests to extend Octopus Deploy.
 - I am able to clearly define customer core problems and am able to articulate them to our engineers.
 
-## Senior Continuous Delivery Architect
+## Senior Solutions Architect
 
 > I am a leader on the team who helps guide the direction of everyone.
 
