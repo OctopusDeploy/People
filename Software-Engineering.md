@@ -133,6 +133,24 @@ _We avoid distinguishing too much between the Junior Software Engineer and Softw
 - I can confidently and charismatically pitch ideas, positively influencing my team to take decisive action based on reaching consensus.
 - I am an adept communicator, and can effectively steer technical and non-technical conversations to positive outcomes over any medium.
 
+## Principal Software Engineer
+
+> I am an influential Engineering [leader](Leadership.md) who identifies problems and opportunities relevant to Octopus' strategy, builds consensus to invest in solutions, and guides Engineering to deliver significant lasting change across Octopus.
+
+### I have a knack for uncovering important problems and opportunities that are critical to the long-term success of Octopus
+
+- I have a deep understanding of Octopus products and our strategy
+- I identify significant problems, inhibitors and opportunities, and advocate for solutions that align our strategy and Engineering efforts
+- I collaborate with others to articulate solutions, positively influence and convince that we should fund their implementation
+- My contributions leave our Engineering team, and Octopus as a whole, in a stronger strategic position
+
+### I am trusted to take care of a large, critical or complex strategic area or product
+
+- I am comfortable taking on a major challenge (e.g. re-write Octopus Server, or re-architect Octopus Cloud using microservices)
+- I identify team members with the necessary skills, work out how to fill gaps, and guide and influence that team (or teams) collaboratively
+- I use my Engineering experience to collaboratively steer teams toward good decisions along the way
+- The results of the initiatives I champion are measurable
+
 ## Engineering Manager
 
 _We consider an engineering manager to be a full time role building on top of the Lead Software Engineer. See the [manager's handbook](https://octopushq.atlassian.net/wiki/spaces/IN/pages/628981849/Managers+at+Octopus)._
