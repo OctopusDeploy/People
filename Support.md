@@ -23,12 +23,12 @@
 - I take my individual growth seriously and realise it is valuable to both myself and to Octopus.
 - I recognise I am my career owner. I reach out to my peers and my manager to develop my personal growth plan.
 
-### I am an egoless, team oriented support engineer
+### I am an egoless, team-oriented  support engineer
 
 - Other team members genuinely want to work alongside me.
 - I happily take responsibility for what I produce.
 - I avoid going dark and I know when to call out for help.
-- I communicate professionally and keep stake holders engaged at all times.
+- I communicate professionally and keep stakeholders engaged at all times.
 - I am well aware of all processes of the team and diligently follow them (like maintaining accurate documentation, timely customer updates, and so on).
 - Even when I disagree with something I continue to work enthusiastically, learning from the others in the team.
 - Every venture has mundane tasks, and I work happily and diligently through them.
@@ -73,7 +73,7 @@ The Senior Support Engineer role builds upon the foundation of the Support Engin
 - I happily tackle all problems regardless of difficulty.
 - Every venture has mundane tasks, but I'm the one that can be trusted to get them done and get them done right, and usually with a handful of ingenuity.
 - I recognize and accept that change is constant, and my approach allows me to tactfully challenge, or confidently adapt, depending on which I deem appropriate.
-- I possess writing skills that let me be clear, concise, articulate, and persuasive in all of my outgoing communications.
+- I possess writing skills that let me be clear, concise, articulate, and persuasive.
 
 ### I've become a student of my craft
 

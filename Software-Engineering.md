@@ -25,31 +25,17 @@ _We avoid distinguishing too much between the Junior Software Engineer and Softw
 - I am a self-managing team member, I make and keep my commitments using the privilege of flexibility wisely.
 - I am applying agile practices in my day to day work, and I am beginning to understand why they are important to software development
 
-### I am an egoless, team oriented developer
+### I am an egoless, team-oriented  developer
 
 - Other team members genuinely want me on their team.
 - I happily take responsibility for what I produce.
 - I avoid going dark and I know when to call out for help.
-- I communicate professionally and keep stake holders engaged at all times.
+- I communicate professionally and keep stakeholders engaged at all times.
 - I am well aware of all processes of the team and diligently follow them (like maintaining accurate documentation, maintaining tests, and so on).
 - Even when I disagree with something I continue to work enthusiastically, learning from the others in the team.
 - Every venture has mundane tasks, and I work happily and diligently through them.
 - I go out of my way to develop a friendly and professional rapport with my customers and their team members.
 - My contributions to team discussions are positive, informative, and helpful.
-
-## Quality Coach
-
-> I work with Octopus team members to improve the overall quality of the Octopus ecosystem.
-
-### I ensure Octopus can ship with confidence
-
-- I contribute and provide feedback to product, design, and engineering activities so that the product is user-friendly, efficient, consistent, robust, and useful to customers.
-- I use customer’s feedback and data to determine potential issues and apply it to improve future deliveries.
-- I identify gaps in the implementation processes and product and collaborate with the team to improve the overall system design.
-- I help other team members to achieve better business value.
-- I devise strategies to make automated tests more accurate, reliable, reusable, and extendable.
-- I use code reviews to coach on how to improve our tests and apply better practices.
-- I introduce new testing tools and practices for faster feedback cycles across different layers of the product.
 
 ## Senior Software Engineer
 
@@ -87,7 +73,7 @@ _We avoid distinguishing too much between the Junior Software Engineer and Softw
 - Every venture has mundane tasks, but I'm the one that can be trusted to get them done and get them done right, and usually with a handful of ingenuity.
 - I recognize and accept that change is constant, and my approach allows me to tactfully challenge, or confidently adapt, depending on which I deem appropriate.
 - I have proven I can decompose larger requirements into smaller, more manageable pieces, to deliver functionality in an incremental and iterative manner.
-- I possess writing skills that let me be clear, concise, articulate, and persuasive in all of my outgoing communications.
+- I possess writing skills that let me be clear, concise, articulate, and persuasive.
 
 ### I've become a student of my craft
 
