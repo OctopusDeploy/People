@@ -22,7 +22,7 @@
 
 ## I am an advocate for our customers and technical quality
 
-- I am easily recognised as an advocate for technical quality at Octopus.
+- I am easily recognised as an advocate for technical and product quality at Octopus.
 - I am easily recognised as an advocate for things that actually matter to our customers.
 - When it comes to software quality, I have strong opinions loosely held, and I am effective at building consensus.
 
