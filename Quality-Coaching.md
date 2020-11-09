@@ -1,6 +1,6 @@
-## Quality Assistance
+## Quality Coaching
 
-[Quality Assistance at Octopus](https://octopushq.atlassian.net/wiki/spaces/IN/pages/892370955/Quality+Assistance)
+[Quality Coaching at Octopus](https://octopushq.atlassian.net/wiki/spaces/IN/pages/892370955/Quality+Coaching+Team)
 
 # Everyone
 
@@ -15,7 +15,7 @@
 
 ## I elevate product delivery teams
 
-- The people that I'm working with in product delivery teams genuinely want my assistance with their work.
+- The people that I'm working with in product delivery teams genuinely want my help with their work.
 - I raise the standard of coordination, collaboration, and clarity in the teams I'm coaching.
 - My written and verbal communication is clear, concise, articulate, and persuasive.
 - My contributions to team discussions are timely, net-positive, informative, and helpful.
