@@ -142,7 +142,7 @@ _We avoid distinguishing too much between the Junior Software Engineer and Softw
 - I have a deep understanding of Octopus products and our strategy
 - I identify significant problems, inhibitors and opportunities, and advocate for solutions that align our strategy and Engineering efforts
 - I collaborate with others to articulate solutions, positively influence and convince that we should fund their implementation
-- My contributions are strategic and take our Engineering team, and Octopus as a whole, to the next level
+- My contributions are strategic and take our Engineering team, and Octopus as a whole, to the next level (as opposed to patching existing, not fit for purpose anymore, solutions)
 
 ### I am trusted to take care of a large, critical or complex strategic area or product
 
