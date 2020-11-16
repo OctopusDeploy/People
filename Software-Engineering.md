@@ -142,13 +142,13 @@ _We avoid distinguishing too much between the Junior Software Engineer and Softw
 - I have a deep understanding of Octopus products and our strategy
 - I identify significant problems, inhibitors and opportunities, and advocate for solutions that align our strategy and Engineering efforts
 - I collaborate with others to articulate solutions, positively influence and convince that we should fund their implementation
-- My contributions leave our Engineering team, and Octopus as a whole, in a stronger strategic position
+- My contributions are strategic and take our Engineering team, and Octopus as a whole, to the next level
 
 ### I am trusted to take care of a large, critical or complex strategic area or product
 
-- I am comfortable taking on a major challenge (e.g. re-write Octopus Server, or re-architect Octopus Cloud using microservices)
-- I identify team members with the necessary skills, work out how to fill gaps, and guide and influence that team (or teams) collaboratively
-- I use my Engineering experience to collaboratively steer teams toward good decisions along the way
+- I am comfortable taking on a major challenge that requires building or re-architecting an important part of the Octopus ecosystem (e.g. Modularity, or Octopus Cloud)
+- I identify people and teams with the necessary skills, work out how to fill gaps, and guide and influence these people and teams collaboratively
+- I use my Engineering experience to collaboratively steer teams toward good long-term decisions along the way
 - The results of the initiatives I champion are measurable
 
 ## Engineering Manager
