@@ -137,7 +137,7 @@ _We avoid distinguishing too much between the Junior Software Engineer and Softw
 
 > I am an influential Engineering [leader](Leadership.md) who identifies problems and opportunities relevant to Octopus' strategy, builds consensus to invest in solutions, and guides Engineering to deliver significant lasting change across Octopus.
 
-### I have a knack for uncovering important problems and opportunities that are critical to the long-term success of Octopus
+### I uncover important problems and opportunities that are critical to the long-term success of Octopus
 
 - I have a deep understanding of Octopus products and our strategy
 - I identify significant problems, inhibitors and opportunities, and advocate for solutions that align our strategy and Engineering efforts
