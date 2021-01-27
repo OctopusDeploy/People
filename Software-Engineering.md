@@ -145,7 +145,7 @@ _We avoid distinguishing too much between the Junior Software Engineer and Softw
 - I collaborate with others to articulate solutions, positively influence and convince that we should fund their implementation
 - My contributions go beyond patching or extending existing solutions, which may not be fit for purpose anymore. They open up whole new areas of strategic possibility, to take our Engineering team, and Octopus as a whole, to the next level.
 
-### I am trusted to take care of a large, critical or complex strategic area or product
+### I am the custodian of an area of strategic importance to Octopus
 
 - I am comfortable taking on large-scale greenfields and brownfields initiatives (e.g. re-architecting Octopus Server to allow for adding new step types as modular extensions, or creating a completely new Octopus Cloud platform)
 - I identify people and teams with the necessary skills, work out how to fill gaps, and guide and influence these people and teams collaboratively
