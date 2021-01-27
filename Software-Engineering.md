@@ -141,7 +141,7 @@ _We avoid distinguishing too much between the Junior Software Engineer and Softw
 
 - I have a deep understanding of Octopus products and strategy
 - I collaborate with other Engineering leaders to ensure I am aware of all major initiatives at Octopus and can account for them in my own initiatives
-- I identify significant problems, inhibitors and opportunities, and advocate for solutions that align our strategy and Engineering efforts
+- I have a track record of identifying significant problems, inhibitors and opportunities, and for creating lasting, best-fit solutions that align our strategy and Engineering efforts
 - I collaborate with others to articulate solutions, positively influence and convince that we should fund their implementation
 - My contributions go beyond patching or extending existing solutions, which may not be fit for purpose anymore. They open up whole new areas of strategic possibility, to take our Engineering team, and Octopus as a whole, to the next level.
 
