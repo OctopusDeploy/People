@@ -155,7 +155,10 @@ _We avoid distinguishing too much between the Junior Software Engineer and Softw
 
 ### I share my knowledge both within Octopus, and with the Octopus and wider developer community
 
+- I actively influence engineering teams across Octopus resulting in improved engineering excellence and overall productivity
 - I actively blog about the lessons we are learning as we improve engineering excellence to clarify our thinking, reinforce the learning, attract customers and potential future employees
+- I have a proven track record of expertly tailoring my communication to the target audience with a result of increased clarity and impact
+
 ## Engineering Manager
 
 _We consider an engineering manager to be a full time role building on top of the Lead Software Engineer. See the [manager's handbook](https://octopushq.atlassian.net/wiki/spaces/IN/pages/628981849/Managers+at+Octopus)._
