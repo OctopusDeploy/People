@@ -149,6 +149,7 @@ _We avoid distinguishing too much between the Junior Software Engineer and Softw
 
 - I am comfortable taking on large-scale greenfields and brownfields initiatives (e.g. re-architecting Octopus Server to allow for adding new step types as modular extensions, or creating a completely new Octopus Cloud platform)
 - I identify people and teams with the necessary skills, work out how to fill gaps, and guide and influence these people and teams collaboratively
+- I use a variety of tools and techniques to effectively communicate short and long-term plans and goals to my teams, stakeholders, Octopus senior leadership, and the broader organization
 - I use my experience to collaboratively steer teams toward good long-term technical decisions
 - The results of the initiatives I champion are measurable
 
