@@ -146,7 +146,7 @@ _We avoid distinguishing too much between the Junior Software Engineer and Softw
 
 ### I am trusted to take care of a large, critical or complex strategic area or product
 
-- I am comfortable taking on a major challenge that requires building or re-architecting an important part of the Octopus ecosystem (e.g. Modularity, or Octopus Cloud)
+- I am comfortable taking on large-scale greenfields and brownfields initiatives (e.g. re-architecting Octopus Server to allow for adding new step types as modular extensions, or creating a completely new Octopus Cloud platform)
 - I identify people and teams with the necessary skills, work out how to fill gaps, and guide and influence these people and teams collaboratively
 - I use my Engineering experience to collaboratively steer teams toward good long-term decisions along the way
 - The results of the initiatives I champion are measurable
