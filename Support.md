@@ -151,7 +151,7 @@ _The Lead Support Engineer role builds upon the foundation of the earlier roles.
 
 ## Principal Support Engineer
 
-_I am an influential Support Leader, a person who identifies problems and opportunities relevant to Octopus' strategy, builds consensus to invest in solutions, and guides Support to deliver significant lasting change across Octopus..
+_I am an influential Support Leader, a person who identifies problems and opportunities relevant to Octopus' strategy, builds consensus to invest in solutions, and guides Support to deliver significant lasting change across Octopus._
 
 _The Principal Support Engineer role builds upon the foundation of the earlier Support roles._
 
