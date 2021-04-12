@@ -1,6 +1,7 @@
 # Support Roles
+
 ## Junior Support Engineer
----
+
 _I am starting my journey at Octopus. I am an enthusiastic learner, I show great potential and have a high growth trajectory toward independent contribution._
 
 ---
@@ -37,7 +38,7 @@ _I am starting my journey at Octopus. I am an enthusiastic learner, I show great
 - My contributions to team discussions are net-positive, informative, and helpful.
 
 ## Support Engineer
----
+
 _I am a valuable, enthusiastic and net-positive member of the Octopus support team._
 
 ---
@@ -74,7 +75,7 @@ _I am a valuable, enthusiastic and net-positive member of the Octopus support te
 
 
 ## Senior Support Engineer
----
+
 _I am a confident, secure member of the Octopus support team with a proven record of excellent customer support._
 
 _The Senior Support Engineer role builds upon the foundation of the Support Engineer role_
@@ -118,7 +119,7 @@ _The Senior Support Engineer role builds upon the foundation of the Support Engi
 
 
 ## Lead Support Engineer
----
+
 _I am a well-rounded support engineer and problem solver. I can be trusted to take any issue through to resoltion, bringing people along with me throughout the process and providing clarity for our team. I am trusted to autonomously lead people through complex problems with a proven record of delivering ideas from inception to their successful completion._
 
 _The Lead Support Engineer role builds upon the foundation of the earlier roles._
@@ -154,7 +155,7 @@ _The Lead Support Engineer role builds upon the foundation of the earlier roles.
 
 
 ## Principal Support Engineer
----
+
 _I am an influential Support Leader, a person who identifies problems and opportunities relevant to Octopus' strategy, builds consensus to invest in solutions, and guides Support to deliver significant lasting change across Octopus..
 
 _The Principal Support Engineer role builds upon the foundation of the earlier Support roles._
