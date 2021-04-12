@@ -4,7 +4,7 @@
 
 _I am starting my journey at Octopus. I am an enthusiastic learner, I show great potential and have a high growth trajectory toward independent contribution._
 
----
+
 >We avoid distinguishing too much between Junior Support Engineer and Support Engineer. These roles are primarily focused on learning with the aim to grow into the contribution of a Senior Support Engineer or beyond. The primary indicator inside these levels is how far you are along your journey from dependent contribution to independent contribution.
 
 ### I aim to write high quality responses quickly and with minimal oversight
@@ -40,8 +40,6 @@ _I am starting my journey at Octopus. I am an enthusiastic learner, I show great
 ## Support Engineer
 
 _I am a valuable, enthusiastic and net-positive member of the Octopus support team._
-
----
 
 ### I write high quality responses quickly and with minimal oversight
 - I recognise Octopus is complex and I don't know everything about it, I reach out for help in a timely and effective way when I need it.
@@ -79,8 +77,6 @@ _I am a valuable, enthusiastic and net-positive member of the Octopus support te
 _I am a confident, secure member of the Octopus support team with a proven record of excellent customer support._
 
 _The Senior Support Engineer role builds upon the foundation of the Support Engineer role_
-
----
 
 ### I am trusted to delight our customers with every interaction
 - I am proficient with my tools and the core building blocks used by our team.
@@ -124,7 +120,6 @@ _I am a well-rounded support engineer and problem solver. I can be trusted to ta
 
 _The Lead Support Engineer role builds upon the foundation of the earlier roles._
 
----
 ### I am trusted
 - I have mastered my tools and the core building blocks used by our team.
 - I have a deep technical understanding of my area of specialty at Octopus, and I can confidently use this knowledge to assist customers and fellow support team members in all areas of Octopus.
@@ -159,8 +154,6 @@ _The Lead Support Engineer role builds upon the foundation of the earlier roles.
 _I am an influential Support Leader, a person who identifies problems and opportunities relevant to Octopus' strategy, builds consensus to invest in solutions, and guides Support to deliver significant lasting change across Octopus..
 
 _The Principal Support Engineer role builds upon the foundation of the earlier Support roles._
-
----
 
 ### I uncover important problems and opportunities that are critical to the long-term success of Octopus
 - I have a deep understanding of my area of specialty, as well as Octopus products and strategy
