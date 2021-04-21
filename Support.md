@@ -29,6 +29,7 @@ _I am starting my journey at Octopus. I am an enthusiastic learner, I show great
 ### I am an egoless, team-oriented support engineer
 - Other team members genuinely want to work alongside me.
 - I happily take responsibility for what I produce.
+- I readily accept input from others, and understand that good ideas can come from any source.
 - I avoid going dark and I know when to call out for help.
 - I communicate professionally and keep stakeholders engaged at all times.
 - I am well aware of all processes of the team and diligently follow them (like maintaining accurate documentation, SLA's, timely customer updates, and so on).
