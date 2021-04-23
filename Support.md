@@ -10,7 +10,7 @@ _I am starting my journey at Octopus. I am an enthusiastic learner, I show great
 ### I aim to write high quality responses quickly and with minimal oversight
 - I recognize Octopus is complex and I am starting on my knowledge journey, I reach out for help in a timely and effective way when I need it.
 - I am learning to write well crafted, succinct and informative support responses with coaching from my mentor.
-- I have started my learning journey in my area specialty at Octopus, I am seeking to be able to independently answer support questions in this area.
+- I have started my learning journey in my area speciality at Octopus, I am seeking to be able to independently answer support questions in this area.
 - I am learning to write clear, well researched issues that provide the Engineering team with clear customer impact and assist in root cause analysis.
 - I am becoming proficient with my tools and the core building blocks used by our team.
 - I am learning to prioritise my workload.
@@ -21,15 +21,15 @@ _I am starting my journey at Octopus. I am an enthusiastic learner, I show great
 
 - I take my individual growth seriously and realise it is valuable to both myself and to Octopus.
 
-- I take the privilege of Sharpening seriously, and work with my Manager to set realistic, achievable and relevant learning goals.
+- I take the privilege of Sharpening seriously, and work with my manager to set realistic, achievable and relevant learning goals.
 - I am an active learner. I use a variety of learning methods, like reading books, reading code, configuring test environments, watching online courses, attending conferences or user group meetings to help improve my knowledge of Octopus and surrounding technology.
 - I am discussing the things I'm learning about or experimenting on with my teammates and manager, maybe even collaborating on the experience.
-- I recognise I am my career owner. I reach out to my peers and my manager to develop my personal growth plan.
+- I recognise I own my career. I reach out to my peers and my manager to develop my personal growth plan.
 
 ### I am an egoless, team-oriented support engineer
 - Other team members genuinely want to work alongside me.
 - I happily take responsibility for what I produce.
-- I readily accept input from others, and understand that good ideas can come from any source.
+- I readily accept input from others, and I understand that good ideas can come from any source.
 - I avoid going dark and I know when to call out for help.
 - I communicate professionally and keep stakeholders engaged at all times.
 - I am well aware of all processes of the team and diligently follow them (like maintaining accurate documentation, SLA's, timely customer updates, and so on).
@@ -123,7 +123,7 @@ _The Lead Support Engineer role builds upon the foundation of the earlier roles.
 
 ### I am trusted
 - I have mastered my tools and the core building blocks used by our team.
-- I have a deep technical understanding of my area of specialty at Octopus, and I can confidently use this knowledge to assist customers and fellow support team members in all areas of Octopus.
+- I have a deep technical understanding of my area of speciality at Octopus, and I can confidently use this knowledge to assist customers and fellow support team members in all areas of Octopus.
 - I am comfortable with transparently assessing risk, making recommendations, escalating appropriately, and dealing with the consequences along the way.
 - I know how to mentor a customer to the best path, and I understand that the customer's stated issue and the actual issue might not be the same thing
 - I can confidently and charismatically pitch ideas, positively influencing and convincing people to take decisive action based on reaching consensus.
@@ -157,20 +157,20 @@ _I am an influential Support Leader, a person who identifies problems and opport
 _The Principal Support Engineer role builds upon the foundation of the earlier Support roles._
 
 ### I uncover important problems and opportunities that are critical to the long-term success of Octopus
-- I have a deep understanding of my area of specialty, as well as Octopus products and strategy
-- I collaborate with other Octopus leaders to ensure I am aware of all major initiatives at Octopus and can understand how they will affect our customers and Support teams
+- I have a deep understanding of my area of speciality, as well as Octopus products and strategy
+- I collaborate with other Octopus leaders to ensure I am aware of all major initiatives at Octopus and can understand how they will affect our customers and Support teams.
 - I have a track record of identifying significant problems, inhibitors and opportunities, and for creating lasting, best-fit solutions that align our strategy and Support efforts
 - I work closely with product, engineering, and executive stakeholders to articulate and refine solutions to problems that are timely, important, and impactful.
 - Instead of simply patching or extending existing solutions, which may not be fit for purpose anymore, my contributions open up whole new areas of strategic possibility that progress our journey of making Octopus a world-class Support organization.
 
 ### I am the custodian of an area of knowledge
-- I am comfortable taking on large-scale greenfields and brownfields initiatives both inside and outside of my area of specialty that assist the Support team and our Customers
-- I identify people and teams with the necessary skills, work out how to fill gaps, and guide and influence these people and teams collaboratively
-- I use a variety of tools and techniques to effectively communicate short and long-term plans and goals to my teams, stakeholders, Octopus senior leadership, and the broader organization
-- I use my experience to collaboratively steer teams toward good long-term decisions
-- The results of the initiatives I champion are measurable
+- I am comfortable taking on large-scale greenfields and brownfields initiatives both inside and outside of my area of speciality that assist the Support team and our Customers.
+- I identify people and teams with the necessary skills, work out how to fill gaps, and guide and influence these people and teams collaboratively.
+- I use a variety of tools and techniques to effectively communicate short and long-term plans and goals to my teams, stakeholders, Octopus senior leadership, and the broader organization.
+- I use my experience to collaboratively steer teams toward good long-term decisions.
+- The results of the initiatives I champion are measurable.
 
 ### I share my knowledge both within the support team, and with the Octopus and wider community
-- I actively influence support teams across Octopus resulting in improved support excellence and overall productivity
-- I actively talk both internally and externally about the lessons we are learning as we improve and expand the support team to clarifying our thinking, reinforce our learning pathways, and to attract customers and potential future employees
-- I have a proven track record of expertly tailoring my communication to the target audience with a result of increased clarity and impact
+- I actively influence support teams across Octopus resulting in improved support excellence and overall productivity.
+- I actively talk both internally and externally about the lessons we are learning as we improve and expand the support team to clarifying our thinking, reinforce our learning pathways, and to attract customers and potential future employees.
+- I have a proven track record of expertly tailoring my communication to the target audience with a result of increased clarity and impact.
