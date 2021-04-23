@@ -56,7 +56,7 @@ _I am a valuable, enthusiastic and net-positive member of the Octopus support te
 
 ### I am recognised by my desire to learn and my motivation to improve
 - I take my individual growth seriously and realise it is valuable to both myself and to Octopus.
-- I take the privilege of Sharpening seriously, and work with my Manager to set realistic, achievable and relevant learning goals.
+- I take the privilege of Sharpening seriously, and work with my manager to set realistic, achievable and relevant learning goals.
 - I am an active learner. I use a variety of learning methods, like reading books, reading code, configuring test environments, watching online courses, attending conferences or user group meetings to help improve my knowledge of Octopus and surrounding technology.
 - I am discussing the things I'm learning about or experimenting on with my teammates and manager, maybe even collaborating on the experience.
 - I recognise I am my career owner. I reach out to my peers and my manager to develop my personal growth plan.
@@ -159,7 +159,7 @@ _The Principal Support Engineer role builds upon the foundation of the earlier S
 ### I uncover important problems and opportunities that are critical to the long-term success of Octopus
 - I have a deep understanding of my area of speciality, as well as Octopus products and strategy
 - I collaborate with other Octopus leaders to ensure I am aware of all major initiatives at Octopus and can understand how they will affect our customers and Support teams.
-- I have a track record of identifying significant problems, inhibitors and opportunities, and for creating lasting, best-fit solutions that align our strategy and Support efforts
+- I have a track record of identifying significant problems, inhibitors and opportunities, and for creating lasting, best-fit solutions that align our strategy and Support efforts.
 - I work closely with product, engineering, and executive stakeholders to articulate and refine solutions to problems that are timely, important, and impactful.
 - Instead of simply patching or extending existing solutions, which may not be fit for purpose anymore, my contributions open up whole new areas of strategic possibility that progress our journey of making Octopus a world-class Support organization.
 
