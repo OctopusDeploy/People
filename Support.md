@@ -45,7 +45,7 @@ _I am a valuable, enthusiastic and net-positive member of the Octopus support te
 ### I write high quality responses quickly and with minimal oversight
 - I recognise Octopus is complex and I don't know everything about it, I reach out for help in a timely and effective way when I need it.
 - I write well crafted, succinct and informative support responses with minimal coaching.
-- I am gaining a good understanding of my area of speciality at Octopus, and can confidently answer support questions in this some of the knowledge areas that make up my speciality.
+- I am gaining a good understanding of my area of speciality at Octopus, and can confidently answer support questions in some of the knowledge areas that make up my speciality.
 - I am learning to anticipate my customer's needs. I am learning how to lead our customers to finding their own solutions.
 - I am learning how to qualify support tickets into the RUF and KUE categories.
 - I am learning to write clear, well researched issues that provide the Engineering team with clear customer impact and assist in root cause analysis.
@@ -85,7 +85,7 @@ _The Senior Support Engineer role builds upon the foundation of the Support Engi
 - I confidently anticipate my customer's needs. I am effective at leading our customers to find their own solutions.
 - I can confidently step outside my comfort zone and adapt quickly to unfamiliar areas of Octopus.
 - I am proficient at qualifying support tickets into the RUF and KUE categories.
-- I write clear, well researched issues that assist provide the Engineering team with clear customer impact and assist in root cause analysis.
+- I write clear, well-researched issues that assist provide the Engineering team with clear customer impact and assist in root cause analysis.
 - I know how to make pragmatic decisions in order to provide the best outcomes for our customers.
 - I am excellent at prioritising my workload.
 - I am quick to recognise when I need help, and I know how to do this in an effective and timely manner.
