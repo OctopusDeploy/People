@@ -48,7 +48,7 @@ _I am a valuable, enthusiastic and net-positive member of the Octopus support te
 - I am gaining a good understanding of my area of speciality at Octopus, and can confidently answer support questions in this some of the knowledge areas that make up my speciality.
 - I am learning to anticipate my customer's needs. I am learning how to lead our customers to finding their own solutions.
 - I am learning how to qualify support tickets into the RUF and KUE categories.
-- I am learning to write clear, well researched issues that assist provide the Engineering team with clear customer impact and assist in root cause analysis.
+- I am learning to write clear, well researched issues that provide the Engineering team with clear customer impact and assist in root cause analysis.
 - I am becoming proficient with my tools and the core building blocks used by our team.
 - I am learning to prioritise my workload.
 - I am learning to recognise when I need help, and how to do this in an effective and timely manner.
