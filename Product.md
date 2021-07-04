@@ -77,3 +77,42 @@
 - I am actively involved in the retrospective process, and I am comfortable challenging and coaching my peers
 - I mentor another person on their product thinking to help them to round out their skill set
 - I share my on-the-job learning and experiences with others so they can be more effective in their roles
+
+## Director of Product
+
+> I own the storyboard for the product, from where we are today to the choices on where we invest next. I spend time exploring where we could go next, while looking back to ensure that most of our customers are able to take advantage of our work. I watch for changes in market needs and industry trends to ensure we remain relevant in our direction. Through my customer, market, and industry connection I identify the key problem sets we focus on today, and in the years to come. As the product team(s) execute on their mission, I keep a pulse on their progress and weave in their work into the broader story. I manage, and share the pace of our investment to ensure we are where we need to be for our customers, when they need us there.
+
+### I maintain a view of trends that can help and hinder our ambitions
+
+- I discuss with customers, regularly and at all levels, their needs and how decisions are made to gain insight into the value of and barriers to satisfying their needs
+- I listen to industry leaders and analysts to understand how we can grow our sustainable competitive advantages
+- I manage the product feedback activities to decide how to respond to unmet needs
+- I maintain an assessment of our product position for each market segment to develop a view as to our strengths and opportunities for growth
+
+### I develop the product strategy and align people to our purpose and direction
+
+- I collect a range of inputs and perspectives to develop a product strategy that guides our investment choices
+- I evaluate, clarify, and prioritize the strategic outcomes that we are pursuing
+- I partner with design and engineering to research potential outcomes being considered
+- I monitor the product health to ensure we are making choices that consider opportunities with an eye towards sustainability
+- I align product teams, customer teams, and leadership on our choices
+
+### I empower our teams to do their best work
+
+- I monitor the progress of product teams to clarify and remove barriers to achieve meaningful progress
+- I partner with design and engineering to prioritize and ensure meaningful progress on tactical and quality work not related to any team’s mission
+- I communicate with stakeholders on the progress to enable effective coordination of readiness, awareness, and adoption activities
+- I facilitate product risk management to ensure we are make choices that maintain an acceptable level of risk
+
+### I evangelise the impact of our investment
+
+- I monitor the success measures of past work to understand if we achieved the desired outcomes
+- I communicate a product story that connects what we are doing to how it made an impact and why it matters
+- I create opportunity for others to tell their part of the product story
+
+### I nurture the product mindset across my group
+
+- I coach product managers in my group on planning and execution tactics to help them make decisions that balance strategic and tactical impact
+- I coach people to reframe their goals in terms of customer and business value
+- I share customer stories with our teams to connect their work to how it made and impact and why that was important for the customer
+- I share my on-the-job learning and experiences so others can benefit from the added perspective to grow in their roles
