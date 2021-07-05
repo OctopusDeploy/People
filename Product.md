@@ -16,7 +16,7 @@
 - I influence how others think about the direction for my product area(s) to create interest that helps me refine the direction
 - I collect a range of inputs and perspectives to inform the decisions I make in shaping opportunities
 - I evaluate, clarify, and prioritize the opportunities that we are pursuing to create focus and progress for my product area(s)
-- I align the product team and key stakeholders (cross-functional managers) to create support for our choices
+- I align my product team and key stakeholders (cross-functional managers) to create support for our choices
 
 ### I remove barriers to achieve meaningful progress
 
