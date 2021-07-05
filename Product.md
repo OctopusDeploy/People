@@ -35,6 +35,7 @@
 
 ### I have become a student of my craft
 
+- I keep current with the concepts of my product area(s) to confidentially demonstrate the functionality and answer questions from customers and other teams
 - I take accountability for the performance of my product area(s), owning the problems to learn how we can improve
 - I seek out learning and inspiration to expand my awareness of different techniques
 - I reflect, regularly, on my personal and professional development to contribute in a growing company
