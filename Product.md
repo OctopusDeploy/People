@@ -60,7 +60,7 @@
 
 ### I foster an inclusive team that develops a track record for high quality delivery
 
-- I use the hypothesis of our work to test our assumptions and work with my team to discovery what is actually needed
+- I use the hypothesis of our work to test our assumptions and work with my team to discover what is actually needed
 - I collaborate with the team on risks and failure modes for our work to figure out what we can do to increase our chance of success
 - I include a diverse set of perspectives within and beyond the team on potential solutions to sharpen the team’s thinking about what is essential
 - I can spot when we are blocked or over-analysing to bring us back to small, incremental progress
