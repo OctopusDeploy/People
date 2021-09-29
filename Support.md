@@ -40,7 +40,7 @@
 
 ## Senior Application Support Engineer
 
-The Senior Application Support Engineer role builds upon the foundation of the Appliction Support Engineer role.
+The Senior Application Support Engineer role builds upon the foundation of the Application Support Engineer role.
 
 > I am a confident, secure member of the Octopus support team with a proven record of excellent customer support.
 
@@ -113,7 +113,7 @@ The DevOps Application Engineer role builds upon the foundation of the Applicati
 
 The Senior DevOps Application Engineer role builds upon the foundation of the DevOps Application Engineer role.
 
-> I am an expert in the DevOps space, a person that is recognised both within Octopus as part of the wider DevOps  community for the breadth and depth of your technical ability.
+> I am an expert in the DevOps space, a person that is recognised both within Octopus as part of the wider DevOps community for the breadth and depth of your technical ability.
 
 ### I am trusted
 
@@ -126,7 +126,7 @@ The Senior DevOps Application Engineer role builds upon the foundation of the De
 - I have a deep understanding of CI/CD pipelines, the overall DevOps landscape and how they are implemented by our customers 
 - I know the why, along with the how.
 - I confidently, accurately, and quickly replicate complex deployment scenarios to assist with issue replication and resolution 
-- I don't know everything, however I can confidently navigate to the answer using my existing knowledge while lead my team mates to the solution with me.  
+- I don't know everything, however I can confidently navigate to the answer using my existing knowledge while leading my team mates to the solution with me.  
 
 ### Everything is a learning oppurtunity
 
