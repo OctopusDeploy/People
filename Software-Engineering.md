@@ -145,9 +145,9 @@ _We avoid distinguishing too much between the Junior Software Engineer and Softw
 - I actively blog about the lessons we are learning as we improve engineering excellence to clarify our thinking, reinforce the learning, attract customers and potential future employees
 - I have a proven track record of expertly tailoring my communication to the target audience with a result of increased clarity and impact
 
-## Engineering Manager
+## Tech Lead / Engineering Manager
 
-_We consider an engineering manager to be a full time role building on top of the Lead Software Engineer. See the [manager's handbook](https://octopushq.atlassian.net/wiki/spaces/IN/pages/628981849/Managers+at+Octopus)._
+_We consider a tech lead / engineering manager to be a full time role building on top of the Lead Software Engineer. See the [manager's handbook](https://octopushq.atlassian.net/wiki/spaces/IN/pages/628981849/Managers+at+Octopus)._
 
 > I take responsibility for 6-10 people in the engineering team and the results they ultimately deliver.
 > An Engineering Manager encompasses all of the qualities listed in [Leadership](Leadership.md) and is usually a full-time role.
