@@ -54,10 +54,10 @@
 - I have a strong pulse on my team's engagement and a proactive retention strategy
 
 ### :octopus: Culture
-- I am sensitive to the needs of my team or teams, and I proactively help them through difficult situations
-- I take responsibility for the culture of my team, and I am a positive contributor to Octopus's culture as a whole
+- I take accountability for the culture of my team, and I am a positive contributor to Octopus's culture as a whole
 - I am a champion for diversity, equity and inclusion at Octopus
 - I recognise dysfunction in my team and across the broader organization, working effectively with other leaders as necessary to resolve it in a timely manner.
+- I am sensitive to the needs of my team or teams, and I proactively help them through difficult situations
 - I create a team culture that is resilient and adaptable to organisational change
 - I cultivate a healthy environment of growth and support that empowers my teams to consistently deliver at a high level of impact.
 - I remove barriers to inclusion for my team and ensure diverse perspectives are considered and included
