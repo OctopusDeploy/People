@@ -48,13 +48,13 @@
 
 ### :deciduous_tree: Talent
 - I autonomously guide my team to the sustainable delivery of business impact through my mastery of execution and people management.
-- I am sensitive to the needs of my team or teams, and I proactively help them through difficult situations
 - I can confidently and effectively resolve issues with underperformers
 - I proactively coach engineers up to Principal (L5) level, accelerating them along their personal growth trajectory.
 - I give radically candid feedback which is timely, actionable, and helpful. The feedback I give in performance reviews is rarely a surprise because it summarises the timely, actionable, and helpful feedback my teammate has been receiving.
 - I have a strong pulse on my team's engagement and a proactive retention strategy
 
 ### :octopus: Culture
+- I am sensitive to the needs of my team or teams, and I proactively help them through difficult situations
 - I take responsibility for the culture of my team, and I am a positive contributor to Octopus's culture as a whole
 - I am a champion for diversity, equity and inclusion at Octopus
 - I recognise dysfunction in my team and across the broader organization, working effectively with other leaders as necessary to resolve it in a timely manner.
