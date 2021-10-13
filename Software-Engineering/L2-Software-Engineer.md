@@ -1,36 +1,62 @@
-## Junior Software Engineer / Software Engineer
+# L2: Software Engineer
 
-_We avoid distinguishing too much between the Junior Software Engineer and Software Engineer. These roles are primarily focused on learning with the aim to grow into the contribution of a Senior Software Engineer or beyond. The primary indicator inside these levels is how far you are along your journey from dependent contribution to independent contribution._
+> _I am a valuable and enthusiastic member of an Octopus team. I can work independently on small projects, and am focused on learning with a trajectory of growth into the contribution of a Senior Software Engineer or beyond._
 
-> I am a valuable and enthusiastic member of an Octopus team. I show great potential and have a high growth trajectory toward independent contribution.
+- **Planning horizon**: Current and next cycle
+- **Impact radius**: Self plus some team mates
+- **Evaluation**: Manager
+- **Responsibility and direction needed**: Weekly supervision needed from their manager or more senior engineers.
 
-### I write high quality code quickly and ship it to production
+## 🦉 Domain expertise
 
-- I am learning to tame complexity when building software products.
-- I am learning how to qualify and reduce technical debt.
-- I am learning how to write valuable automated tests.
-- I am becoming proficient with my tools and the core building blocks used by our team.
-- I am learning how to pull together the Lego blocks of a product.
-- I am learning how to set up a build and delivery pipeline.
-- I am writing the correct code; code that meets my team's needs.
+- I am competent in my domain.
+- I am able to work independently on small projects.
+- I identify and raise potential problems with my peers or lead before getting blocked.
 
-### I am recognised by my desire to learn and my motivation to improve
+<details>
+<summary>Examples</summary>
 
-- I am learning, maybe through a variety of ways like reading books, reading code, trying and shipping ideas, watching online courses, attending conferences or user group meetings.
-- I am discussing the things I'm learning about or experimenting on with my teammates, maybe even collaborating on the experience.
-- I take my individual growth seriously and realise it is valuable to both myself and to Octopus.
-- I reach out to my peers and leadership group to develop my personal growth plan.
-- I am a self-managing team member, I make and keep my commitments using the privilege of flexibility wisely.
-- I am applying agile practices in my day to day work, and I am beginning to understand why they are important to software development
+- I completed maintenance work in a complex area of the codebase, relying on my knowledge of .NET and occasionally reaching out for help from my more senior teammates when I knew I would need it.
 
-### I am an egoless, team-oriented  developer
+</details>
 
-- Other team members genuinely want me on their team.
-- I happily take responsibility for what I produce.
-- I avoid going dark and I know when to call out for help.
-- I communicate professionally and keep stakeholders engaged at all times.
-- I am well aware of all processes of the team and diligently follow them (like maintaining accurate documentation, maintaining tests, and so on).
-- Even when I disagree with something I continue to work enthusiastically, learning from the others in the team.
-- Every venture has mundane tasks, and I work happily and diligently through them.
-- I go out of my way to develop a friendly and professional rapport with my customers and their team members.
-- My contributions to team discussions are positive, informative, and helpful.
+## 🌱 Teaching and Mentoring
+
+- I use code reviews to strengthen the idioms and practices in use by our team.
+- I help new hires get up to speed with the team's style and existing code base.
+
+<details>
+<summary>Examples</summary>
+
+- I acted as a buddy for a new person who joined my team, and helped them become productive with our tools.
+- I gave feedback in a code review that resulted in a teammate updating the code to reflect better practices.
+
+</details>
+
+## 🧭 Culture and Leadership
+
+- I identify quality and reliability issues in systems that my team maintains.
+- I seek input from teammates and outside experts on systems and feature design.
+- I collaborate well with product, support, and other teams.
+
+<details>
+<summary>Examples</summary>
+
+- I noticed a section of code that could result in a caching issue, and I modified it to prevent the issue.
+- I was assigned a task in a greenfields project that required me to design a small system, so I reached out to my team lead to collaborate with me.
+- My product manager and my team lead asked me to do two things as the top priority, so I got them together in a conversation so we could work it out as a team.
+
+</details>
+
+## 🏆 Customer Success
+
+- I consistently deliver systems and features that provide significant value to customers and/or other teams.
+- I respond to escalated customer issues and incidents in a proactive, timely fashion.
+
+<details>
+<summary>Examples</summary>
+
+- The team assigned me work last cycle based on customer needs and I completed this work diligently.
+- A customer issue was escalated to my team and I was capable of addressing it, so I took it on immediately.
+
+</details>

@@ -1,43 +1,78 @@
-## Senior Software Engineer
+# L3: Senior Software Engineer
 
-> I am a highly sought-after member of an Octopus team with a proven record of shipping high-quality code to production.
+> _I am a highly sought-after member of an Octopus team with a proven record of shipping high-quality code to production._
 
-### I am trusted to ship shaped pitches (or vertical slices of larger products) from idea to production
+- **Planning horizon**: Current and next cycle
+- **Impact radius**: Peers (2-5)
+- **Evaluation**: Manager
+- **Responsibility and direction needed**: Takes vertical slices of larger products from idea to production.
 
-- I am proficient with my tools and the core building blocks used by our team.
-- I can confidently step outside my comfort zone and adapt quickly to new technologies.
-- I am proficient at qualifying and reducing technical debt.
-- I am comfortable pulling together the Lego blocks of shaped pitches.
-- I am comfortable setting up an automated integration and delivery pipeline.
-- I am comfortable determining technical direction within brown-fields projects.
-- I know how to make pragmatic decisions in order to ship a product.
-- I know when to call out for help and how to do it effectively.
-- I am technically persuasive.
-- I am proficient at delivering software projects using agile practices.
+## 🦉 Domain expertise
 
-### I am a technical mentor
+- I am advanced in my team's domain.
+- I can confidently step outside my own comfort zone and adapt quickly to new technologies.
+- I am able to design interfaces and reusable components for my team.
+- I make appropriate scaling, reliability, and maintenance trade-offs as they occur in practice.
+- I identify, qualify and reduce technical debt as appropriate to my team's priorities.
 
-- People tend to ask me for my opinion when making technical decisions because I have a proven track record of making wise choices.
-- I am fuelling the team's desire to learn, perhaps by mentoring, running brown-bag sessions, sharing useful videos/blogs/papers.
-- I use code reviews as an opportunity to teach and show others alternate, cleaner ways to implement functionality in an ego-less manner. That way the whole team together learns how to deliver a higher quality, more maintainable product.
-- I can manage difficult conversations and tactfully challenge others, leaving them with a positive impression of myself and Octopus.
-- I can effectively coach people and pass on my knowledge.
-- I am a confident and proficient teacher of my craft.
+<details>
+<summary>Examples</summary>
 
-### I am focused on the success of my team and my customers, without the need to boost my ego
+- I set up or maintained an automated integration and delivery pipeline.
+- I determined the technical direction within a brown-field project.
+- I made pragmatic decisions in order to ship a product.
+- People asked me for my opinion when making technical decisions because I had a proven track record of making wise choices.
 
-- I add value to my team by being a trusted, proactive supporter of my team and its leadership, and by delivering high quality work with a minimum of fuss.
-- I seek to understand the real needs of my customers, and I am comfortable building requirements and technical recommendations off those.
-- I recognise problems early and get in and fix them regardless of whose fault it is.
-- I am good at recognising problems outside the scope of my work and eagerly get involved in improving our product, our environment, and our processes.
-- I happily tackle all problems regardless of difficulty, and I support my team by solving them in a pragmatic way.
-- Every venture has mundane tasks, but I'm the one that can be trusted to get them done and get them done right, and usually with a handful of ingenuity.
-- I recognize and accept that change is constant, and my approach allows me to tactfully challenge, or confidently adapt, depending on which I deem appropriate.
-- I have proven I can decompose larger requirements into smaller, more manageable pieces, to deliver functionality in an incremental and iterative manner.
-- I possess writing skills that let me be clear, concise, articulate, and persuasive.
+</details>
 
-### I've become a student of my craft
+## 🌱 Teaching and Mentoring
 
-- I am devoted to learning; it's become a natural part of my life.
-- I am actively introspective and take time to work on my personal and professional development.
-- I happily take responsibility for my own mistakes and I learn from the mistakes of others.
+- I consistently help new hires and more junior engineers to "level up" and become more proficient over time
+- I am fuelling my team's desire to learn.
+
+<details>
+<summary>Examples</summary>
+
+- I ran a knowledge sharing session.
+- I mentored a more junior developer and they went on to achieve something they couldn't have before.
+- I shared useful videos/blogs/papers that led to some action.
+- I used code reviews as an opportunity to teach and showed others alternate, cleaner ways to implement functionality in an ego-less manner.
+
+</details>
+
+## 🧭 Culture and Leadership
+
+- I collaborate on technical direction within already-defined projects.
+- I continuously maintain and improve quality across the stack.
+- I am willing to take on the necessary and unglamorous work needed to get things done.
+- I take responsibility for my own mistakes and learn from the mistakes of others.
+- I manage difficult conversations and tactfully challenge others.
+- I improve the productivity and delivery of my team.
+
+<details>
+<summary>Examples</summary>
+
+- I performed regular interviews for engineering candidates, and provided detailed and useful feedback.
+- I took on a significant share of unplanned work and other "housekeeping" tasks.
+- I spotted a contentious issue that could have gone badly and facilitated everyone toward a decision that resolved the situation.
+- I recognised a problem early and got in to fix it even though it wasn't my fault.
+- I wrote a clear and concise proposal that persuaded the team to act on my idea.
+
+</details>
+
+## 🏆 Customer Success
+
+- I ship ideas from conception to production.
+- I advocate for customer needs and motivations.
+- I decompose larger requirements into smaller, more manageable pieces, to deliver functionality in an incremental and iterative manner.
+- I build requirements and technical recommendations based on the real needs of customers.
+
+<details>
+<summary>Examples</summary>
+
+- I led a shaped pitch from idea to production
+- I gave an early access version to our customers to get feedback during development, and acted on that feedback.
+- I helped unblock the delivery pipeline to make sure we could verify the expected behaviour of the changes we made to production.
+- I analyzed telemetry to make technical and scope decisions during a build.
+
+</details>

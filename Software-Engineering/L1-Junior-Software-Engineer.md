@@ -1,36 +1,63 @@
-## Junior Software Engineer / Software Engineer
+# L1: Junior Software Engineer
 
-_We avoid distinguishing too much between the Junior Software Engineer and Software Engineer. These roles are primarily focused on learning with the aim to grow into the contribution of a Senior Software Engineer or beyond. The primary indicator inside these levels is how far you are along your journey from dependent contribution to independent contribution._
+> _I am a valuable and enthusiastic member of an Octopus team. I show great potential and have a high growth trajectory toward independent contribution._
 
-> I am a valuable and enthusiastic member of an Octopus team. I show great potential and have a high growth trajectory toward independent contribution.
+- **Planning horizon**: Current cycle
+- **Impact radius**: Self
+- **Evaluation**: Manager
+- **Responsibility and direction needed**: Daily to weekly supervision needed from their manager or more senior engineers.
 
-### I write high quality code quickly and ship it to production
+## 🦉 Domain expertise
 
-- I am learning to tame complexity when building software products.
-- I am learning how to qualify and reduce technical debt.
-- I am learning how to write valuable automated tests.
-- I am becoming proficient with my tools and the core building blocks used by our team.
-- I am learning how to pull together the Lego blocks of a product.
-- I am learning how to set up a build and delivery pipeline.
-- I am writing the correct code; code that meets my team's needs.
+- I am actively learning my domain and my team's processes.
+- I escalate with my peers or lead when appropriate.
+- I successfully complete clearly defined, actionable tasks that require little collaboration.
 
-### I am recognised by my desire to learn and my motivation to improve
+<details>
+<summary>Examples</summary>
 
-- I am learning, maybe through a variety of ways like reading books, reading code, trying and shipping ideas, watching online courses, attending conferences or user group meetings.
-- I am discussing the things I'm learning about or experimenting on with my teammates, maybe even collaborating on the experience.
-- I take my individual growth seriously and realise it is valuable to both myself and to Octopus.
-- I reach out to my peers and leadership group to develop my personal growth plan.
-- I am a self-managing team member, I make and keep my commitments using the privilege of flexibility wisely.
-- I am applying agile practices in my day to day work, and I am beginning to understand why they are important to software development
+- I attended a workshop to increase my skills with React.
+- I was stuck on a problem but I reached out to my team lead to help me.
+- I was assigned a bug fix and I completed it on my own.
 
-### I am an egoless, team-oriented  developer
+</details>
 
-- Other team members genuinely want me on their team.
-- I happily take responsibility for what I produce.
-- I avoid going dark and I know when to call out for help.
-- I communicate professionally and keep stakeholders engaged at all times.
-- I am well aware of all processes of the team and diligently follow them (like maintaining accurate documentation, maintaining tests, and so on).
-- Even when I disagree with something I continue to work enthusiastically, learning from the others in the team.
-- Every venture has mundane tasks, and I work happily and diligently through them.
-- I go out of my way to develop a friendly and professional rapport with my customers and their team members.
-- My contributions to team discussions are positive, informative, and helpful.
+## 🌱 Teaching and Mentoring
+
+- I present and discuss my work with other engineers.
+- I act on feedback and coaching from my team.
+
+<details>
+<summary>Examples</summary>
+
+- I shared a demo of my work in a weekly review session.
+- I applied changes to my pull request based on feedback from my teammate in a code review.
+- I applied a pattern I learned from training and I asked a senior engineer on my team to review it for me to ensure I applied it correctly.
+
+</details>
+
+## 🧭 Culture and Leadership
+
+- I show independent initiative and problem solving.
+- I demonstrate a collaborative attitude.
+- I take responsibility for my own work.
+
+<details>
+<summary>Examples</summary>
+
+- I found it difficult to set up my environment based on the instructions so I updated the instructions.
+- I didn't understand why our team wouldn't rewrite a difficult part of the codebase, so I asked my team lead to explain it to me.
+- A senior engineer on my team gave me some critical feedback on my work, so I took the time to understand how to improve.
+
+</details>
+
+## 🏆 Customer Success
+
+- I ship features with limited but measurable impact to customers and/or other teams.
+
+<details>
+<summary>Examples</summary>
+
+- I was assigned a task to add a new field to a form. It was something that customers had requested and I completed the task and shipped it to production.
+
+</details>
