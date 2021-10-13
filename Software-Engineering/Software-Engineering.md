@@ -22,3 +22,5 @@ The following pages provide demonstrable values and concrete examples to describ
 5. [L5: Principal Software Engineer](L5-Principal-Software-Engineer.md)
 
 💡 Tip: To help guide conversations about your progression with your manager, open multiple tabs and contrast the expectations across adjacent levels.
+
+See also: guidance on [Deriving an overall rating](Overall-Ratings.md).
