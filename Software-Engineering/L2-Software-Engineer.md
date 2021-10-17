@@ -22,7 +22,7 @@
 
 ## 🌱 Teaching and Mentoring
 
-- I use code reviews to strengthen the idioms and practices in use by our team.
+- I use code reviews to strengthen the patterns and practices in use by our team.
 - I help new hires get up to speed with the team's style and existing code base.
 
 <details>
