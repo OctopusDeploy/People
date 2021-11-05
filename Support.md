@@ -91,15 +91,15 @@ The DevOps Application Engineer role builds upon the foundation of the Applicati
 
 - I have mastered my tools and the core building blocks used by our team.
 - I have a deep technical understanding of my area of speciality, and I can confidently use this knowledge to assist customers and fellow support team members in all areas of Octopus.
-- I know when it makes sense to push back against a customer, and when it is appropriate to not create an issue
-- I know how to mentor a customer to the best path, and I understand that the customer's stated issue and the actual issue might not be the same thing
+- I know when it makes sense to push back against a customer, and when it is appropriate to not create an issue.
+- I know how to mentor a customer to the best path, and I understand that the customer's stated issue and the actual issue might not be the same thing.
 
 ### I lead technically
 
 - I have a good understanding of CI/CD pipelines and how they are implemented by our customers.
 - I am trusted across Octopus Deploy and have established good working relationships across the organization, and I co-ordinate our response to complicated support issues by pulling in the right people and teams at the right time.
-- I actively research and implement technical solutions to improve our response times
-- I confidently, accurately, and quickly replicate complex deployment scenarios to assist with issue replication and resolution 
+- I actively research and implement technical solutions to improve our response times.
+- I confidently, accurately, and quickly replicate complex deployment scenarios to assist with issue replication and resolution.
 
 ### I am a mentor of mentors
 
@@ -113,27 +113,27 @@ The DevOps Application Engineer role builds upon the foundation of the Applicati
 
 The Senior DevOps Application Engineer role builds upon the foundation of the DevOps Application Engineer role.
 
-> I am an expert in the DevOps space, a person that is recognised both within Octopus as part of the wider DevOps community for the breadth and depth of your technical ability.
+> I am an expert in the DevOps space, a person that is recognised both within Octopus and as part of the wider DevOps community for the breadth and depth of your technical ability.
 
 ### I am trusted
 
 - I have mastered the tools and concepts involved in DevOps and can apply them in production scenarios.
 - I have a deep technical understanding of the DevOps space, and I can confidently use this knowledge to assist customers and fellow support team members in all areas of Octopus and related technologies.
-- I know how to mentor a customer to the best path, and I understand that the customer's stated issue and the actual issue might not be the same thing
+- I know how to mentor a customer to the best path, and I understand that the customer's stated issue and the actual issue might not be the same thing.
 
 ### I lead technically
 
-- I have a deep understanding of CI/CD pipelines, the overall DevOps landscape and how they are implemented by our customers 
+- I have a deep understanding of CI/CD pipelines, the overall DevOps landscape and how they are implemented by our customers.
 - I know the why, along with the how.
-- I confidently, accurately, and quickly replicate complex deployment scenarios to assist with issue replication and resolution 
+- I confidently, accurately, and quickly replicate complex deployment scenarios to assist with issue replication and resolution.
 - I don't know everything, however I can confidently navigate to the answer using my existing knowledge while leading my team mates to the solution with me.  
 
 ### Everything is a learning opportunity
 
 - I am constantly learning new technologies and methodologies that relate to Octopus.
-- I work with teams outside of Support to further enhance my knowledge
+- I work with teams outside of Support to further enhance my knowledge.
 - I happily take responsibility for my own mistakes and I learn from the mistakes of others.
-- I share the lessons I learn so the entire team and Octopus can benefit
+- I share the lessons I learn so the entire team and Octopus can benefit.
 
 
 ## Application Support Manager / Senior Application Support Manager
@@ -154,4 +154,3 @@ The Senior Application Support Manager encompasses everything in the Support man
 
 - I proactively recognise dysfunction in my team and work effectively to resolve it in a timely manner.
 - I help form team strategy with the VP of Support, actively working to execute on wider company goals.
-
