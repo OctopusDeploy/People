@@ -128,7 +128,7 @@ The Senior DevOps Application Engineer role builds upon the foundation of the De
 - I confidently, accurately, and quickly replicate complex deployment scenarios to assist with issue replication and resolution 
 - I don't know everything, however I can confidently navigate to the answer using my existing knowledge while leading my team mates to the solution with me.  
 
-### Everything is a learning oppurtunity
+### Everything is a learning opportunity
 
 - I am constantly learning new technologies and methodologies that relate to Octopus.
 - I work with teams outside of Support to further enhance my knowledge
