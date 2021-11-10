@@ -93,7 +93,6 @@ _We avoid distinguishing too much between the Junior Software Engineer and Softw
 - I am comfortable with transparently assessing risk, making recommendations, escalating appropriately, and dealing with the consequences along the way.
 - I am comfortable building a product vision based on the needs of multiple customers, regardless of whether this involves technology or otherwise.
 - I can confidently and charismatically pitch ideas, positively influencing and convincing people to take decisive action based on reaching consensus.
-- I am an adept communicator, and can effectively steer technical and non-technical conversations to positive outcomes over any medium.
 
 ### I help our team focus on delivering value to our customers
 
