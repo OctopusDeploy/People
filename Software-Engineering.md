@@ -114,7 +114,6 @@ _We avoid distinguishing too much between the Junior Software Engineer and Softw
 - I structure my work according to these priorities: coordinate, communicate, then contribute.
 - I understand our organisation structure and how we schedule work (ShapeUp, QRF, etc) and I help my team be net-positive contributors in this environment.
 - I understand our fixed-time/high-quality/variable-scope approach to software projects and I make good tradeoffs using tools like the "scope hammer" and "safety nets".
-- I am comfortable with transparently assessing risk, making recommendations, escalating appropriately, and dealing with the consequences along the way.
 - I can confidently and charismatically pitch ideas, positively influencing my team to take decisive action based on reaching consensus.
 - I am an adept communicator, and can effectively steer technical and non-technical conversations to positive outcomes over any medium.
 
