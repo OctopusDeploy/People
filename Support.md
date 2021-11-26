@@ -4,7 +4,7 @@
 
     We avoid distinguishing too much between the Junior Application Support Engineer and Application Support Engineer roles. These roles are primarily focused on learning with the aim to grow into the contribution of a Senior Application Support Engineer and beyond. The primary indicator inside these levels is how far you are along your journey from dependent contribution to independent contribution.
 
->I am a valuable and enthusiastic member of an Octopus team. I show great potential and have a high growth trajectory toward independent contribution.
+>I am a valuable and enthusiastic member of the Octopus Support team. I show great potential and have a high growth trajectory toward independent contribution.
 
 
 ### I write high quality responses quickly and with minimal oversight
