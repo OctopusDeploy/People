@@ -25,31 +25,17 @@ _We avoid distinguishing too much between the Junior Software Engineer and Softw
 - I am a self-managing team member, I make and keep my commitments using the privilege of flexibility wisely.
 - I am applying agile practices in my day to day work, and I am beginning to understand why they are important to software development
 
-### I am an egoless, team oriented developer
+### I am an egoless, team-oriented  developer
 
 - Other team members genuinely want me on their team.
 - I happily take responsibility for what I produce.
 - I avoid going dark and I know when to call out for help.
-- I communicate professionally and keep stake holders engaged at all times.
+- I communicate professionally and keep stakeholders engaged at all times.
 - I am well aware of all processes of the team and diligently follow them (like maintaining accurate documentation, maintaining tests, and so on).
 - Even when I disagree with something I continue to work enthusiastically, learning from the others in the team.
 - Every venture has mundane tasks, and I work happily and diligently through them.
 - I go out of my way to develop a friendly and professional rapport with my customers and their team members.
 - My contributions to team discussions are positive, informative, and helpful.
-
-## Quality Coach
-
-> I work with Octopus team members to improve the overall quality of the Octopus ecosystem.
-
-### I ensure Octopus can ship with confidence
-
-- I contribute and provide feedback to product, design, and engineering activities so that the product is user-friendly, efficient, consistent, robust, and useful to customers.
-- I use customer’s feedback and data to determine potential issues and apply it to improve future deliveries.
-- I identify gaps in the implementation processes and product and collaborate with the team to improve the overall system design.
-- I help other team members to achieve better business value.
-- I devise strategies to make automated tests more accurate, reliable, reusable, and extendable.
-- I use code reviews to coach on how to improve our tests and apply better practices.
-- I introduce new testing tools and practices for faster feedback cycles across different layers of the product.
 
 ## Senior Software Engineer
 
@@ -87,7 +73,7 @@ _We avoid distinguishing too much between the Junior Software Engineer and Softw
 - Every venture has mundane tasks, but I'm the one that can be trusted to get them done and get them done right, and usually with a handful of ingenuity.
 - I recognize and accept that change is constant, and my approach allows me to tactfully challenge, or confidently adapt, depending on which I deem appropriate.
 - I have proven I can decompose larger requirements into smaller, more manageable pieces, to deliver functionality in an incremental and iterative manner.
-- I possess writing skills that let me be clear, concise, articulate, and persuasive in all of my outgoing communications.
+- I possess writing skills that let me be clear, concise, articulate, and persuasive.
 
 ### I've become a student of my craft
 
@@ -133,9 +119,35 @@ _We avoid distinguishing too much between the Junior Software Engineer and Softw
 - I can confidently and charismatically pitch ideas, positively influencing my team to take decisive action based on reaching consensus.
 - I am an adept communicator, and can effectively steer technical and non-technical conversations to positive outcomes over any medium.
 
-## Engineering Manager
+## Principal Software Engineer
 
-_We consider an engineering manager to be a full time role building on top of the Lead Software Engineer. See the [manager's handbook](https://octopushq.atlassian.net/wiki/spaces/IN/pages/628981849/Managers+at+Octopus)._
+> I am an influential Engineering [leader](Leadership.md) who identifies problems and opportunities relevant to Octopus' strategy, builds consensus to invest in solutions, and guides Engineering to deliver significant lasting change across Octopus.
+
+### I uncover important problems and opportunities that are critical to the long-term success of Octopus
+
+- I have a deep understanding of Octopus products and strategy
+- I collaborate with other Engineering leaders to ensure I am aware of all major initiatives at Octopus and can account for them in my own initiatives
+- I have a track record of identifying significant problems, inhibitors and opportunities, and for creating lasting, best-fit solutions that align our strategy and Engineering efforts
+- I work closely with product, engineering, and executive stakeholders to articulate and refine solutions to problems that are timely, important, and impactful. 
+- Instead of simply patching or extending existing solutions, which may not be fit for purpose anymore, my contributions open up whole new areas of strategic possibility that progress our journey of making Octopus a world-class Engineering organization.
+
+### I am the custodian of an area of strategic importance to Octopus
+
+- I am comfortable taking on large-scale greenfields and brownfields initiatives (e.g. re-architecting Octopus Server to allow for adding new step types as modular extensions, or creating a completely new Octopus Cloud platform)
+- I identify people and teams with the necessary skills, work out how to fill gaps, and guide and influence these people and teams collaboratively
+- I use a variety of tools and techniques to effectively communicate short and long-term plans and goals to my teams, stakeholders, Octopus senior leadership, and the broader organization
+- I use my experience to collaboratively steer teams toward good long-term technical decisions
+- The results of the initiatives I champion are measurable
+
+### I share my knowledge both within Octopus, and with the Octopus and wider developer community
+
+- I actively influence engineering teams across Octopus resulting in improved engineering excellence and overall productivity
+- I actively blog about the lessons we are learning as we improve engineering excellence to clarify our thinking, reinforce the learning, attract customers and potential future employees
+- I have a proven track record of expertly tailoring my communication to the target audience with a result of increased clarity and impact
+
+## Tech Lead / Engineering Manager
+
+_We consider a tech lead / engineering manager to be a full time role building on top of the Lead Software Engineer. See the [manager's handbook](https://octopushq.atlassian.net/wiki/spaces/IN/pages/628981849/Managers+at+Octopus)._
 
 > I take responsibility for 6-10 people in the engineering team and the results they ultimately deliver.
 > An Engineering Manager encompasses all of the qualities listed in [Leadership](Leadership.md) and is usually a full-time role.
