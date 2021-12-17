@@ -23,4 +23,4 @@ The following pages provide demonstrable values and concrete examples to describ
 
 💡 Tip: To help guide conversations about your progression with your manager, open multiple tabs and contrast the expectations across adjacent levels.
 
-See also: guidance on [Deriving an overall rating](Overall-Ratings.md).
+See also: guidance on [Deriving an overall rating (Maturing, Performing, Exceeding)](Overall-Ratings.md).

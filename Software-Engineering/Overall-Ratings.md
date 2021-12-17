@@ -1,13 +1,33 @@
-### Deriving an overall rating
+## Deriving an overall rating (Maturing, Performing, Exceeding)
 
-At performance review time, you and your manager can follow this process for deriving an overall level and salary band (i.e. Maturing, Performing, or Exceeding):
+We use Maturing, Performing, or Exceeding bands within each level to help us ensure that:
+- Our salaries pass the [printer test](https://handbook.octopus.com/life-octopus/career#compensation-philosophy)
+- We support both "superstars" seeking a steep growth trajectory and "rockstars" seeking a shallower growth trajectory
+- We have role titles that set clear expectations between individuals across Octopus
 
-1.  Open up the description for your current (or next) level
-2.  For each dimension (i.e. Domain Expertise, Teaching & Mentoring, etc):
-    1.  Consider the values and examples listed in that dimension holistically. The examples are not a "checklist" of discrete things that an engineer must demonstrate to progress, but rather together with the values should paint a more vivid picture of the sort of behaviors and impact that an engineer at each level is expected to have. 
-    2.  Talk to your manager to understand whether you are "Maturing", "Performing", or "Exceeding" at your level in that dimension
-    3.  If you are "Maturing" in that dimension, work with your manager to understand how you're progressing and put together a coaching plan if necessary
-4.  Your manager is responsible for deriving your overall rating, in line with our [calibration](https://octopushq.atlassian.net/wiki/spaces/RND/pages/2236940315/Engineering+calibration+process) and [promotion](https://octopushq.atlassian.net/wiki/spaces/RND/pages/2236710937/Engineering+promotion+process) processes (internal links). Here are some rules of thumb to help your manager execute this step, for a given level:
-    1.  Engineers who are "Maturing" in any dimension tend to be "Maturing" overall
-    2.  Engineers who are "Performing" in every dimension are "Performing" overall
-    3.  Engineers who are "Exceeding" in 3 or more dimensions tend to be "Exceeding" overall
+In short:
+- **Level** (i.e. L1-5) is used to set the person's role title (e.g. Junior Software Engineer, Senior Software Engineer), to broadcast expectations and reinforce archetypes, to the person, across Octopus and beyond.
+- **Band** (i.e. Maturing/Performing/Exceeding) is used to reflect value contributed within that level, and thereby help us pass the printer test.
+
+### Maturing
+
+The Maturing band is suitable for someone who is _immediately ready_ to _largely_ deliver on the expectations of that level, but needs further coaching or support before they are fully performing in 1 or more dimensions (i.e. 🦉 Domain expertise, 🌱 Teaching and Mentoring, 🧭 Culture and Leadership or 🏆 Customer Success).
+
+Use these tests to check if someone is ready for a promotion to Maturing at the next level:
+
+1. _Would you be proud to introduce that person for the first time to someone on another team, as an unsurprising example of what to expect from an "L(N+1) Engineer" (e.g. "Senior Engineer")_?
+2. _Do you and the person have a shared understanding of the gap to get to Performing at that next level, and are you both up to the challenge to put that plan into action_?
+3. _Have you lined up the opportunities that person will need to demonstrate they can get to Performing at that next level?_
+
+There is no hard and fast rule for a maximum duration that someone can be in a Maturing band. The important thing is that the manager is confident about the person's growth trajectory toward Performing. If this confidence is lost, the manager and person should discuss moving back to Exceeding in the previous level.
+
+### Performing
+
+The Performing band should be considered the default, and is for everyone who typifies what it means to be a great contributor at that level at Octopus.
+
+### Exceeding
+
+The Exceeding band is a tool that managers can use when they need to recognize value contributed significantly _above and beyond_ what is expected at their level. This should usually only apply to:
+
+1. someone who doesn't _want_ to be promoted to the next level with its associated expectations (e.g. a "rockstar" who prefers a shallower growth trajectory), or
+2. someone who is ready for the next level, but doesn't yet have a chance to demonstrate they can meet expectations at that level (note: in a growing company, this short be a short-term situation)
