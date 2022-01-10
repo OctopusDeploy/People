@@ -1,6 +1,6 @@
-# L2: Software Engineer
+# L2: Site Reliability Engineer
 
-> _I am a valuable and enthusiastic member of an Octopus team. I can work independently on small projects, and am focused on learning with a trajectory of growth into the contribution of a Senior Software Engineer or beyond._
+> _I am a valuable and enthusiastic member of an Octopus team. I can work independently on small projects, and am focused on learning with a trajectory of growth into the contribution of a Senior Site Reliability Engineer or beyond._
 
 - **Planning horizon**: Current and next cycle
 - **Impact radius**: Self plus some team mates
