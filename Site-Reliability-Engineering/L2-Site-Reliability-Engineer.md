@@ -16,35 +16,40 @@
 <details>
 <summary>Examples</summary>
 
-- I completed maintenance work in a complex area of the codebase, relying on my knowledge of .NET and occasionally reaching out for help from my more senior teammates when I knew I would need it.
+- I completed maintenance work in a complex area of our systems, relying on my own knowledge and 
+occasionally reaching out for help from my more senior teammates when I knew I would need it.
 
 </details>
 
 ## 🌱 Teaching and Mentoring
 
-- I use code reviews to strengthen the patterns and practices in use by our team.
+- I use reviews to strengthen the patterns and practices in use by our team.
 - I help new hires get up to speed with the team's style and existing code base.
 
 <details>
 <summary>Examples</summary>
 
 - I acted as a buddy for a new person who joined my team, and helped them become productive with our tools.
-- I gave feedback in a code review that resulted in a teammate updating the code to reflect better practices.
+- I gave feedback in a review that resulted in a teammate updating the work to reflect better practices.
 
 </details>
 
 ## 🧭 Culture and Leadership
 
 - I identify quality and reliability issues in systems that my team maintains.
+- I engage in *learning from failure* initiatives
+- I help my team use and interpret metrics to guide prioritisation
 - I seek input from teammates and outside experts on systems and feature design.
 - I collaborate well with product, support, and other teams.
 
 <details>
 <summary>Examples</summary>
 
-- I noticed a section of code that could result in a caching issue, and I modified it to prevent the issue.
+- I noticed an inappropriate configuration that could result in a caching issue, and I modified it to prevent the issue.
+- I noticed an SLO trending badly and intervened in the system to resolve the underlying issue before customers were badly affected
 - I was assigned a task in a greenfields project that required me to design a small system, so I reached out to my team lead to collaborate with me.
-- My product manager and my team lead asked me to do two things as the top priority, so I got them together in a conversation so we could work it out as a team.
+- After an incident, I contributed to the incident review process with candid analysis and feedback.
+- A manager and my team lead asked me to do two things as the top priority, so I got them together in a conversation so we could work it out as a team.
 
 </details>
 
