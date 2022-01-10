@@ -1,6 +1,6 @@
-# L3: Senior Software Engineer
+# L3: Senior Site Reliability Engineer
 
-> _I am a highly sought-after member of an Octopus team with a proven record of shipping high-quality code to production._
+> _I am a highly sought-after member of an Octopus team with a proven record of independently identify and deliver solutions that ensure the resilience and reliability across a broad product capability or technical system._
 
 - **Planning horizon**: Current and next cycle
 - **Impact radius**: Peers (2-5)
@@ -11,7 +11,7 @@
 
 - I am advanced in my team's domain.
 - I can confidently step outside my own comfort zone and adapt quickly to new technologies.
-- I am able to design interfaces and reusable components for my team.
+- I am able to codify conventions (where appropriate) into my team\'s systems
 - I make appropriate scaling, reliability, and maintenance trade-offs as they occur in practice.
 - I identify, qualify and reduce technical debt as appropriate to my team's priorities.
 
@@ -20,7 +20,8 @@
 
 - I set up or maintained an automated integration and delivery pipeline.
 - I determined the technical direction within a brown-field project.
-- I made pragmatic decisions in order to ship a product.
+- I built a reusable template for metric dashboards and alerting
+- I made pragmatic decisions in order to ship.
 - People asked me for my opinion when making technical decisions because I had a proven track record of making wise choices.
 
 </details>
@@ -29,14 +30,17 @@
 
 - I consistently help new hires and more junior engineers to "level up" and become more proficient over time
 - I am fuelling my team's desire to learn.
+- I help others to understand and manage the tradeoffs between aspects of system reliability.
 
 <details>
 <summary>Examples</summary>
 
 - I ran a knowledge sharing session.
 - I mentored a more junior developer and they went on to achieve something they couldn't have before.
+- I trained a team member in how to run incident reviews
 - I shared useful videos/blogs/papers that led to some action.
-- I used code reviews as an opportunity to teach and showed others alternate, cleaner ways to implement functionality in an ego-less manner.
+- I used reviews as an opportunity to teach and showed others alternate, cleaner ways to implement functionality in an ego-less manner.
+- I helped a team member decide to implement observability tooling before shipping new features so that they could then ship and understand their customers’ production experience
 
 </details>
 
