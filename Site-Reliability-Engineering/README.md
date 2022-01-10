@@ -15,8 +15,8 @@ Our site reliability engineering roles are defined by expectations for each leve
 
 The following pages provide demonstrable values and concrete examples to describe these expectations:
 
-1. [L2: Software Engineer](L2-Site-Reliability-Engineer.md)
-2. [L3: Senior Software Engineer](L3-Site-Reliability-Software-Engineer.md)
+1. [L2: Site Reliability Engineer](L2-Site-Reliability-Engineer.md)
+2. [L3: Senior Site Reliability Engineer](L3-Senior-Site-Reliability-Engineer.md)
 
 💡 Tip: To help guide conversations about your progression with your manager, open multiple tabs and contrast the expectations across adjacent levels.
 
