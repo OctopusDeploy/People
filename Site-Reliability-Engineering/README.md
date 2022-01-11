@@ -32,7 +32,7 @@ They help teams to make the right reliability trade offs. They understand how to
  a system is running, identify the high leverage points and move them to improve the outcomes, 
  costs and/or manage risks. 
 
-They are our resident experts in learning, both from what works and doesn\'t, are unphased 
+They are our resident experts in learning, both from what works and doesn\'t, are unfazed 
 by chaos, they will calmly and practically get problems fixed.
 
 They likely find lessons from aviation safety culture to be interesting and relevant to their 
