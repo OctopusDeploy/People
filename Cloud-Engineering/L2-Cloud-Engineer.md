@@ -15,7 +15,7 @@
 - I am becoming proficient with virtualization, containerization, and serverless technologies.
 - I am familiar with implementing and supporting CI/CD pipelines.
 - I am proficient with one or more scripting languages.
-- I am developing a solid understanding of .NET fundamentals so that I can contribute to the Octopus Cloud codebase.
+- I am developing a solid understanding of .NET fundamentals so that I can contribute to the Octopus Cloud codebase. (Equivalent to [L1 Junior Software Engineer](../Software-Engineering/L1-Junior-Software-Engineer.md))
 - I identify and raise potential problems with my team before getting blocked, and I ask for help when needed.
 
 <details>
