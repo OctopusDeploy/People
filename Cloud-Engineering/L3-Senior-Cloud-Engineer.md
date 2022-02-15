@@ -28,7 +28,7 @@
 
 ## 🌱 Teaching and Mentoring
 
-- I consistently help new hires and to "level up" and become more proficient over time.
+- I consistently help new hires and team members to "level up" and become more proficient over time.
 - I am fuelling my team's desire to learn.
 
 <details>
