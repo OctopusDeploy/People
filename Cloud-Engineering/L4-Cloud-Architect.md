@@ -15,7 +15,7 @@
 - I stay up-to-date on evolving standards, platform features, and critical vendor and community-provided technologies.
 - I train and mentor others on virtualization, containerization, and serverless technologies.
 - I regularly identify, qualify and reduce technical debt as appropriate to my team's priorities.
-- I have a solid understanding of .NET fundamentals and I contribute to the Octopus Cloud codebase efficiently. (Equivalent to at least [L2 Software Engineer](../Software-Engineering/L2-Software-Engineer.md))
+- I have a solid understanding of .NET fundamentals and I contribute to the Octopus Cloud codebase efficiently. (Equivalent to at least [L3 Senior Software Engineer](../Software-Engineering/L3-Senior-Software-Engineer.md))
 - I am confident making architectural decisions, taking cross-cutting concerns into consideration as appropriate. 
   E.g. infrastructure, identity management, security, scalability, concurrency, and maintainability.
 
