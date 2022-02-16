@@ -7,7 +7,6 @@
 - **Evaluation**: Manager or Director
 - **Responsibility and direction needed**: Takes brand new ideas from inception to production with limited supervision.
 
-
 ## 🦉 Domain expertise
 
 - I competently demonstrate my lived experience of server operating systems, network, and security fundamentals.
@@ -21,6 +20,7 @@
 
 <details>
 <summary>Examples</summary>
+
 - I successfully completed a large, complex project with multiple components.
 - I dived head-first into a bug fix or incident in an area of significant ambiguity or risk, led the investigation and resolved the issue.
 - I made appropriate trade-offs and scope decisions in order to ship a product. I engaged stakeholders and kept them informed.
@@ -63,6 +63,7 @@
 
 <details>
 <summary>Examples</summary>
+
 - I identified the work involved with delivering a pitch, broke it into tasks and managed the project to completion.
 - I took ownership of my team's retrospective process, making sure everyone had a voice in how our team works and evolves together.
 - I performed interviews for cloud engineering candidates, providing detailed and useful feedback.
@@ -83,6 +84,7 @@
 
 <details>
 <summary>Examples</summary>
+
 - I contributed to shaping a pitch, identified risks and appropriate scoping, that helped us ship value to customers as soon as possible, and meet the team's objectives.
 - In delivering a pitch, I used the "scope hammer" judiciously, to maintain high quality while shipping as much value as possible to users within a cycle.
 - I have multiple methods to review and understand customer requirements and I used this data to inform a pragmatic decision. 

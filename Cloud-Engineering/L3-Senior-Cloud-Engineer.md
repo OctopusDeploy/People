@@ -20,6 +20,7 @@
 
 <details>
 <summary>Examples</summary>
+
 - I led a small improvement project for Octopus Cloud from pitch to production, collaborating with my team.
 - I made pragmatic decisions in order to ship a product. I engaged stakeholders and kept them informed.
 - People asked me for my opinion when making technical decisions because I had a proven track record of making wise choices.
@@ -33,6 +34,7 @@
 
 <details>
 <summary>Examples</summary>
+
 - I saw an opportunity to train others on an aspect of cloud platform, and I followed through to provide a knowledge sharing session.
 - I was buddy to a new team member and helped them navigate our systems and culture.
 - I used a pairing session as an opportunity to teach and show someone an alternate, cleaner way to implement functionality in an ego-less manner.
@@ -50,6 +52,7 @@
 
 <details>
 <summary>Examples</summary>
+
 - I took on a significant share of unplanned work and other "housekeeping" tasks.
 - I spotted a contentious issue that could have gone badly and facilitated everyone toward a decision that resolved the situation.
 - I recognised a problem early and got in to fix it even though it wasn't my fault.
@@ -66,6 +69,7 @@
 
 <details>
 <summary>Examples</summary>
+
 - I sought input from others outside of my team when planning a change with significant impact, and acted on that feedback.
 - I helped unblock the delivery pipeline to make sure we could verify the expected behaviour of the changes we made to production.
 - I analyzed metrics to make technical and scope decisions during project planning.
