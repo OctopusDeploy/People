@@ -16,7 +16,7 @@
 <details>
 <summary>Examples</summary>
 
-- I completed maintenance work in a complex area of our systems, relying on my own knowledge and 
+- I completed maintenance work in a complex area of our systems, relying on my own knowledge of networking and systems, and 
 occasionally reaching out for help from my more senior teammates when I knew I would need it.
 
 </details>

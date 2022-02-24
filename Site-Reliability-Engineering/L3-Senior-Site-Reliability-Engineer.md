@@ -18,7 +18,7 @@
 <details>
 <summary>Examples</summary>
 
-- I set up or maintained an automated integration and delivery pipeline.
+- I set up, maintained or improved an automated integration and delivery pipeline.
 - I determined the technical direction within a brown-field project.
 - I built a reusable template for metric dashboards and alerting
 - I made pragmatic decisions in order to ship.
