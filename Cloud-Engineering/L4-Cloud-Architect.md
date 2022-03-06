@@ -12,7 +12,7 @@
 - I competently demonstrate my lived experience of server operating systems, network, and security fundamentals.
 - I am comfortable diving head-first into moderately risky situations with relatively little upfront information and oversight.
 - I stay up-to-date on evolving standards, platform features, and critical vendor and community-provided technologies.
-- I train and mentor others on virtualization, containerization, and serverless technologies.
+- I train and mentor others on virtualization and effective use of containers.
 - I regularly identify, qualify and reduce technical debt as appropriate to my team's priorities.
 - I have a solid understanding of .NET fundamentals and I contribute to the Octopus Cloud codebase efficiently. (Equivalent to at least [L3 Senior Software Engineer](../Software-Engineering/L3-Senior-Software-Engineer.md))
 - I am confident making architectural decisions, taking cross-cutting concerns into consideration as appropriate. 
