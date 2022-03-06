@@ -1,6 +1,6 @@
 # What Do Cloud Engineers Do?
 
-They help us provide customers with a world-class SaaS product.
+Cloud Engineers help ensure customers have the best possible experience with our SaaS product.
 
 Our Cloud Engineers bring to the role their lived experience working with virtual networks, subnets, load balancing, and containers.
 They use their skills with coding, IaC and CI/CD to automate all the things.
