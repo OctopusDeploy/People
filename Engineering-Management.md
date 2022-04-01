@@ -36,6 +36,8 @@
 ## L5 Senior Engineering Manager
 
 > I employ a robust managerial toolbox to independently lead a team, or teams of engineers delivering direct business impact
+>
+> _See also: [L5: Managing Principal Software Engineer](Software-Engineering/L5-Managing-Principal-Software-Engineer.md)_
 
 ### :triangular_flag_on_post: Leadership
 - I am able to independently identify and tackle projects that solve open-ended, ambiguous problems that are often beyond the scope of my immediate team.
