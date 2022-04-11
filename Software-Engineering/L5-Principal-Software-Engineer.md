@@ -1,6 +1,8 @@
 # L5: Principal Software Engineer
 
 > _I am an influential Engineering leader who identifies problems and opportunities relevant to Octopus' strategy, builds consensus to invest in solutions, and guides Engineering to deliver significant lasting change across Octopus._
+>
+> _See also: [L5: Managing Principal Software Engineer](L5-Managing-Principal-Software-Engineer.md)_
 
 - **Planning horizon**: 1+ year
 - **Impact radius**: Group+ (15-50). Note: This role is evolving as the company grows. PSE is right at the top of our IC track. For example, the impact radius expectations of an L5 will likely grow as Octopus grows larger over the next couple years, from 2-4 teams in 2021. We expect the role to stabilise in 2022 once the company has grown to the point of needing an L6 IC engineering role.
