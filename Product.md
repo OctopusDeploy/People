@@ -103,7 +103,7 @@
 
 ### I have become a student of my craft
 
-- I keep current with product management concepts and practices to confidentially demonstrate the functionality and answer questions from product teams and stakeholders
+- I keep current with product management concepts and practices to confidently demonstrate the functionality and answer questions from product teams and stakeholders
 - I take accountability for the performance of product practices, taking owning of structural problems to learn how we can improve
 - I seek out learning and inspiration to expand my awareness of different techniques
 - I reflect, regularly, on my personal and professional development to contribute to a growing company
