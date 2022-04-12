@@ -79,6 +79,35 @@
 - I mentor another person on their product thinking to help them to round out their skill set
 - I share my on-the-job learning and experiences with others so they can be more effective in their roles
 
+## Product Operations Manager
+
+> I am curious about how product teams identify opportunities, match problems with solutions, and earn healthy adoption. Others seek me out as the person who can help improve communication, feedback loops, and data sets that lead to improving our decision-making confidence. I work with product teams to prioritize problems that will improve our understanding of customers which in turn increases our chance of delivering impactful results.
+
+### I discover opportunities to improve collaboration between product teams and the business
+
+- I learn from product teams about their ways of working to identify opportunities to share and improve product practices
+- I learn from customer teams how they listen for and provide feedback to product teams to identify opportunities to streamline communication
+- I consult with product teams who have faced similar challenges to understand what is working for them and how we might apply the learning in our context
+- I facilitate continuing education among product managers to experiment with ways of working
+
+### I design and implement systems that enable product teams to improve collaboration with teams across the business
+
+- I facilitate portfolio planning activities to help teams align with other teams and communicate their plans and progress
+- I ensure product plans and updates are accessible and useful for customer teams to support them in managing customer expectations
+- I capture sensible defaults and working practices based on the experiences of our product teams to enable new teams to have a good starting point
+
+### I ensure teams can access trustworthy, useful data to support decision making and impact tracking
+
+- I partner with UX and operations teams for reliable, understandable metrics to support decision making and track impact
+- I partner with UX and customer teams on streamlining feedback loops to enable product teams to incorporate feedback in decision making
+
+### I have become a student of my craft
+
+- I keep current with product management concepts and practices to confidently demonstrate the functionality and answer questions from product teams and stakeholders
+- I take accountability for the performance of product practices, taking owning of structural problems to learn how we can improve
+- I seek out learning and inspiration to expand my awareness of different techniques
+- I reflect, regularly, on my personal and professional development to contribute to a growing company
+
 ## Director of Product
 
 > I own the storyboard for the product, from where we are today to the choices on where we invest next. I spend time exploring where we could go next, while looking back to ensure that most of our customers are able to take advantage of our work. I watch for changes in market needs and industry trends to ensure we remain relevant in our direction. Through my customer, market, and industry connection I identify the key problem sets we focus on today, and in the years to come. As the product team(s) execute on their mission, I keep a pulse on their progress and weave in their work into the broader story. I manage, and share the pace of our investment to ensure we are where we need to be for our customers, when they need us there.
