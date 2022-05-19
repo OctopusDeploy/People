@@ -68,6 +68,7 @@
 - I can identify expansion opportunities and work with Key Account Managers to determine goals and recognize churn risk.
 - I identify customer readiness for business reviews and provide valuable input.  
 - I am the advocate for my customers within Octopus.
+- I proactively develop the agenda for a customer call. Surfacing features and items of interest to the customer.
 
 <details>
 <summary>Examples</summary>
@@ -76,5 +77,6 @@
 - I helped customers streamline their deployment processes to improve their DORA metrics.
 - I worked with our support and engineering teams to get all of the necessary information for a high-risk support issue.
 - I worked with a customer to demonstrate how Octopus has improved deployments and compliance processes at a business review.
+- I know one of my customers uses AWS Lambdas so I gathered updates on the progress of the features in development and presented them to the customer. Showing a demo of the feature when possible.
 
 </details>
