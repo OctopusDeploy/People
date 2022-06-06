@@ -52,16 +52,16 @@
 
 </details>
 
-## 🏆 Customer Success
+## 🏆 Stakeholder Success
 
-- I consistently deliver systems and features that provide significant value to customers and/or other teams.
-- I respond to escalated customer issues and incidents in a proactive, timely fashion.
+- I consistently deliver outcomes and features that provide significant value to stakeholders and/or other teams.
+- I respond to escalated stakeholder issues and incidents in a proactive, timely fashion.
 - I lead and participated in incident reviews to help us prevent future incidents.
 
 <details>
 <summary>Examples</summary>
 
-- The team assigned me work last cycle based on customer needs and I completed this work diligently.
-- A customer issue was escalated to my team, which I investigated and fixed at the most suitable time based on my existing workload.
+- The team assigned me work last cycle based on stakeholder needs and I completed this work diligently.
+- A stakeholder issue was escalated to my team, which I investigated and fixed at the most suitable time based on my existing workload.
 
 </details>

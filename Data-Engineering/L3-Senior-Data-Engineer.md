@@ -66,21 +66,21 @@
 
 </details>
 
-## 🏆 Customer Success
+## 🏆 Stakeholder Success
 
 - I ship ideas from conception to production.
-- I advocate for customer needs and motivations.
+- I advocate for stakeholder needs and motivations.
 - I decompose larger requirements into smaller, more manageable pieces, to deliver functionality in an incremental and iterative manner.
-- I build requirements and technical recommendations based on the real needs of customers.
+- I build requirements and technical recommendations based on the real needs of stakeholders.
 
 <details>
 <summary>Examples</summary>
 
 - I led a shaped pitch from idea to production
-- I gave an early access version to our internal-customers to get feedback during development, and acted on that feedback.
+- I gave an early access version to our stakeholders to get feedback during development, and acted on that feedback.
 - I helped unblock the delivery pipeline to make sure we could verify the expected behaviour of the changes we made to production.
 - I analyzed data to make technical and scope decisions during project planning and rollout.
-- I gave a customer/stakeholder a suitable time for when an issue would be resolved, once confirming it wasn't urgent / suitable workarounds existed.
+- I gave our stakeholder a suitable time for when an issue would be resolved, once confirming it wasn't urgent / suitable workarounds existed.
 
 
 </details>
