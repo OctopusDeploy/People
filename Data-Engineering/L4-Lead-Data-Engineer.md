@@ -67,7 +67,7 @@
 - I assess what work supports the commercial growth of Octopus and make insightful recommendations regarding priorities.
 - I understand our fixed-time/high-quality/variable-scope approach to software projects.
 - I invest in sustainable delivery, maintaining professional standards and striking a pragmatic balance between idealistic purity and business pressures.
-- I identify key gaps in our platform offerings and functionality that will empower those in the organization to make better decissions.
+- I identify key gaps in our platform offerings and functionality that, if addressed, will empower those in the organization to make better decisions.
 - I pragmatically plan minimum viable infrastructure for the data platform.
 
 <details>
