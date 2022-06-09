@@ -46,7 +46,7 @@
 - I understand our organisation structure and how we schedule work, and help my team find their highest value contributions in this environment.
 - I am comfortable with transparently assessing risk, making recommendations, escalating appropriately, and dealing with the consequences along the way.
 - I recognise problems and proactively engage with other people to prevent or resolve them quickly.
-- I am comfortable coordinating projects where success requires the input of multiple teams and diverse technical roles.
+- I am comfortable coordinating projects where success requires the input of multiple teams and diverse roles.
 - I am an adept communicator, and can effectively steer technical and non-technical conversations to positive outcomes over any medium.
 
 <details>
