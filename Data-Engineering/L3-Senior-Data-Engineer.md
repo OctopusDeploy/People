@@ -5,7 +5,7 @@
 - **Planning horizon**: Current and next cycle
 - **Impact radius**: Peers (2-5)
 - **Evaluation**: Manager
-- **Responsibility and direction needed**: Takes vertical slices of larger products from idea to production.
+- **Responsibility and direction needed**: Takes vertical slices of larger products from idea to production, with minimal supervision but with regular check-ins.
 
 ## 🦉 Domain expertise
 
