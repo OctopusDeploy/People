@@ -68,10 +68,10 @@
 
 ## 🏆 Stakeholder Success
 
-- I ship ideas from conception to production.
+- I ship ideas from conception to production of high quality.
 - I advocate for stakeholder needs and motivations.
 - I decompose larger requirements into smaller, more manageable pieces, to deliver functionality in an incremental and iterative manner.
-- I build requirements and technical recommendations based on the real needs of stakeholders.
+- I build requirements and technical recommendations based on the real needs of stakeholders, that are verifiably accurate and reliable.
 
 <details>
 <summary>Examples</summary>
