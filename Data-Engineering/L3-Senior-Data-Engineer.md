@@ -57,7 +57,7 @@
 <details>
 <summary>Examples</summary>
 
-- I performed regular interviews for engineering candidates, and provided detailed and useful feedback.
+- I performed regular interviews for _data-engineering_ candidates, and provided detailed and useful feedback.
 - I took on a significant share of unplanned work and other "housekeeping" tasks.
 - I spotted a contentious issue that could have gone badly and facilitated everyone toward a decision that resolved the situation.
 - I took on a task in a greenfield area that required me to design a new component/system/feature, I organized/led others to a succesful outcome.
