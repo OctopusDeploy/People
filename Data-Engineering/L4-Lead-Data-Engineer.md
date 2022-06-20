@@ -29,7 +29,7 @@
 - I am constantly working to broaden the technical capabilities of my team.
 - I am comfortable with challenging and coaching my peers.
 - I help people determine the most valuable ways they can contribute, and grow, and I help them block out the noise.
-- I can produce well structured guidance for use by parts of the organization unfamilary with our tools and processes to 
+- I can produce well structured guidance for use by parts of the organization unfamilar with our tools and processes to 
 
 <details>
 <summary>Examples</summary>
