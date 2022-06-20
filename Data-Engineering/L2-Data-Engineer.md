@@ -61,7 +61,7 @@
 <details>
 <summary>Examples</summary>
 
-- The team assigned me work last cycle based on stakeholder needs and I completed this work diligently.
+- The team assigned me work based on stakeholder needs and I completed this work diligently.
 - A stakeholder issue was escalated to my team, which I investigated and fixed at the most suitable time based on my existing workload.
 
 </details>
