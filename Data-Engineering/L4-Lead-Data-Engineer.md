@@ -64,7 +64,7 @@
 
 ## 🏆 Stakeholder Success
 
-- I assess what work supports the commercial growth of Octopus and make insightful recommendations regarding priorities.
+- I assess what work supports the commercial growth of Octopus and make insightful recommendations regarding priorities within the scope and boundary of commercial data solutions.
 - I understand our fixed-time/high-quality/variable-scope approach to software projects.
 - I invest in sustainable delivery, maintaining professional standards and striking a pragmatic balance between idealistic purity and business pressures.
 - I identify key gaps in our platform offerings and functionality that, if addressed, will empower those in the organization to make better decisions.
