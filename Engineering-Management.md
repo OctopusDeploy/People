@@ -90,7 +90,7 @@
 
 - I am a champion for diversity, equity, and inclusion at Octopus.
 - I recognise dysfunction within my group and across the broader organization, working effectively with other leaders as necessary to resolve it in a timely manner.
-- I have a strong grasp of organization design, and know when to apply small or large changes to increase results or team health.
+- I have a strong grasp of organization design and change management. I know when and how to apply small or large changes to increase results or team health.
 - I influence and build relationships with leaders across the company while expertly navigating organizational dynamics.
 - I remove barriers to collaboration across Octopus.
 - I create a culture of Radical Candor in the teams I manage.
