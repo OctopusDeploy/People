@@ -45,6 +45,7 @@
 - I noticed a section of code that could result in a caching issue, and I modified it to prevent the issue.
 - I was assigned a task in a greenfields project that required me to design a small system, so I reached out to my team lead to collaborate with me.
 - My product manager and my team lead asked me to do two things as the top priority, so I got them together in a conversation so we could work it out as a team.
+- I noticed that a change I was making may affect another team, so I reached out to that team directly to prevent surprises.
 
 </details>
 
