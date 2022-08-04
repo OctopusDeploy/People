@@ -17,6 +17,7 @@
 <summary>Examples</summary>
 
 - I completed maintenance work in a complex area of the codebase, relying on my knowledge of .NET and occasionally reaching out for help from my more senior teammates when I knew I would need it.
+- When faced with a small project, I understood the brief the first time, and was able to reach out myself to find the answers I needed to complete it.
 
 </details>
 
