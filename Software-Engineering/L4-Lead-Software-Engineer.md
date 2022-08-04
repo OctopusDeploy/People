@@ -38,6 +38,7 @@
 - I shared my on-the-job learning and experiences with others so they can understand and be more effective in their own roles.
 - I broke up a project in such a way that lined up appropriate challenges for each of my teammates that helped them grow.
 - I had some difficult conversations with my teammates, challenging them directly while showing them my care for them personally.
+- I adjusted my interactions to adapt to the different working styles and needs of individuals on my team.
 
 </details>
 
