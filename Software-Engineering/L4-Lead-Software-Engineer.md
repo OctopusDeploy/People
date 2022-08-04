@@ -64,6 +64,7 @@
 - I effectively steered technical and non-technical conversations to positive outcomes.
 - I was typically the first to take responsibility for reducing waste in our process.
 - I noticed a project was going to become blocked by another team, or take longer than expected, so I pulled together relevant stakeholders to propose an updated plan and reach a consensus.
+- I thoughtfully challenged and provided alternatives to a direction given by my manager or a Principal Software Engineer, with good results.
 
 </details>
 
