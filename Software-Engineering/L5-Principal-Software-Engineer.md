@@ -33,6 +33,7 @@
 - I am an expert at designing and reviewing software architecture and code.
 - I regularly provide training and support for new methods, tools, and patterns.
 - I broaden my own impact by empowering those around me.
+- I collaborate with managers to identify and find ways to fill any gaps in technical skills required in my teams.
 - I am curious, listen, and encourage debate.
 - I allow myself to be persuaded by great ideas.
 
