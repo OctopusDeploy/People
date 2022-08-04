@@ -44,6 +44,7 @@
 ## 🧭 Culture and Leadership
 
 - I encompass all of the qualities listed in [Leadership](https://github.com/OctopusDeploy/People/blob/main/Leadership.md)
+- I avoid becoming a bottleneck, by setting up other engineers on my team for success for longer periods of time before needing to check back in
 - I make sure difficult work that needs to be done gets done, like hard debugging, incident response, and reverse-engineering tasks
 - I understand our organisation structure and how we schedule work, and help my team find their highest value contributions in this environment.
 - I am comfortable with transparently assessing risk, making recommendations, escalating appropriately, and dealing with the consequences along the way.
@@ -55,6 +56,7 @@
 <summary>Examples</summary>
 
 - I identified the work involved with delivering a Pitch, broke it into tasks and managed the project to completion.
+- I provided principles to my team that allowed other engineers to navigate more decisions of their own, without relying on me as a sole decision maker
 - I took ownership of my team's retrospective process, making sure everyone had a voice in how our team works and evolves together.
 - I performed interviews for engineering candidates, providing detailed and useful feedback 
 - I confidently pitched an idea, positively influencing and convincing people to take decisive action.
