@@ -1,6 +1,6 @@
 # L2: Software Engineer
 
-> _I am a valuable and enthusiastic member of an Octopus team. I can work independently on small projects, and am focused on learning with a trajectory of growth into the contribution of a Senior Software Engineer or beyond._
+> _I am a valuable and enthusiastic member of an Octopus team. I can work independently on small projects, and am focused on learning with a trajectory of growth into the contribution of a Senior Software Engineer or beyond. I still require some support from L3s to solve more difficult technical problems that are beyond my current experience level._
 
 - **Planning horizon**: Current and next cycle
 - **Impact radius**: Self plus some team mates
