@@ -57,7 +57,8 @@
 <summary>Examples</summary>
 
 - I identified the work involved with delivering a Pitch, broke it into tasks and managed the project to completion.
-- I provided principles to my team that allowed other engineers to navigate more decisions of their own, without relying on me as a sole decision maker
+- I provided principles to my team that allowed other engineers to navigate more decisions of their own, without relying on me as a sole decision maker.
+- I accurately documented the options considered in decision making to ensure that we did not re-tread the same ground next time.
 - I took ownership of my team's retrospective process, making sure everyone had a voice in how our team works and evolves together.
 - I performed interviews for engineering candidates, providing detailed and useful feedback 
 - I confidently pitched an idea, positively influencing and convincing people to take decisive action.
