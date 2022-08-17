@@ -24,6 +24,7 @@
 - I led a small improvement project for Octopus Cloud from pitch to production, collaborating with my team.
 - I made pragmatic decisions in order to ship a product. I engaged stakeholders and kept them informed.
 - People asked me for my opinion when making technical decisions because I had a proven track record of making wise choices.
+- I guided my team's decision making around operational concerns, making appropriate risk trade-offs to balance delivery and quality  
 
 </details>
 
