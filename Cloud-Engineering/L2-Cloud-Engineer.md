@@ -1,7 +1,7 @@
 # L2: Cloud Engineer
 
 > _I am a valuable and enthusiastic member of an Octopus team. I can work independently on small projects, and am focused on learning. By using my Systems Engineering experience and 
-> developing my Software Engineering skills, I work with my team to maintain and improve Octopus Cloud._
+> developing my Software Engineering skills, I work with my team to maintain and improve Octopus Cloud. I still require some support from senior team members to solve more difficult technical problems that are beyond my current experience level._
 
 - **Planning horizon**: Current and next cycle
 - **Impact radius**: Self plus some team members
@@ -24,6 +24,7 @@
 - I completed maintenance work on Octopus Cloud, relying on my knowledge and experience, and reached out for guidance from my more-experienced teammates.
 - I self-assigned a task, discussed it with a team member, and completed the work to a high standard.
 - My early testing for a dependency upgrade project indicated a potential issue, which I raised and discussed with my team.
+- When faced with a small project, I understood the brief the first time, and was able to reach out myself to find the answers I needed to complete it.
 
 </details>
 
@@ -53,6 +54,7 @@
 - I noticed a configuration setting or section of code that could cause an issue, and I modified it to prevent the issue.
 - I was assigned a task that could be improved through automation, and I reached out to my team lead to collaborate with me.
 - When my product manager and my team lead asked me to do two things as the top priority, I got them together in a conversation so we could work it out as a team.
+- I noticed that a change I was making may affect another team, so I reached out to that team directly to prevent surprises.
 
 </details>
 
