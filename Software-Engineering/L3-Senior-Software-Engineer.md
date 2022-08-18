@@ -21,6 +21,7 @@
 - I set up or maintained an automated integration and delivery pipeline.
 - I determined the technical direction within a brown-field project.
 - I made pragmatic decisions in order to ship a product.
+- I guided my team's choice of safety nets, making appropriate risk trade-offs to balance delivery and quality
 - People asked me for my opinion when making technical decisions because I had a proven track record of making wise choices.
 
 </details>

@@ -1,6 +1,6 @@
 # L2: Software Engineer
 
-> _I am a valuable and enthusiastic member of an Octopus team. I can work independently on small projects, and am focused on learning with a trajectory of growth into the contribution of a Senior Software Engineer or beyond._
+> _I am a valuable and enthusiastic member of an Octopus team. I can work independently on small projects, and am focused on learning with a trajectory of growth into the contribution of a Senior Software Engineer or beyond. I still require some support from Senior Software Engineers to solve more difficult technical problems that are beyond my current experience level._
 
 - **Planning horizon**: Current and next cycle
 - **Impact radius**: Self plus some team mates
@@ -17,6 +17,7 @@
 <summary>Examples</summary>
 
 - I completed maintenance work in a complex area of the codebase, relying on my knowledge of .NET and occasionally reaching out for help from my more senior teammates when I knew I would need it.
+- When faced with a small project, I understood the brief the first time, and was able to reach out myself to find the answers I needed to complete it.
 
 </details>
 
@@ -45,6 +46,7 @@
 - I noticed a section of code that could result in a caching issue, and I modified it to prevent the issue.
 - I was assigned a task in a greenfields project that required me to design a small system, so I reached out to my team lead to collaborate with me.
 - My product manager and my team lead asked me to do two things as the top priority, so I got them together in a conversation so we could work it out as a team.
+- I noticed that a change I was making may affect another team, so I reached out to that team directly to prevent surprises.
 
 </details>
 

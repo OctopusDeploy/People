@@ -32,6 +32,8 @@
 - I am an expert mentor and teacher.
 - I am an expert at designing and reviewing software architecture and code.
 - I regularly provide training and support for new methods, tools, and patterns.
+- I broaden my own impact by empowering those around me.
+- I collaborate with managers to identify and find ways to fill any gaps in technical skills required in my teams.
 - I am curious, listen, and encourage debate.
 - I allow myself to be persuaded by great ideas.
 
@@ -41,6 +43,7 @@
 - I was consistently in demand for design and code review.
 - I was recognized by engineers in multiple teams as an expert mentor and teacher.
 - I helped a team make a course correction based on new information or ideas.
+- I provided appropriate technical freedom, and framing, that allowed the Lead Software Engineers on my teams to thrive independently.
 
 </details>
 
