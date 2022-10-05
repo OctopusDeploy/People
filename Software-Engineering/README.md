@@ -15,6 +15,7 @@ Our software engineering roles are defined by expectations for each level in ter
 
 The following pages provide demonstrable values and concrete examples to describe these expectations:
 
+1. [L1.0: Graduate Software Engineer](L1.0-Graduate-Software-Engineer.md)
 1. [L1: Junior Software Engineer](L1-Junior-Software-Engineer.md)
 2. [L2: Software Engineer](L2-Software-Engineer.md)
 3. [L3: Senior Software Engineer](L3-Senior-Software-Engineer.md)

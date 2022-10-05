@@ -29,5 +29,5 @@ The Performing band should be considered the default, and is for everyone who ty
 
 The Exceeding band is a tool that managers can use when they need to recognize value contributed significantly _above and beyond_ what is expected at their level. This should usually only apply to:
 
-1. someone who doesn't _want_ to be promoted to the next level with its associated expectations (e.g. a "rockstar" who prefers a shallower growth trajectory), or
+1. someone who doesn't _want_ to be promoted to the next level with its associated expectations (e.g. a "rockstar" at L3 or above who prefers a shallower growth trajectory), or
 2. someone who is ready for the next level, but doesn't yet have a chance to demonstrate they can meet expectations at that level (note: in a growing company, this should be a short-term situation)

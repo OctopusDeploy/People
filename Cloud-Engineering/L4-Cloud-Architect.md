@@ -45,12 +45,14 @@
 - I had some difficult conversations with my teammates, challenging them directly while showing them that I care for them personally.
 - I saw an opportunity to train others on an aspect of cloud platform, and I followed through to provide a knowledge sharing session.
 - I was buddy to a new team member and helped them navigate our systems and culture.
+- I adjusted my interactions to adapt to the different working styles and needs of individuals on my team.
 
 </details>
 
 ## 🧭 Culture and Leadership
 
 - I encompass all of the qualities listed in [Leadership](https://github.com/OctopusDeploy/People/blob/main/Leadership.md).
+- I avoid becoming a bottleneck, by setting up team members for success for longer periods of time before needing to check back in.
 - I make sure difficult work that needs to be done gets done, like working with vendors to identify the root cause of an issue, 
   incident response and postmortems, and reverse-engineering tasks.
 - I understand our organisation structure and how we schedule work, and help my team find their highest value contributions in this environment.
@@ -65,12 +67,15 @@
 <summary>Examples</summary>
 
 - I identified the work involved with delivering a pitch, broke it into tasks and managed the project to completion.
+- I provided principles to my team that allowed other engineers to navigate more decisions of their own, without relying on me as a sole decision maker.
+- I accurately documented the options considered in decision making to ensure that we did not re-tread the same ground next time.
 - I took ownership of my team's retrospective process, making sure everyone had a voice in how our team works and evolves together.
 - I performed interviews for cloud engineering candidates, providing detailed and useful feedback.
 - I confidently pitched an idea, positively influencing and convincing people to take decisive action.
 - I effectively steered technical and non-technical conversations to positive outcomes.
 - I was typically the first to take responsibility for reducing waste in our process.
 - I noticed a project was going to take longer than expected, so I pulled together relevant stakeholders to propose an updated plan and reach a consensus.
+- I thoughtfully challenged and provided alternatives to a direction given by my manager, TSO or a Principal Software Engineer, with good results.  
 
 </details>
 
