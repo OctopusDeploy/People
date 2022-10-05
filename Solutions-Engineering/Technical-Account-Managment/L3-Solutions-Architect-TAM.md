@@ -9,7 +9,7 @@
 
 ## 🦉 Domain expertise
 
-- I have advanced CI/CD knowledge.  
+- I have advanced DevOps knowledge.  
 - I am an expert in Octopus Deploy.  
 - I am familiar with most parts of Octopus and many integrations.  
 - I can confidently step outside my comfort zone and adapt quickly to new technologies.
@@ -37,7 +37,8 @@
 
 - I ran a knowledge-sharing session with customer engineering teams.
 - I walked through a customer solution with another team member that was previously unfamiliar with the technology area.
-- I mentored a more junior engineer, and they went on to achieve something they couldn't have before.
+- I guided a customer team to achieve their improvement plan goal.
+- I took part in a webinar.
 
 </details>
 
@@ -45,7 +46,7 @@
 
 - I collaborate on team initiatives.
 - I am a customer advocate within Octopus.
-- I am able to clearly define customer core problems and am able to articulate them to our engineers and non-technical colleagues.
+- I am able to clearly define customer core problems and am able to articulate them to our engineers, product managers, and non-technical colleagues.
 - I continuously maintain and improve the quality, productivity, presentation, and delivery of work.
 - I am willing to take on the necessary and unglamorous work needed to get things done.
 - I take responsibility for my own mistakes and learn from the mistakes of others.
@@ -55,7 +56,7 @@
 
 - I was the buddy for a new starter, providing assistance and detailed and valuable feedback.
 - I lead customer calls with my customers regularly.
-- I clearly explained the expansion opportunity shown by a specific technical initiative a customer is working on to an Account Manager.
+- I clearly explained the expansion opportunity shown by a specific technical initiative a customer is working on to an Account Executive.
 - I presented a feature request from a customer clearly and concisely to colleagues in the Product and Engineering team that persuaded them to implement the change.
 - I saw a support ticket for one of my customers and gave additional context to the support team to help them resolve the problem.
 
@@ -63,12 +64,13 @@
 
 ## 🏆 Customer Success
 
-- I identify and understand customers' technical and project goals and help customers meet those goals.
+- I identify and understand customers' technical and project goals and collaborate with customers on improvement plans to meet those goals.
 - I have a good understanding of the current strategy and objectives of the company and my team.
-- I can identify expansion opportunities and work with Key Account Managers to determine goals and recognize churn risk.
+- I can identify expansion opportunities and work with Account Executives to determine goals and recognize churn risk.
 - I identify customer readiness for business reviews and provide valuable input.  
 - I am the advocate for my customers within Octopus.
-- I proactively develop the agenda for a customer call. Surfacing features and items of interest to the customer.
+- I work on TAM customer incidents, working towards a successful outcome. 
+- I can formulate a customer improvement plan with some input from senior team members.
 
 <details>
 <summary>Examples</summary>
@@ -78,5 +80,6 @@
 - I worked with our support and engineering teams to get all of the necessary information for a high-risk support issue.
 - I worked with a customer to demonstrate how Octopus has improved deployments and compliance processes at a business review.
 - I know one of my customers uses AWS Lambdas so I gathered updates on the progress of the features in development and presented them to the customer. Showing a demo of the feature when possible.
+- A customer support ticket rate had increased, I worked with the customer to identify knowledge gaps and provide help to reduce the gaps. 
 
 </details>

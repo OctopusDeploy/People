@@ -57,7 +57,7 @@
 - I have a basic understanding of the current strategy and objectives of the business and my teams.  
 - I can identify expansion opportunities.
 - I understand the impact of good customer relationships and how to nurture them to build confidence with customers.
-- I work with customer success managers and key account managers and senior members of the team to identify and discuss churn risk.
+- I work with Customer Success Managers and Account Executives and senior members of the team to identify and discuss churn risk.
 
 <details>
 <summary>Examples</summary>

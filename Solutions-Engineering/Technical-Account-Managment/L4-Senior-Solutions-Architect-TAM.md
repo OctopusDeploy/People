@@ -31,7 +31,6 @@
 
 - I consistently help other team members to "level up" and become more proficient over time.
 - I am fuelling my team's desire to learn.
-- I perform knowledge-share presentations.
 - I am actively involved in the retrospective process, and I am comfortable challenging and coaching my peers.
 - I am constantly working to broaden the technical capabilities of my team.
 - I am comfortable with challenging and coaching my peers.
@@ -42,9 +41,10 @@
 - I take the lead on making sure our Technical Account Management strategy is being implemented at a group and team level.
 - I provided training and mentoring for multiple team members, deliberately helping them to round out their skill sets.
 - I shared my on-the-job learning and experiences with others so they can understand and be more effective in their own roles.
-- I ran a knowledge-sharing session with customer engineering teams.
+- I led the customer improvement plans to successful completion, including delivering guidance and knowledge share sessions.
 - I walked through a customer solution with another team member that was previously unfamiliar with the technology area.
 - I had some difficult conversations with my teammates, challenging them directly while showing them my care for them personally.
+- I was the lead in a webinar.
 
 </details>
 
@@ -72,8 +72,10 @@
 
 - I identify and understand customers' technical and project goals and help customers meet those goals with expert technical advice and guidance; maintaining professional standards and striking a pragmatic balance between idealistic purity and business pressures.
 - I have a deep understanding of the current strategy and objectives of the company and my team.
-- I seek out expansion opportunities and work with Key Account Managers to determine goals and recognize churn risk.
+- I seek out expansion opportunities and work with Account Executives to determine goals and recognize churn risk.
 - I consistently identify customer readiness for business reviews and provide valuable input.  
+- I formulate customer improvement plans.
+- I command TAM incidents, leading the collaboration effort.
 
 <details>
 <summary>Examples</summary>
@@ -82,5 +84,7 @@
 - I helped customers streamline their deployment processes to improve their DORA metrics.
 - I worked with our support and engineering teams to get all of the necessary information for a high-risk support issue.
 - I worked with a customer to demonstrate how Octopus has improved deployments and compliance processes at a business review.
+- I drive content, and attend and present, at customer QBRs.
+- I identified a TAM incident of potential churn, led the effort to 
 
 </details>
