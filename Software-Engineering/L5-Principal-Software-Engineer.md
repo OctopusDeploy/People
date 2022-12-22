@@ -10,27 +10,33 @@
 ## 🦉 Domain expertise
 
 - I contribute to core technologies used by a variety of teams.
-- I help make critical product architecture and implementation decisions.
-- I maintain a vision of the overall technical direction of my product lines.
-- I help define and build out technical standards and principles for how software is built throughout the company.
-- I manage company-wide risks, and architect to reduce risk.
+- I help teams make critical product architecture and implementation decisions.
+- I maintain a vision of the overall technical direction within my impact radius.
+- I contribute to the engineering standards and principles of the company.
+- I contribute to the Octopus technical strategy.
+- I manage technical risks, and architect to reduce technical risk.
+- I collaborate with other Principal Software Engineers to ensure we are making cohesive and complimentary decisions that align with the Octopus technical strategy.
 
 <details>
 <summary>Examples</summary>
 
 - I successfully completed complex tasks spanning multiple domains and teams with high impact. 
-- I helped a team reduce complexity through sound architectural thinking.
-- I identified a problem that was timely, important, and impactful, and worked closely with product, engineering, and executive stakeholders to articulate and refine a solution.
-- I handled multiple conflicting priorities and sequenced work resulting in the best collective outcome.
+- I helped a team reduce complexity and risk through sound architectural thinking.
+- I developed a plan to evolve the architecture of one of the core components of Octopus within my impact radius.
+- I identified a problem that was timely, important, and impactful, and worked closely with product, engineering, and executive stakeholders to articulate and refine a solution and delivery plan.
+- I worked with teams to manage multiple conflicting priorities and helped sequence work resulting in the best collective outcome.
+- I ensured the feature I was helping a team plan made decisions that supported a feature I knew another team was planning by collaborating with that team's aligned principal engineer.
 
 </details>
 
 ## 🌱 Teaching and Mentoring
 
 - I am an expert mentor and teacher.
+- I create clarity by communicating complex things in simple and accessible ways.
+- I understand my broadest impact comes from empowering those around me.
 - I am an expert at designing and reviewing software architecture and code.
+- I help teams and individuals understand our technical strategy, and the things we are doing to progress it.
 - I regularly provide training and support for new methods, tools, and patterns.
-- I broaden my own impact by empowering those around me.
 - I collaborate with managers to identify and find ways to fill any gaps in technical skills required in my teams.
 - I am curious, listen, and encourage debate.
 - I allow myself to be persuaded by great ideas.
@@ -39,7 +45,9 @@
 <summary>Examples</summary>
 
 - I was consistently in demand for design and code review.
-- I was recognized by engineers in multiple teams as an expert mentor and teacher.
+- I am actively mentoring multiple Octopus engineers.
+- Engineers at Octopus seek out to work on my teams to learn from me.
+- After reviewing a code contribution from an engineer I saw could be improved, I worked directly with that engineer and their manager to uplift their skills in the identified growth area.
 - I helped a team make a course correction based on new information or ideas.
 - I provided appropriate technical freedom, and framing, that allowed the Lead Software Engineers on my teams to thrive independently.
 
@@ -47,10 +55,12 @@
 
 ## 🧭 Culture and Leadership
 
+- I model our cultural safety by thinking in the open, asking imperfect questions, being wrong, and accepting corrections.
+- I generate energy within the teams I work with, motivating them to achieve great outcomes.
 - I facilitate effective and timely decision making, especially when the decision affects multiple teams.
-- I build tools/frameworks/guidance that improves productivity for many people/teams.
+- I build solutions that improve the productivity and quality of many people/teams.
 - I set a positive example throughout the company for quality, accountability, and responsibility.
-- I actively author/curate/organise/share knowledge relevant to product delivery teams.
+- I actively share knowledge relevant to product delivery teams.
 - I help define hiring standards and practices.
 
 <details>
@@ -60,17 +70,19 @@
 - I collaborated with other senior leaders to ensure I was aware of all major initiatives at Octopus and could account for them in my own initiatives.
 - I identified a significant problem/opportunity and created a lasting best-fit solution that aligned with our strategy.
 - Instead of simply patching or extending an existing solution that was not fit for purpose anymore, my contribution opened up a whole new area of strategic possibility.
+- I participate in our code review and interview processes, and provide feedback as to how they can be improved regularly.
 
 </details>
 
 ## 🏆 Customer Success
 
 - I have a deep understanding of our products and product strategy.
-- I am able to anticipate and quickly adapt systems and practices to changes in load, usage, and customer requirements.
-- I work closely with product and sales teams to ensure continued product/market fit.
+- I understand what technical challenges are most impacting our customers at present, and how my own plans and the Octopus technical strategy seek to solve them.
+- I am able to anticipate and adapt systems and practices to changes in load, usage, and customer requirements.
+- I work closely with our product team to ensure continued product/market fit.
 - I find the balance between doing it right and getting it done.
 - I am responsive to changes in product priorities, keeping multiple teams focused on important, high-value efforts.
-- I inform product strategy by helping senior leadership understand the organisation's engineering capabilities.
+- I inform product strategy by helping senior leadership understand the organisation's engineering capabilities and technical strategy.
 
 <details>
 <summary>Examples</summary>
