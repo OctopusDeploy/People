@@ -25,7 +25,7 @@
 - I developed a plan to evolve the architecture of one of the core components of Octopus within my impact radius.
 - I identified a problem that was timely, important, and impactful, and worked closely with product, engineering, and executive stakeholders to articulate and refine a solution and delivery plan.
 - I worked with teams to manage multiple conflicting priorities and helped sequence work resulting in the best collective outcome.
-- I ensured the feature I was helping a team plan made decisions that supported a feature I knew another team was planning by collaborating with that team's aligned principal engineer.
+- I collaborated with another principal engineer to ensure that a feature I was helping a team with would support a feature I knew another team was planning.
 
 </details>
 
@@ -55,10 +55,10 @@
 
 ## 🧭 Culture and Leadership
 
-- I model our cultural safety by thinking in the open, asking imperfect questions, being wrong, and accepting corrections.
+- I create an environment where others feel safe, by modeling vulnerability, thinking in the open, being wrong, and accepting corrections.
 - I generate energy within the teams I work with, motivating them to achieve great outcomes.
 - I facilitate effective and timely decision making, especially when the decision affects multiple teams.
-- I build solutions that improve the productivity and quality of many people/teams.
+- I build solutions that improve the productivity and/or quality of work of many people/teams.
 - I set a positive example throughout the company for quality, accountability, and responsibility.
 - I actively share knowledge relevant to product delivery teams.
 - I help define hiring standards and practices.
@@ -70,7 +70,7 @@
 - I collaborated with other senior leaders to ensure I was aware of all major initiatives at Octopus and could account for them in my own initiatives.
 - I identified a significant problem/opportunity and created a lasting best-fit solution that aligned with our strategy.
 - Instead of simply patching or extending an existing solution that was not fit for purpose anymore, my contribution opened up a whole new area of strategic possibility.
-- I participate in our code review and interview processes, and provide feedback as to how they can be improved regularly.
+- I regularly participated in our code review and interview processes and provided feedback on how they could be improved.
 
 </details>
 
