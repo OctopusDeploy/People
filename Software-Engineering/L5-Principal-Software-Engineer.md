@@ -47,7 +47,7 @@
 - I was consistently in demand for design and code review.
 - I am actively mentoring multiple Octopus engineers.
 - Engineers at Octopus seek out to work on my teams to learn from me.
-- After reviewing a code contribution from an engineer I saw could be improved, I worked directly with that engineer and their manager to uplift their skills in the identified growth area.
+- After reviewing a code contribution from an engineer I saw could be improved, I worked directly with that engineer and their manager or team leader to uplift their skills in the identified growth area.
 - I helped a team make a course correction based on new information or ideas.
 - I provided appropriate technical freedom, and framing, that allowed the Lead Software Engineers on my teams to thrive independently.
 
