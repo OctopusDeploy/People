@@ -1,4 +1,6 @@
-# UX and UI Designer
+# Design Roles
+
+## UX and UI Designer
 > I collaborate with Octopus team members to improve the UX and UI of the Octopus product
 
 - I craft great user experiences that reduce cognitive load and improve task completion efficiency.
@@ -14,3 +16,6 @@
 - I am proficient at delivering designs using agile practices with engineers and determining UX and UI direction.
 - I collaborate with engineers and debate ideas, always working towards the best outcome for our users.
 - I contribute to shaping well-rounded pitches to help bring clarity to the problem, identify blind spots, investigate and validate possible solutions.
+
+## Product Design Manager
+
