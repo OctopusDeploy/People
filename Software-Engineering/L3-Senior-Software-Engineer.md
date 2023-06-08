@@ -20,7 +20,7 @@
 
 - I set up or maintained an automated integration and delivery pipeline.
 - I determined the technical direction within a brown-field project.
-- I made pragmatic decisions in order to ship a product.
+- I made the pragmatic decision not to investigate an interesting technical rabbit hole, in order to prioritise shipping a valuable feature to customers.
 - I guided my team's choice of safety nets, making appropriate risk trade-offs to balance delivery and quality
 - People asked me for my opinion when making technical decisions because I had a proven track record of making wise choices.
 
@@ -28,7 +28,8 @@
 
 ## 🌱 Teaching and Mentoring
 
-- I consistently help new hires and more junior engineers to "level up" and become more proficient over time
+- I consistently help new hires and more junior engineers to "level up" and become more proficient over time.
+- I invest time in mentoring, coaching or teaching other engineers on my team in 1:1 or group settings.
 - I am fuelling my team's desire to learn.
 
 <details>
@@ -49,6 +50,7 @@
 - I take responsibility for my own mistakes and learn from the mistakes of others.
 - I manage difficult conversations and tactfully challenge others.
 - I improve the productivity and delivery of my team.
+- I help raise the bar for working at Octopus by providing regular code reviews and / or interviews for engineering candidates.
 
 <details>
 <summary>Examples</summary>
