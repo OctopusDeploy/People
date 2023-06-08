@@ -44,7 +44,7 @@
 
 ## 🧭 Culture and Leadership
 
-- I collaborate on technical direction within already-defined projects.
+- I collaborate on and occasionally lead technical direction within already-defined projects.
 - I continuously maintain and improve quality across the stack.
 - I am willing to take on the necessary and unglamorous work needed to get things done.
 - I take responsibility for my own mistakes and learn from the mistakes of others.
@@ -65,7 +65,7 @@
 
 ## 🏆 Customer Success
 
-- I ship ideas from conception to production.
+- I confidently and auotonomously lead the shipping of ideas from conception to production.
 - I advocate for customer needs and motivations.
 - I decompose larger requirements into smaller, more manageable pieces, to deliver functionality in an incremental and iterative manner.
 - I build requirements and technical recommendations based on the real needs of customers.
@@ -73,7 +73,7 @@
 <details>
 <summary>Examples</summary>
 
-- I led a shaped pitch from idea to production
+- I led a shaped pitch from idea to production, working with less senior colleagues to get the work shipped on time.
 - I gave an early access version to our customers to get feedback during development, and acted on that feedback.
 - I helped unblock the delivery pipeline to make sure we could verify the expected behaviour of the changes we made to production.
 - I analyzed telemetry to make technical and scope decisions during a build.
