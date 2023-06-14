@@ -16,49 +16,53 @@
 <details>
 <summary>Examples</summary>
 
-- TBD.
+- I was nominated as the incident controller and successfully followed our Security Incident Response Plan (SIRP).
+- I confidently triage alerts and escalate to senior security analysts when required.
 - When faced with a small project, I understood the brief the first time, and was able to reach out myself to find the answers I needed to complete it.
 
 </details>
 
 ## 🌱 Teaching and Mentoring
 
-- TBD.
 - I help new hires get up to speed with the team's processes and procedures.
+- I write clear and concise documentation for the small projects that I have worked on.
 
 <details>
 <summary>Examples</summary>
 
 - I acted as a buddy for a new person who joined my team, and helped them become productive with our tools.
-- TBD.
+- I wrote documentation for a small project that I worked on for my team members.
+- I presented my findings from a recent security incident during our knowledge sharing session.
 
 </details>
 
 ## 🧭 Culture and Leadership
 
-- TBD.
-- TBD.
+- I actively participate in projects by sharing my ideas and taking initiative on action items.
+- I identify and resolve issues and outliers in processes and procedures.
 - I collaborate well with product, support, and other teams.
+- When faced with a difficult task, I don't go dark, I reach out for help.
 
 <details>
 <summary>Examples</summary>
 
-- TBD.
-- TBD.
-- TBD.
+- During project planning, I successfully negotiated changes to the plan and was assigned a number of action items.
+- I identified a deficiency within a process and worked with stakeholders to correct it.
 - I noticed that a change I was making may affect another team, so I reached out to that team directly to prevent surprises.
+- When I hit a road block, I didn't waste time going down rabbit holes, I reached out for assistance.
 
 </details>
 
-## 🏆 Customer Success
+## 🏆 Business Success
 
-- TBD.
-- I respond to escalated customer issues and incidents in a proactive, timely fashion.
+- I respond to escalated security issues and incidents in a proactive, timely fashion.
+- I am confident in triaging security issues and know when to escalate.
 
 <details>
 <summary>Examples</summary>
 
-- TBD.
-- TBD.
+- I received an alert via PagerDuty and created a new incident in The Hive.
+- I triaged Bugcrowd submissions and worked with the Fire and Motion team to remedy it.
+- I triaged customer issues and provided guidance to the Customer Support team.
 
 </details>

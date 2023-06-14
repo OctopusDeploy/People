@@ -16,8 +16,9 @@
 <details>
 <summary>Examples</summary>
 
-- TBD.
+- I was nominated as the incident controller and successfully followed the relevant incident response plan.
 - When faced with a small project, I understood the brief the first time, and was able to reach out myself to find the answers I needed to complete it.
+- I added a new module to the Beholder.
 
 </details>
 
@@ -31,6 +32,7 @@
 
 - I acted as a buddy for a new person who joined my team, and helped them become productive with our tools.
 - I gave feedback in a code review that resulted in a teammate updating the code to reflect better practices.
+- I demonstrated what I learned during sharpening at the weekly show-and-tell session.
 
 </details>
 
@@ -43,22 +45,24 @@
 <details>
 <summary>Examples</summary>
 
-- TBD.
-- TBD.
-- TBD.
+- I track issues and ensure proper handover is performed while on QRF.
+- I assisted in the scope of a pitch by providing constructive feedback.
 - I noticed that a change I was making may affect another team, so I reached out to that team directly to prevent surprises.
 
 </details>
 
-## 🏆 Customer Success
+## 🏆 Business Success
 
-- I consistently deliver systems and features that provide significant value to customers and/or other teams.
-- I respond to escalated customer issues and incidents in a proactive, timely fashion.
+- I consistently deliver systems and features that provide significant value to other teams.
+- I respond to escalated issues and incidents in a proactive, timely fashion.
+- Proactively work with the analytics team to enhance the detection and response of security incidents.
+- I develop a maintainable solutions by writing clear and concise documentation.
 
 <details>
 <summary>Examples</summary>
 
-- TBD.
-- TBD.
+- Throughout the implementation of a pitch I maintained up-to-date documentation consisting of how-to guides and infrastructure architecture.
+- In conjunction with the Security Analysts I setup alerts in Sumo Logic to capture potential issues.
+- While on QRF, I got an alert when an application we maintain fellover and created a PR to fix the root cause.
 
 </details>

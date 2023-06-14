@@ -11,18 +11,17 @@
 
 - I am advanced in my team's domain.
 - I can confidently step outside my own comfort zone and adapt quickly to new technologies.
-- TBD.
-- TBD.
+- I am able to scope and lead complex projects that have wider impact for the business.
 - I identify, qualify and reduce technical debt as appropriate to my team's priorities.
 
 <details>
 <summary>Examples</summary>
 
-- TBD.
-- TBD.
-- TBD.
-- TBD.
-- People asked me for my opinion when making technical decisions because I had a proven track record of making wise choices.
+- I successfully took over the role of IC during a security incident where the severity was increased and multiple teams became involved.
+- I reviewed and provided analysis on a complex detection from Crowdstrike.
+- I worked with cross-functional teams to replicate a submission in Bugcrowd that involved working with the Octopus Server codebase.
+- I wrote an RFC and addressed the feedback from the wider organisation.
+- People asked me for my opinion when making technical decisions because I have a proven track record of making wise choices.
 
 </details>
 
@@ -34,46 +33,43 @@
 <details>
 <summary>Examples</summary>
 
-- I ran a knowledge sharing session.
+- I frequently run knowledge sharing sessions.
 - I mentored a more junior analyst and they went on to achieve something they couldn't have before.
 - I shared useful videos/blogs/papers that led to some action.
-- TBD.
 
 </details>
 
 ## 🧭 Culture and Leadership
 
 - I collaborate on technical direction within already-defined projects.
-- TBD.
 - I am willing to take on the necessary and unglamorous work needed to get things done.
 - I take responsibility for my own mistakes and learn from the mistakes of others.
 - I manage difficult conversations and tactfully challenge others.
-- I improve the productivity and delivery of my team.
+- I improve the efectiveness and productivity of my team.
 
 <details>
 <summary>Examples</summary>
 
-- I performed regular interviews for security operations candidates, and provided detailed and useful feedback.
+- I perform interviews for security operations candidates, and provided detailed and useful feedback.
 - I took on a significant share of unplanned work and other "housekeeping" tasks.
 - I spotted a contentious issue that could have gone badly and facilitated everyone toward a decision that resolved the situation.
-- I recognised a problem early and got in to fix it even though it wasn't my fault.
+- I recognised a problem early and fixed it.
 - I wrote a clear and concise proposal that persuaded the team to act on my idea.
 
 </details>
 
-## 🏆 Customer Success
+## 🏆 Business Success
 
-- I ship ideas from conception to production.
-- I advocate for customer needs and motivations.
+- I advocate for customer security needs and motivations.
 - I decompose larger requirements into smaller, more manageable pieces, to deliver functionality in an incremental and iterative manner.
-- TBD.
+- I identify areas of risk and security misconfigurations.
 
 <details>
 <summary>Examples</summary>
 
-- I led a shaped pitch from idea to production.
-- TBD.
-- TBD.
-- TBD.
+- I led a shaped pitch or RFC from idea to production.
+- I identified a misconfiguration in a product that introduced a security risk and worked with stakeholders to remedy it.
+- I worked closely with a cross-functional team after a customer raised a security concern with Octopus Server.
+- I successfully delegated tasks from a large and complex project to other team members.
 
 </details>

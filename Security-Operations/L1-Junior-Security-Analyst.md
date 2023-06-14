@@ -16,7 +16,7 @@
 <details>
 <summary>Examples</summary>
 
-- I attended a workshop to increase my skills with Sumo Logic CSE.
+- I attended a workshops and training to increase my skills with our core platforms. For example, Sumo Logic, CSE, The Hive, Crowdstrike, and Azure AD.
 - I was stuck on a problem but I reached out to my team lead to help me.
 - I was assigned a Hive case and I completed it on my own.
 
@@ -31,8 +31,8 @@
 <summary>Examples</summary>
 
 - I shared a demo of my work in a weekly show-and-tell session.
-- TBD.
 - I applied a pattern I learned from training and I asked a senior analyst on my team to review it for me to ensure I applied it correctly.
+- I shadowed a senior analyst during an incident to become more familiar with the incident response process.
 
 </details>
 
@@ -45,19 +45,20 @@
 <details>
 <summary>Examples</summary>
 
+- I have a passion for attending community events related to cybersecurity.
 - I found it difficult to set up my environment based on the instructions so I updated the instructions.
-- TBD.
 - A senior analyst on my team gave me some critical feedback on my work, so I took the time to understand how to improve.
+- I was comfortable sharing my thoughts towards how a particular problem should be solved.
 
 </details>
 
-## 🏆 Customer Success
+## 🏆 Business Success
 
-- I contribute to customer-centric security initiatives and programs.
+- I contribute to business-centric security initiatives and programs.
 
 <details>
 <summary>Examples</summary>
 
-- TBD.
+- I respond to requests in a timely fashion.
 
 </details>

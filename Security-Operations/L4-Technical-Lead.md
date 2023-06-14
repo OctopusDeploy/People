@@ -1,6 +1,6 @@
 # L4: Technical Lead
 
-> _I have exceptional technical expertise and leadership skills. I am responsible for guiding and managing the team in monitoring, detecting, and responding to security incidents, implementing response procedures, coordinating with other teams, and continuously improving the organisation's security operations capabilities.
+> _I have exceptional technical expertise and leadership skills. I am responsible for guiding and managing the team in monitoring, detecting, and responding to security incidents, implementing response procedures, coordinating with other teams, and continuously improving the organisation's security operations capabilities._
 
 - **Planning horizon**: 6-12 months
 - **Impact radius**: Team (5-15)
