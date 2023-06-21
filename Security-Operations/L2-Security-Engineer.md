@@ -12,6 +12,7 @@
 - I am competent in my domain.
 - I am able to work independently on small projects.
 - I identify and raise potential problems with my peers or lead before getting blocked.
+- I provide security expertise in areas I am familiar with during peer reviews for codesbases across the organisation.
 
 <details>
 <summary>Examples</summary>

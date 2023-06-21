@@ -11,7 +11,7 @@
 
 - I am advanced in my team's domain.
 - I can confidently step outside my own comfort zone and adapt quickly to new technologies.
-- TBD.
+- I confidently provide security expertise during peer reviews for codesbases across the organisation.
 - I make appropriate scaling, reliability, and maintenance trade-offs as they occur in practice.
 - I identify, qualify and reduce technical debt as appropriate to my team's priorities.
 
@@ -19,10 +19,10 @@
 <summary>Examples</summary>
 
 - I set up or maintained an automated integration and delivery pipeline.
-- TBD.
 - I made pragmatic decisions in order to ship a product.
 - I guided my team's choice of safety nets, making appropriate risk trade-offs to balance delivery and quality.
 - People asked me for my opinion when making technical decisions because I had a proven track record of making wise choices.
+- I reviewd a PR that fixes a vulnerability that was raised in Bugcrowd to ensure that it resolved the underlying problem.
 
 </details>
 
@@ -49,6 +49,7 @@
 - I take responsibility for my own mistakes and learn from the mistakes of others.
 - I manage difficult conversations and tactfully challenge others.
 - I improve the productivity and delivery of my team.
+- I ensure that the alerts we receive are actionable and I proactively reduce alert fatigue.
 
 <details>
 <summary>Examples</summary>
@@ -56,24 +57,24 @@
 - I performed regular interviews for engineering candidates, and provided detailed and useful feedback.
 - I took on a significant share of unplanned work and other "housekeeping" tasks.
 - I spotted a contentious issue that could have gone badly and facilitated everyone toward a decision that resolved the situation.
-- I recognised a problem early and got in to fix it even though it wasn't my fault.
+- I recognised a problem early and fixed it.
 - I wrote a clear and concise proposal that persuaded the team to act on my idea.
 
 </details>
 
-## 🏆 Customer Success
+## 🏆 Business Success
 
 - I ship ideas from conception to production.
-- I advocate for customer needs and motivations.
+- I advocate for improving the organisations overall security posture.
 - I decompose larger requirements into smaller, more manageable pieces, to deliver functionality in an incremental and iterative manner.
-- I build requirements and technical recommendations based on the real needs of customers.
+- I build requirements and technical recommendations based on real needs.
 
 <details>
 <summary>Examples</summary>
 
-- I led a shaped pitch from idea to production.
-- TBD.
+- I led a shaped pitch or RFC from idea to production.
+- I helped define an Engineering RFC so that it meets security requirements.
 - I helped unblock the delivery pipeline to make sure we could verify the expected behaviour of the changes we made to production.
-- I analyzed telemetry to make technical and scope decisions during a build.
+- I analyzed telemetry to make technical and scope decisions.
 
 </details>
