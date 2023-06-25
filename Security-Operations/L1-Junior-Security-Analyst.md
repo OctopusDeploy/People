@@ -1,11 +1,11 @@
 # L1: Junior Security Analyst
 
-> _I actively engage in continuous learning, striving to develop expertise within my domain. I effectively collaborate with both peers and senior members of my team, enabling successful completion of tasks with minimal guidance and support._
+> _I actively engage in continuous learning, striving to develop expertise within my domain. I effectively collaborate with both peers and senior members of my team, enabling the successful completion of tasks with minimal guidance and support._
 
 - **Planning horizon**: Current cycle
 - **Impact radius**: Self
 - **Evaluation**: Manager
-- **Responsibility and direction needed**: Daily to weekly supervision needed from their manager or more senior analysts.
+- **Responsibility and direction needed**: Daily to weekly supervision is needed from their manager or more senior analysts.
 
 ## 🦉 Domain expertise
 
@@ -16,7 +16,7 @@
 <details>
 <summary>Examples</summary>
 
-- I attended a workshops and training to increase my skills with our core platforms. For example, Sumo Logic, CSE, The Hive, Crowdstrike, and Azure AD.
+- I attended workshops and training to increase my skills with our core platforms. For example, Sumo Logic, CSE, The Hive, Crowdstrike, and Azure AD.
 - I was stuck on a problem but I reached out to my team lead to help me.
 - I was assigned a Hive case and I completed it on my own.
 
@@ -38,7 +38,7 @@
 
 ## 🧭 Culture and Leadership
 
-- I show independent initiative and problem solving.
+- I show independent initiative and problem-solving.
 - I demonstrate a collaborative attitude.
 - I take responsibility for my own work.
 

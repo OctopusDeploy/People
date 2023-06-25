@@ -1,6 +1,6 @@
 # L3: Senior Cloud Security Engineer
 
-> _TBD._
+> _I am a highly skilled professional responsible for designing and implementing robust security measures and strategies within cloud environments. I possess a deep understanding of the Octopus Cloud platform, conduct risk assessments, and develop security policies.
 
 - **Planning horizon**: Current and next cycle
 - **Impact radius**: Peers (2-5)

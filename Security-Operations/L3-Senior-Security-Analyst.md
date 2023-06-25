@@ -10,8 +10,8 @@
 ## 🦉 Domain expertise
 
 - I am advanced in my team's domain.
-- I can confidently step outside my own comfort zone and adapt quickly to new technologies.
-- I am able to scope and lead complex projects that have wider impact for the business.
+- I can confidently step outside my comfort zone and adapt quickly to new technologies.
+- I can scope and lead complex projects that have a wider impact on the business.
 - I identify, qualify and reduce technical debt as appropriate to my team's priorities.
 
 <details>
@@ -33,7 +33,7 @@
 <details>
 <summary>Examples</summary>
 
-- I frequently run knowledge sharing sessions.
+- I frequently run knowledge-sharing sessions.
 - I mentored a more junior analyst and they went on to achieve something they couldn't have before.
 - I shared useful videos/blogs/papers that led to some action.
 
@@ -45,12 +45,12 @@
 - I am willing to take on the necessary and unglamorous work needed to get things done.
 - I take responsibility for my own mistakes and learn from the mistakes of others.
 - I manage difficult conversations and tactfully challenge others.
-- I improve the efectiveness and productivity of my team.
+- I improve the effectiveness and productivity of my team.
 
 <details>
 <summary>Examples</summary>
 
-- I perform interviews for security operations candidates, and provided detailed and useful feedback.
+- I perform interviews for security operations candidates and provided detailed and useful feedback.
 - I took on a significant share of unplanned work and other "housekeeping" tasks.
 - I spotted a contentious issue that could have gone badly and facilitated everyone toward a decision that resolved the situation.
 - I recognised a problem early and fixed it.
@@ -61,7 +61,7 @@
 ## 🏆 Business Success
 
 - I advocate for customer security needs and motivations.
-- I decompose larger requirements into smaller, more manageable pieces, to deliver functionality in an incremental and iterative manner.
+- I decompose larger requirements into smaller, more manageable pieces, to deliver functionality incrementally and iteratively.
 - I identify areas of risk and security misconfigurations.
 
 <details>
