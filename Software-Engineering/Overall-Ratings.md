@@ -9,7 +9,7 @@ In short:
 - **Level** (i.e. L1-5) is used to set the person's role title (e.g. Junior Software Engineer, Senior Software Engineer), to broadcast expectations and reinforce archetypes, to the person, across Octopus and beyond.
 - **Band** (i.e. Maturing/Performing/Exceeding) is used to reflect value contributed within that level, and thereby help us pass the printer test. 
 
-**NB:** _The band is not a reflection of how well an individual is performing their job. It is possible to meet or exceed expectations at your performance review while operating in any of the three bands. Being promoted into the Maturing band typically indicates we have **increasing expectations** of someone._
+**NB:** _The band is not a reflection of how well an individual is performing their job. It is possible to meet expectations at your performance review while operating in any of the three bands. For example, being promoted into the Maturing band typically indicates we have **increasing expectations** of someone._
 
 ### Maturing
 
