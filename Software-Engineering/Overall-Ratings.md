@@ -27,7 +27,7 @@ To progress from the Maturing band to the Performing band at a particular level,
 
 ### Performing
 
-The Performing band should be considered the default and is for everyone who typifies what it means to be a great contributor at that level at Octopus. 
+The Performing band should be considered the default and is for everyone who typifies what it means to be a great contributor at that level at Octopus.
 
 ### Exceeding
 
