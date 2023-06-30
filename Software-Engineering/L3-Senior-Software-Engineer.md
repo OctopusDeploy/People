@@ -65,7 +65,7 @@
 
 ## 🏆 Customer Success
 
-- I confidently and autonomously lead the shipping of ideas from conception to production.
+- I confidently and autonomously lead the shipping of well-shaped ideas from conception to production.
 - I advocate for customer needs and motivations.
 - I decompose larger requirements into smaller, more manageable pieces, to deliver functionality in an incremental and iterative manner.
 - I build requirements and technical recommendations based on the real needs of customers.
