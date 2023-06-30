@@ -31,7 +31,7 @@ The Performing band should be considered the default and is for everyone who typ
 
 ### Exceeding
 
-The Exceeding band is a tool that managers can use when they need to recognize value contributed significantly _above and beyond_ what is expected at their level. _Above and beyond_ is typically demonstrated by exhibiting behaviours from the level above or by operating with an impact radius larger than that expected in their current role while continuing to perform the requirements of their current level effectively.
+The Exceeding band is a tool that managers can use when they need to recognize value contributed significantly _above and beyond_ what is expected at their level. _Above and beyond_ is typically demonstrated by exhibiting behaviours from the level above, or by operating with an impact radius larger than that expected in their current role, while continuing to perform the requirements of their current level effectively.
 
 This should usually only apply to:
 
