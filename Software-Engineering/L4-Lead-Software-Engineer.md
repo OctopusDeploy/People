@@ -73,6 +73,7 @@
 
 ## 🏆 Customer Success
 
+- I take pitch documents describing a complex problem space and help turn them into well-shaped work for myself or others to deliver.
 - I invest in sustainable delivery, maintaining professional standards and striking a pragmatic balance between idealistic purity and business pressures.
 - I understand our fixed-time/high-quality/variable-scope approach to software projects.
 - I assess what work supports the product strategy and make insightful recommendations regarding priorities.
