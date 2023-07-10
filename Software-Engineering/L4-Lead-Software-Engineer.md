@@ -5,7 +5,7 @@
 - **Planning horizon**: 6-12 months
 - **Impact radius**: Team (5-15)
 - **Evaluation**: Manager or Director
-- **Responsibility and direction needed**: Takes brand new ideas from inception to production with limited supervision.
+- **Responsibility and direction needed**: Consistently takes brand new ideas from inception to production with limited supervision.
 
 ## 🦉 Domain expertise
 
@@ -20,6 +20,7 @@
 
 - I successfully completed a large, complex project with multiple components.
 - I dived head-first into a bug fix or incident in an area of significant ambiguity or risk, led the investigation and resolved the issue.
+- I engaged with experts on another team for help approaching a complex problem outside of my domain and then ensured that my team understood the response and were able to implement the advice consistently in our work.
 
 </details>
 
@@ -52,6 +53,7 @@
 - I recognise problems and proactively engage with other people to prevent or resolve them quickly.
 - I am comfortable coordinating projects where success requires the input of multiple teams and diverse technical roles.
 - I am an adept communicator, and can effectively steer technical and non-technical conversations to positive outcomes over any medium.
+- I proactively improve and implement processes that help uplift the way my team works together.
 
 <details>
 <summary>Examples</summary>
@@ -63,7 +65,7 @@
 - I performed interviews for engineering candidates, providing detailed and useful feedback 
 - I confidently pitched an idea, positively influencing and convincing people to take decisive action.
 - I effectively steered technical and non-technical conversations to positive outcomes.
-- I was typically the first to take responsibility for reducing waste in our process.
+- I identified waste in our team processes, formulated a new approach, and got the rest of the team to buy into a new and better way of doing things.
 - I noticed a project was going to become blocked by another team, or take longer than expected, so I pulled together relevant stakeholders to propose an updated plan and reach a consensus.
 - I thoughtfully challenged and provided alternatives to a direction given by my manager or a Principal Software Engineer, with good results.
 
@@ -71,6 +73,7 @@
 
 ## 🏆 Customer Success
 
+- I take pitch documents describing a complex problem space and help turn them into well-shaped work for myself or others to deliver.
 - I invest in sustainable delivery, maintaining professional standards and striking a pragmatic balance between idealistic purity and business pressures.
 - I understand our fixed-time/high-quality/variable-scope approach to software projects.
 - I assess what work supports the product strategy and make insightful recommendations regarding priorities.
