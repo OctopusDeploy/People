@@ -42,7 +42,7 @@ Let's use simple terms for the ratings:
 - `Performing`: _"You're great at this! You're doing exactly what we expect of someone in this role and level. Keep up the great work!"_
 - `Exceeding`: _"In this area, you are exceeding what we expect of someone in this role and level."_
 - `Maturing`: _"You've got some growth required in this area, but the trajectory is good. Here's some supporting suggestions, take them or leave them - it's your call."_ [Alternatively, if a coaching opportunity has been identified] _"Let's develop a coaching plan to help ensure you are setup to succeed on your maturing journey."_
-- `Coaching needed`: _"You've got some growth required in this area and the trajectory isn't good. Let's work out a coaching plan and turn this around together."_
+- `Improvement needed`: _"You've got some growth required in this area and the trajectory isn't good. Let's work out a improvement plan and turn this around together."_
 
 ### Things the feedback recipient might think
 
