@@ -4,28 +4,19 @@ This repository describes the culture we strive for at Octopus, recognising our 
 
 It defines what we appreciate about the people we work with on a daily basis. It helps us champion each person's individual growth. It helps us hold each other accountable for upholding our cultural values. It helps us have fruitful one-on-one conversations.
 
-It's the anchor point used through all of our hiring, feedback, promotion, and salary review cycles.
-
 It's a living document, maintained by the very people it affects.
+
+It's the anchor point used through hiring, feedback, performance reviews, promotions, and salary benchmarking. Learn more about how we approach [Career & Compensation in the Octopus Handbook](https://handbook.octopus.com/life-octopus/career).
 
 ## How to use this tool
 
 This document should act like a tuning fork and provide encouragement for personal growth. It is broken down into a few sections:
 
 1. [Everyone](Everyone.md) defines the overall culture of Octopus and ways each person can strengthen that culture.
-2. Other sections build on top of these cultural norms for specific roles.
+2. [Leadership](Leadership.md) defines the Octopus leadership principles.
+3. Other sections build on top of these cultural norms for specific roles.
 
-## How to conduct a personal retrospective
-
-> Retrospective: To look back at events that have taken place and incorporate our successes and improvements into our daily work life.
-
-Each person at Octopus should have a regular 1:1 with other people using this statement as a retrospective tool. You are welcome to choose your mentor and how frequently you schedule your 1:1. _As a rule of thumb you should do this at least monthly with a mentor who is close enough to you and the work you do to actually be helpful._
-
-Prepare for your 1:1 by going through the parts of this statement relevant to your situation, and rate yourself at each of the **defining characteristics**. Your mentor will do the same thing so your 1:1 leads to fruitful conversation.
-
-1. [Everyone](Everyone.md).
-2. Your specific role.
-3. Any role you are aspiring to.
+When seeking feedback, it is typical to focus on your current role and any role you are aspiring to. This helps identify your strengths and areas to improve.
 
 ### Defining characteristics and examples
 
@@ -44,20 +35,14 @@ We have identified several **defining characteristics** about each role at Octop
 
 Rate yourself at the **defining characteristics** level so it's not too hard to maintain over time; the examples act as a frame of reference for the rating.
 
-If you're aiming for a promotion or a different role, rate yourself on both your current role and your desired role. Looking at the desired role will provide clarity about gaps you might need to fill or grow into. You should discuss your desire before rating with a peer or mentor, so that they can provide feedback on your goals.
+If you're aiming for a promotion or a different role, rate yourself on both your current role and your desired role. Looking at the desired role will provide clarity about gaps you might need to fill or grow into. You should discuss your appetite with your manager so they can provide feedback on your goals.
 
 Let's use simple terms for the ratings:
 
-- `No brainer`: _"You're great at this! We don't even need to talk about it."_
-- `Maturing`: _"Here's some suggestions, take them or leave them - it's your call."_
-  - It makes sense to record the suggestions.
-- `Needs coaching`: _"This is an area you're weak in, let's work out a plan and walk this out together."_
-  - It makes sense to record the coaching plan.
-
-Let's call special attention to clearly outstanding/exemplary behaviour:
-
-- `Outstanding`: _You simply shine in this area like very few others. I think people deserve to know this about you._
-  - This is more than just saying "I'm really, really good at this". It's saying that you're right up there with the best few across all of Octopus at this.
+- `Performing`: _"You're great at this! You're doing exactly what we expect of someone in this role and level. Keep up the great work!"_
+- `Exceeding`: _"In this area, you are exceeding what we expect of someone in this role and level."_
+- `Maturing`: _"You've got some growth required in this area, but the trajectory is good. Here's some supporting suggestions, take them or leave them - it's your call."_ [Alternatively, if a coaching opportunity has been identified] _"Let's develop a coaching plan to help ensure you are setup to succeed on your maturing journey."_
+- `Improvement needed`: _"You've got some growth required in this area and the trajectory isn't good. Let's work out a improvement plan and turn this around together."_
 
 ### Things the feedback recipient might think
 
@@ -71,9 +56,9 @@ When it comes to personal growth:
 
 When it comes to salary review and promotion:
 
-- I’d like to think that my growth/salary/promotion in Octopus is not at the sole discretion of a single person.
+- I’d like to think that my growth/salary/promotion in Octopus is decided by people connected to my work.
 - I want my salary review to be based over time, like an ongoing conversation, that way I feel like there’s been opportunity to grow and to show and measure my growth and I don't get judged only using their recent memory.
-- I want to know the salary review process is fair and open and that favouritism doesn't come into it.
+- I want to know the salary review process is fair, unbiased, and open.
 - I want the salary review process to work fairly regardless which teams I belong to.
 
 ### Things the feedback provider might think
@@ -87,7 +72,6 @@ When it comes to personal growth:
 When it comes to salary review and promotion:
 
 - I don't want to try and recall everything I know about someone when salary reviews come around, but I'd rather have it collected as a natural by-product of mentoring a person.
-- I don't want to be the single person responsible for a person’s growth/salary/promotion in Octopus, I want it to be collaborative.
 - I want decisions for a person’s growth/salary/promotion in Octopus to be based on their proven growth over time, not just a because they did the right things for one month a year.
 
 ## Background, Purpose, and Attribution
