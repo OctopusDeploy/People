@@ -2,6 +2,15 @@
 
 Words that resonate with SecOps: Awareness + Response + Prevention. We work proactively and reactively to increase awareness of threats. We are the first responders for security incidents and work closely with our Legal, Compliance, and IT Operations teams. We do the heavy lifting to implement and improve the controls underpinning our Information Security Management System (ISMS) - think of them as guard rails making it easier for teams to do their jobs safely. We have two disciplines/sub-teams: Security Analysts and Security Engineers.
 
+**Security Analysts** and **Security Engineers** are two distinct roles that closely align with each other, albeit on separate career tracks. If we were to distill their role definitions into single sentences, it would be as follows:
+
+- Security Analysts assess potential vulnerabilities, monitor for suspicious activity, and conduct investigations into security incidents.
+- Security Engineers primarily concentrate on designing, implementing, and maintaining secure systems and networks.
+
+In addition, **Cloud Security Engineers** are similar to Security Engineers, but they predominantly work with the Cloud Platform Team. Their role combines elements of both Security Engineer and Cloud Engineer roles.
+
+Finally, **Technical Leads** are responsible for overseeing and guiding the team in implementing and maintaining effective security measures. They serve as mentors and collaborators, supporting team members in enhancing their technical skills and ensuring the successful execution of security initiatives.
+
 Our roles are defined by expectations for each level in terms of:
 
 - **Planning horizon**: The typical timeframe to be thinking ahead about your impacts
