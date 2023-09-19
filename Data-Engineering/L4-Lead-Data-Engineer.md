@@ -9,16 +9,16 @@
 
 ## 🦉 Domain expertise
 
-- I am a well-rounded data engineer and have strong analytical skills to solve and communicate problems
-- I am an expert in my team's domain I have a strong understanding of data-platform capabilities from ingestion through to visualisation
-- I am comfortable diving head-first into moderately risky situations with relatively little upfront information and oversight
+- I am a well-rounded data engineer and have strong analytical skills to solve and communicate problems.
+- I am an expert in my team's domain I have a strong understanding of data-platform capabilities from ingestion through to visualisation.
+- I am comfortable diving head-first into moderately risky situations with relatively little upfront information and oversight.
 - I stay up to date on evolving standards, platform features, and critical vendor and community-provided technologies.
 - I can deliver and guide delivery of small "proof of concept" outcomes for internal stakeholders and my peers.
 
 <details>
 <summary>Examples</summary>
 
-- I performed analysis and communicated findings that drove strategic outcomes for the organisation
+- I performed analysis and communicated findings that drove strategic outcomes for the organisation.
 - I successfully completed a large complex project with multiple components.
 - I dived head-first into a new area of significant ambiguity or risk, led the investigation and worked towards resolved the issue.
 
@@ -43,26 +43,26 @@
 
 ## 🧭 Culture and Leadership
 
-- I encompass all of the qualities listed in [Leadership](https://github.com/OctopusDeploy/People/blob/main/Leadership.md)
-- I am confident in providing strategic level insight to management and executive leadership in the organisation
+- I encompass all of the qualities listed in [Leadership](https://github.com/OctopusDeploy/People/blob/main/Leadership.md).
+- I am confident in providing strategic level insight to management and executive leadership in the organisation.
 - I understand our organisation structure and how we schedule work, and help my team find their highest value contributions in this environment.
 - I am comfortable with transparently assessing risk, making recommendations, escalating appropriately, and dealing with the consequences along the way.
 - I recognise problems and proactively engage with other people to prevent or resolve them quickly.
 - I am comfortable coordinating projects where success requires the input of multiple teams and diverse roles.
 - I am an adept communicator, and can effectively steer technical and non-technical conversations to positive outcomes over any medium.
-- I communicate using facts from data, presenting clear assumptions and vetting quality of the data
+- I communicate using facts from data, presenting clear assumptions and vetting quality of the data.
 
 <details>
 <summary>Examples</summary>
 
 - I identified the work involved with delivering a pitch, broke it into tasks and managed the project to completion.
 - I took ownership of my team's retrospective process, making sure everyone had a voice in how our team works and evolves together.
-- I performed interviews for engineering candidates, providing detailed and useful feedback 
+- I performed interviews for engineering candidates, providing detailed and useful feedback .
 - I confidently pitched an idea, positively influencing and convincing people to take decisive action.
 - I effectively steered technical and non-technical conversations to positive outcomes.
 - I was typically the first to take responsibility for reducing waste in our process.
 - I noticed a project was going to become blocked by another team, or take longer than expected, so I pulled together relevant stakeholders to propose an updated plan and reach a consensus.
-- I reviewed an existing metric, provided context and any assumptions so it was clear what it actually meant
+- I reviewed an existing metric, provided context and any assumptions so it was clear what it actually meant.
 
 </details>
 
