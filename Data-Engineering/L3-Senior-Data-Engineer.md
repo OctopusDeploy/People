@@ -31,13 +31,13 @@
 
 ## 🌱 Teaching and Mentoring
 
-- I consistently help new hires, business users and data and software engineers to "level up" and become more proficient over time
-- I am fuelling my team's desire to learn about data engineering
+- I consistently help new hires, business users and data and software engineers to "level up" and become more proficient over time.
+- I am fuelling my team's desire to learn about data engineering.
 
 <details>
 <summary>Examples</summary>
 
-- I assisted a person who made a QRF request to self-serve so they can manage their own needs when it comes to data
+- I assisted a person who made a QRF request to self-serve so they can manage their own needs when it comes to data.
 - I was buddy to a new team member and helped them navigate our systems and culture.
 - I shared useful videos/blogs/papers that helped people understand more about data and analytics.
 - I saw an opportunity to train others and my peers on an aspect of the data platform, I ran a knowledge sharing session.
@@ -59,7 +59,7 @@
 
 - I performed regular interviews for _data-engineering_ candidates, and provided detailed and useful feedback.
 - I took on a significant share of unplanned work and other "housekeeping" tasks.
-- I put more technical concepts (e.g. data-models) into clear business language to facilitate the business outcomes and requirements expected for a project
+- I put more technical concepts (e.g. data-models) into clear business language to facilitate the business outcomes and requirements expected for a project.
 - I spotted a contentious issue that could have gone badly and facilitated everyone toward a decision that resolved the situation.
 - I took on a task in a greenfield area that required me to design a new component/system/feature, I organized/led others to a succesful outcome.
 - I recognised a problem early and got in to fix it even though it wasn't my fault.
