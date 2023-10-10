@@ -12,7 +12,7 @@ Octopus People (this repository) is a core building block we use to help people 
 In short:
 - **Level** (i.e. L1-5) is used to set the person's role title (e.g. Junior Software Engineer, Senior Software Engineer), to broadcast expectations and reinforce archetypes, to the person, across Octopus and beyond.
 - **Band** (i.e. Maturing/Performing/Exceeding) is used to reflect value contributed within that level and provide a sense of progression within each level and smoother transitions to the next level
-- **Performance Reviews** are the opportunity for you and your manager will reflect on your demonstrated performance against the expectations of that level + band, and perhaps determine you are ready for a promotion to the next level/band.
+- **Performance Reviews** are an opportunity for you and your manager to reflect on your demonstrated performance against the expectations of that level + band, and determine whether you are ready for a promotion to the next level/band.
 
 ### Understanding bands
 
