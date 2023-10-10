@@ -1,17 +1,24 @@
-## Deriving an overall rating (Maturing, Performing, Exceeding)
+## Levels, Bands, and Performance Reviews
 
-We use Maturing, Performing, or Exceeding bands within each level to help us ensure that:
-- Our salaries pass the [printer test](https://handbook.octopus.com/life-octopus/career#compensation-philosophy)
+Our career and compensation philosophy are carefully designed to help everyone at Octopus do the best work of their life and feel a genuine sense of progression while we work together. If you haven't already, jump across and learn the fundamentals of our career and compensation philosophy in our [handbook](https://handbook.octopus.com/life-octopus/career).
+
+Summarising, we want to ensure that:
+- Our salaries pass the "printer test" (same job, same pay)
 - We support both "superstars" seeking a steep growth trajectory and "rockstars" seeking a shallower growth trajectory
-- We have role titles that set clear expectations between individuals across Octopus
+- We have roles and levels that set clear expectations between individuals across Octopus
+
+Octopus People (this repository) is a core building block we use to help people navigate their career at Octopus and one area that deserves a bit more explanation is job levels and bands and how we use performance reviews at Octopus.
 
 In short:
 - **Level** (i.e. L1-5) is used to set the person's role title (e.g. Junior Software Engineer, Senior Software Engineer), to broadcast expectations and reinforce archetypes, to the person, across Octopus and beyond.
-- **Band** (i.e. Maturing/Performing/Exceeding) is used to reflect value contributed within that level, and thereby help us pass the printer test. 
+- **Band** (i.e. Maturing/Performing/Exceeding) is used to reflect value contributed within that level and provide a sense of progression within each level and smoother transitions to the next level
+- **Performance Reviews** are the opportunity for you and your manager will reflect on your demonstrated performance against the expectations of that level + band, and perhaps determine you are ready for a promotion to the next level/band.
 
-**NB:** _The Band (Maturing/Performing/Exceeding) is distinct from the Performance Review Overall Rating (1-5). The combination of Level and Band describes the expectations that Octopus has of an engineer, while the Performance Review Overall Rating describes performance against those expectations.
+### Understanding bands
 
-### Maturing
+While levels are pretty easy to understand since they are tied directly to a definition in Octopus People, we've seen some people struggle to calibrate on what the bands mean. This section is designed to help everyone calibrate on the meaning of each band, *maturing*, *performing*, and *exceeding*.
+
+#### Maturing
 
 The Maturing band is suitable for someone who is _immediately ready_ to _largely_ deliver on the expectations of that level, but needs further coaching or support before they are fully performing in 1 or more dimensions (i.e. 🦉 Domain expertise, 🌱 Teaching and Mentoring, 🧭 Culture and Leadership or 🏆 Customer Success).
 
@@ -25,11 +32,11 @@ There is no hard and fast rule for a maximum duration that someone can be in a M
 
 To progress from the Maturing band to the Performing band at a particular level, someone will typically need to have demonstrated a track record of performing at that level autonomously and without requiring significant support from their manager to do so.
 
-### Performing
+#### Performing
 
 The Performing band should be considered the default and is for everyone who typifies what it means to be a great contributor at that level at Octopus.
 
-### Exceeding
+#### Exceeding
 
 The Exceeding band is a tool that managers can use when they need to recognize value contributed significantly _above and beyond_ what is expected at their level. _Above and beyond_ is typically demonstrated by exhibiting behaviours from the level above, or by operating with an impact radius larger than that expected in their current role, while continuing to perform the requirements of their current level effectively.
 
