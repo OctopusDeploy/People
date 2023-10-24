@@ -49,4 +49,4 @@ Exceeding should only apply to someone who is:
 
 1. ready for Maturing at the next level, but doesn't yet have an **opportunity** to demonstrate they can meet expectations at that level (e.g. there isn't an open position) (note: in a growing company, this should be a short-term situation), or
 2. ready for Maturing at the next level, but doesn't **want** to be promoted to the next level with its associated expectations (e.g. a "rockstar" at L3 and/or someone who prefers a more shallow growth trajectory).
-3. already Maturing at the next level, but **wants to go back** to the previous level where they can make their best contribution (e.g. a "rockstar" at L3 who recognises they've moved beyond their best contribution) - we're pretty proud to say that several people have exercised this option with net-positive results!
+3. already Maturing at the next level, but **wants to go back** to the previous level where they can make their best contribution - (e.g. an L4.1 who realises their best contribution is L3.3) - we're pretty proud to say that several people have exercised this option with net-positive results!
