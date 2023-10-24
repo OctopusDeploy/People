@@ -30,7 +30,10 @@ Use these tests to check if someone is ready for a promotion to Maturing at the 
 2. _Do you and the person have a shared understanding of the gap to get to Performing at that next level, and are you both up to the challenge to put that plan into action_?
 3. _Have you lined up the opportunities that person will need to demonstrate they can get to Performing at that next level?_
 
-There is no hard and fast rule for a maximum duration that someone can be in Maturing. The important thing is that the manager is confident about the person's **growth trajectory toward Performing**. If this confidence is lost, the manager and person should discuss moving back to Exceeding in the previous level.
+There is no hard and fast rule for a maximum duration that someone can be in Maturing. The important thing is that the manager is confident about the person's **growth trajectory toward Performing**. If the team member struggles to gain traction towards Performing, the manager and team member should consider these options:
+
+1. Put a mutually agreeable support plan in place to help the team member progress to Performing.
+2. Mutually agree to moving back to Exceeding in the previous level - see Exceeding below for more details on this option.
 
 To progress from Maturing to Performing at a particular level, someone will typically need to have demonstrated a track record of performing at that level autonomously and without requiring significant support from their manager to do so.
 
