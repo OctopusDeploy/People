@@ -16,6 +16,8 @@ In short:
 
 ### Understanding maturity
 
+_Note: "maturity" is also called "band" in some places. We are trying to standardise over time._
+
 While levels are pretty easy to understand since they are tied directly to a definition in Octopus People, we've seen some people struggle to calibrate on what the maturities mean. This section is designed to help everyone calibrate on the meaning of each maturity, *maturing*, *performing*, and *exceeding*.
 
 #### Maturing
@@ -28,19 +30,20 @@ Use these tests to check if someone is ready for a promotion to Maturing at the 
 2. _Do you and the person have a shared understanding of the gap to get to Performing at that next level, and are you both up to the challenge to put that plan into action_?
 3. _Have you lined up the opportunities that person will need to demonstrate they can get to Performing at that next level?_
 
-There is no hard and fast rule for a maximum duration that someone can be in Maturing. The important thing is that the manager is confident about the person's growth trajectory toward Performing. If this confidence is lost, the manager and person should discuss moving back to Exceeding in the previous level.
+There is no hard and fast rule for a maximum duration that someone can be in Maturing. The important thing is that the manager is confident about the person's **growth trajectory toward Performing**. If this confidence is lost, the manager and person should discuss moving back to Exceeding in the previous level.
 
 To progress from Maturing to Performing at a particular level, someone will typically need to have demonstrated a track record of performing at that level autonomously and without requiring significant support from their manager to do so.
 
 #### Performing
 
-The Performing should be considered the default and is for everyone who typifies what it means to be a great contributor at that level at Octopus.
+Performing is for someone who is meeting ~90% of the expectations of their level and should be considered the default. In other words, Performing is for everyone who typifies what it means to be a great contributor at that level at Octopus.
 
 #### Exceeding
 
-The Exceeding is a tool that managers can use when they need to recognize value contributed significantly _above and beyond_ what is expected at their level. _Above and beyond_ is typically demonstrated by exhibiting behaviours from the level above, or by operating with an impact radius larger than that expected in their current role, while continuing to perform the requirements of their current level effectively.
+Exceeding is a tool that managers can use when they need to recognize value contributed significantly _above and beyond_ what is expected at their level. _Above and beyond_ is typically demonstrated by exhibiting behaviours from the level above, or by operating with an impact radius larger than that expected in their current role, while continuing to perform the requirements of their current level effectively.
 
-This should usually only apply to:
+Exceeding should only apply to someone who is:
 
-1. someone who doesn't _want_ to be promoted to the next level with its associated expectations (e.g. a "rockstar" at L3 or above who prefers a shallower growth trajectory), or
-2. someone who is ready for the next level, but doesn't yet have a chance to demonstrate they can meet expectations at that level (note: in a growing company, this should be a short-term situation)
+1. ready for Maturing at the next level, but doesn't yet have an **opportunity** to demonstrate they can meet expectations at that level (e.g. there isn't an open position) (note: in a growing company, this should be a short-term situation), or
+2. ready for Maturing at the next level, but doesn't **want** to be promoted to the next level with its associated expectations (e.g. a "rockstar" at L3 and/or someone who prefers a more shallow growth trajectory).
+3. already Maturing at the next level, but **wants to go back** to the previous level where they can make their best contribution (e.g. a "rockstar" at L3 who recognises they've moved beyond their best contribution) - we're pretty proud to say that several people have exercised this option with net-positive results!
