@@ -1,6 +1,6 @@
-# L3: Senior Software Engineer
+# L3: Senior Security Engineer
 
-> _I am a highly sought-after member of an Octopus team with a proven record of shipping high-quality code to production._
+> _I possess advanced technical skills and a deep understanding of security principles and best practices. I am responsible for leading the design and implementation of complex security systems, conducting in-depth security assessments, providing technical guidance to the team, and driving strategic security initiatives._
 
 - **Planning horizon**: Current and next cycle
 - **Impact radius**: Peers (2-5)
@@ -10,8 +10,8 @@
 ## 🦉 Domain expertise
 
 - I am advanced in my team's domain.
-- I can confidently step outside my own comfort zone and adapt quickly to new technologies.
-- I am able to design interfaces and reusable components for my team.
+- I can confidently step outside my comfort zone and adapt quickly to new technologies.
+- I confidently provide security expertise during peer reviews for codebases across the organisation.
 - I make appropriate scaling, reliability, and maintenance trade-offs as they occur in practice.
 - I identify, qualify and reduce technical debt as appropriate to my team's priorities.
 
@@ -19,24 +19,23 @@
 <summary>Examples</summary>
 
 - I set up or maintained an automated integration and delivery pipeline.
-- I determined the technical direction within a brown-field project.
-- I made the pragmatic decision not to investigate an interesting technical rabbit hole, in order to prioritise shipping a valuable feature to customers.
-- I guided my team's choice of safety nets, making appropriate risk trade-offs to balance delivery and quality
+- I made pragmatic decisions to ship a product.
+- I guided my team's choice of safety nets, making appropriate risk trade-offs to balance delivery and quality.
 - People asked me for my opinion when making technical decisions because I had a proven track record of making wise choices.
+- I reviewed a PR that fixes a vulnerability that was raised in Bugcrowd to ensure that it resolved the underlying problem.
 
 </details>
 
 ## 🌱 Teaching and Mentoring
 
 - I consistently help new hires and more junior engineers to "level up" and become more proficient over time.
-- I invest time in mentoring, coaching or teaching other engineers on my team in 1:1 or group settings.
 - I am fuelling my team's desire to learn.
 
 <details>
 <summary>Examples</summary>
 
-- I ran a knowledge sharing session.
-- I mentored a more junior developer and they went on to achieve something they couldn't have before.
+- I ran a knowledge-sharing session.
+- I mentored a more junior engineer and they went on to achieve something they couldn't have before.
 - I shared useful videos/blogs/papers that led to some action.
 - I used code reviews as an opportunity to teach and showed others alternate, cleaner ways to implement functionality in an ego-less manner.
 
@@ -44,38 +43,38 @@
 
 ## 🧭 Culture and Leadership
 
-- I collaborate on and occasionally lead technical direction within already-defined projects.
+- I collaborate on technical direction within already-defined projects.
 - I continuously maintain and improve quality across the stack.
 - I am willing to take on the necessary and unglamorous work needed to get things done.
 - I take responsibility for my own mistakes and learn from the mistakes of others.
 - I manage difficult conversations and tactfully challenge others.
 - I improve the productivity and delivery of my team.
-- I help raise the bar for working at Octopus by providing regular code reviews and / or interviews for engineering candidates.
+- I ensure that the alerts we receive are actionable and I proactively reduce alert fatigue.
 
 <details>
 <summary>Examples</summary>
 
-- I performed regular interviews for engineering candidates, and provided detailed and useful feedback.
+- I performed regular interviews for engineering candidates and provided detailed and useful feedback.
 - I took on a significant share of unplanned work and other "housekeeping" tasks.
 - I spotted a contentious issue that could have gone badly and facilitated everyone toward a decision that resolved the situation.
-- I recognised a problem early and got in to fix it even though it wasn't my fault.
+- I recognised a problem early and fixed it.
 - I wrote a clear and concise proposal that persuaded the team to act on my idea.
 
 </details>
 
-## 🏆 Customer Success
+## 🏆 Business Success
 
-- I confidently and autonomously lead the shipping of well-shaped ideas from conception to production.
-- I advocate for customer needs and motivations.
-- I decompose larger requirements into smaller, more manageable pieces, to deliver functionality in an incremental and iterative manner.
-- I build requirements and technical recommendations based on the real needs of customers.
+- I ship ideas from conception to production.
+- I advocate for improving the organisation's overall security posture.
+- I decompose larger requirements into smaller, more manageable pieces, to deliver functionality incrementally and iteratively.
+- I build requirements and technical recommendations based on real needs.
 
 <details>
 <summary>Examples</summary>
 
-- I led a shaped pitch from idea to production, working with less senior colleagues to get the work shipped on time.
-- I gave an early access version to our customers to get feedback during development, and acted on that feedback.
+- I led a shaped pitch or RFC from idea to production.
+- I helped define an Engineering RFC so that it meets security requirements.
 - I helped unblock the delivery pipeline to make sure we could verify the expected behaviour of the changes we made to production.
-- I analyzed telemetry to make technical and scope decisions during a build.
+- I analyzed telemetry to make technical and scope decisions.
 
 </details>

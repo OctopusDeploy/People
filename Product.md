@@ -132,7 +132,7 @@
 - I monitor the progress of product teams to clarify and remove barriers to achieve meaningful progress
 - I partner with design and engineering to prioritize and ensure meaningful progress on tactical and quality work not related to any team’s mission
 - I communicate with stakeholders on the progress to enable effective coordination of readiness, awareness, and adoption activities
-- I facilitate product risk management to ensure we are make choices that maintain an acceptable level of risk
+- I facilitate product risk management to ensure we are making choices that maintain an acceptable level of risk
 
 ### I evangelise the impact of our investment
 
