@@ -55,6 +55,6 @@ Exceeding should only apply to someone who is:
 
 We've designed the career framework to be inclusive, equitable, and flexible. From time-to-time, we see some confusion about trajectories, timing, and tenure.
 
-_Goals_: Progression through to at least L3 (Senior) is a key goal of our career framework. With the help from the framework, managers should ensure all people at L1-2 have a credible path, steps laid out, and the support they need to reach L3 _eventually_. Progression beyond L3, further down the individual contributor or manager pathways, is considered optional.
+_Goals_: Progression through to at least L3.2 (Senior) is a key goal of our career framework. With help from the framework, managers should ensure that all people at L1 or L2 have a credible path, steps laid out, and the support they need to reach L3.2. Progression beyond L3.2 is considered optional.
 
 _Trajectories, Timing, and Tenure_: We make no blanket statements or strict rules about the rate of progression for any given individual and their life circumstances. We've designed the career framework to make tenure irrelevant. Instead, we focus on setting clear expectations to enable fruitful conversations with your manager about your growth trajectory and next steps, and to calibrate these expectations across the company.
