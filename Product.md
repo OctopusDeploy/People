@@ -79,6 +79,28 @@
 - I mentor another person on their product thinking to help them to round out their skill set
 - I share my on-the-job learning and experiences with others so they can be more effective in their roles
 
+## Principal Product Manager
+> I develop a deep understanding of directional product opportunities. I turn a highly ambiguous or uncertain opportunity space into potentially viable opportunities that inform our strategic choices. I lead initial approaches with design and engineering partners to validate and refine our hypothesis. I lead the team through the fog to ship the first releases. I work closely with marketing, sales, customers, and industry influencers to earn credibility in the eyes of the market. My influence can be seen by customers and across the company.  The work I do contributes to lasting change in the product value proposition.
+
+### I develop a deep understanding of the opportunities and barriers to our strategic product direction.
+- I research strategic product opportunities to understand their viability.
+- I validate opportunities with customers and partners to build confidence in the opportunities we are considering.
+- I look for unique opportunities to differentiate our approach or accelerate our progress.
+
+### I create alignment around and momentum towards a strategic product direction.
+- I educate people on opportunities to generate urgency for the most impactful opportunities.
+- I align senior leaders on the opportunity to influence investment and organisational change in pursuit of the opportunity.
+- I share progress and impact stories to reinforce the product direction and motivate teams.
+
+### I focus teams on the desired outcomes, regularly examining if we should pivot or persist.
+- I regularly inspect progress to challenge our assumptions and then decide to persist or pivot based on what we learn.
+- I partner with marketing and sales in reshaping product messaging and experimenting in go-to-market to build a credible story.
+- I build relationships with influencers to promote our point of view.
+
+### I nurture the product mindset across the company
+- I use my on-the-job learning and experiences to evangelise best practices on product thinking.
+- I support Product Directors in coaching people on product practices.
+
 ## Product Operations Manager
 
 > I am curious about how product teams identify opportunities, match problems with solutions, and earn healthy adoption. Others seek me out as the person who can help improve communication, feedback loops, and data sets that lead to improving our decision-making confidence. I work with product teams to prioritize problems that will improve our understanding of customers which in turn increases our chance of delivering impactful results.
