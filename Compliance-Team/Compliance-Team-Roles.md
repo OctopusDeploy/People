@@ -1,11 +1,11 @@
 # Compliance Team Roles
 
-## L2 - Cyber Governance, Risk & Compliance (GRC) Analyst
+## L2 - Information Security Compliance Specialist
 
-**Planning horizon:** Current and next cycle
+**Planning horizon:** Current and next quarter.
 **Impact radius:** Customers, internal & external, self plus some teammates
 **Evaluation:** Manager
-**Responsibility and direction needed:** Weekly supervision is needed from their manager or more senior analysts.
+**Responsibility and direction needed:** Weekly supervision is needed from their manager or more senior team members.
 
 The following are true about my performance in this role
 > I possess the skills to improve Cyber GRC systems and processes for our teams and our customers.
@@ -85,4 +85,12 @@ The following are true about my performance in this role
 
 </details>
 
-[Internal Only - Responsibilities and Skills requirements](https://octopushq.atlassian.net/wiki/spaces/TRUS/pages/2369815237/PD+Cyber+GRC+Analyst) 
+[Internal Only - Responsibilities and Skills requirements](https://octopushq.atlassian.net/wiki/spaces/TRUS/pages/2369815237/
+
+
+## L3 - Senior Information Security Compliance Specialist
+
+**Planning horizon:** Current and next half year
+**Impact radius:** Customers, internal & external, self plus some teammates
+**Evaluation:** Manager
+**Responsibility and direction needed:** Weekly supervision may be needed from their manager.
