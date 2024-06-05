@@ -3,7 +3,7 @@
 ## L2 - Information Security Compliance Specialist
 
 | key | value |
-----------------
+|-----|-------|
 | **Planning horizon:** | Current and next quarter. |
 | **Impact radius:** | Customers internal & external, self plus some teammates |
 | **Evaluation:** | Manager |
