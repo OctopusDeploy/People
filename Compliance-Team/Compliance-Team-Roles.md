@@ -2,10 +2,12 @@
 
 ## L2 - Information Security Compliance Specialist
 
-**Planning horizon:** Current and next quarter.
-**Impact radius:** Customers, internal & external, self plus some teammates
-**Evaluation:** Manager
-**Responsibility and direction needed:** Weekly supervision is needed from their manager or more senior team members.
+| key | value |
+----------------
+| **Planning horizon:** | Current and next quarter. |
+| **Impact radius:** | Customers internal & external, self plus some teammates |
+| **Evaluation:** | Manager |
+| **Responsibility and direction needed:** | Weekly supervision is needed from their manager or more senior team members. |
 
 The following are true about my performance in this role
 > I possess the skills to improve Cyber GRC systems and processes for our teams and our customers.
