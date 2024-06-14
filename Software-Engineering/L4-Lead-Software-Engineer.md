@@ -54,7 +54,7 @@
 - I am comfortable coordinating projects where success requires the input of multiple teams and diverse technical roles.
 - I am an adept communicator, and can effectively steer technical and non-technical conversations to positive outcomes over any medium.
 - I proactively improve and implement processes that help uplift the way my team works together.
-- I collaborate effectively with team members from the Product and Design functions. I help to guide these team members towards the outcomes I need of them, and I ensure their needs are met in the work I do.
+- I collaborate effectively with team members from other functions (Eg. Product Managers and Designers). I help to guide these team members towards the outcomes I need of them, and I ensure their needs are met in the work I do.
 
 <details>
 <summary>Examples</summary>
@@ -78,7 +78,7 @@
 - I invest in sustainable delivery, maintaining professional standards and striking a pragmatic balance between idealistic purity and business pressures.
 - I understand our fixed-time/high-quality/variable-scope approach to software projects.
 - I assess what work supports the product strategy and make insightful recommendations regarding priorities.
-- I identify key gaps in product offerings and functionality, then work with a Product Manager to shape the opportunities.
+- I identify key gaps in product offerings and functionality, then work with responsible team members (e.g. Product Managers, Business Stakeholders) to shape the opportunities.
 - I pragmatically plan minimum viable infrastructure for product launch.
 
 <details>
