@@ -31,6 +31,7 @@ Leadership at Octopus is all about positively influencing others. We do this usi
 - I have a proven track record of deriving the best outcomes from difficult conversations over all mediums.
 - I effectively tailor the content of my conversations to my audience.
 - People seek my input to validate and improve their own communications.
+- I facilitate healthy conflict through negotiation to arrive at positive, constructive outcomes.
 
 ### I am an effective coordinator
 
