@@ -11,7 +11,7 @@
 
 - I am a well-rounded developer, architect and problem solver.
 - I am an expert in my team's domain.
-- I am comfortable diving head-first into moderately risky or unknown situations with relatively little upfront information and oversight.
+- I am comfortable diving head-first into moderately risky or uncertain situations with relatively little upfront information and oversight.
 - I am confident making architectural decisions, taking cross-cutting concerns (for example, infrastructure, identity management, security, scalability, concurrency, and maintainability) into consideration as appropriate.
 - I stay up to date on evolving standards, platform features, and critical vendor and community-provided technologies.
 
@@ -87,6 +87,6 @@
 - I contributed to shaping a pitch, identified risks and appropriate scoping, that helped us ship value to customers as soon as possible, and meet the team's objectives over one or more cycles.
 - I was comfortable building a product vision based on the needs of multiple customers.
 - In delivering a pitch, I used the "scope hammer" judiciously, to maintain high quality while shipping as much value as possible to users within a cycle.
-- I ensured that appropriate time is allocated to validate our assumptions and test our designs with customers.
+- I ensured that appropriate time was allocated to validate our assumptions and test our designs with customers.
 
 </details>
