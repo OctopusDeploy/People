@@ -2,7 +2,7 @@
 
 I am a pivotal member of the Octopus team, balancing the responsibilities of delivering high-quality projects and guiding technical initiatives. I bridge the gap between engineering and architecture, providing leadership, technical expertise, and a focus on reliability and security to drive projects forward.
 
-**Planning horizon:** 6-12 months 
+**Planning horizon:**  Next cycle to 6 months 
 **Impact radius:** Team (4-10)  
 **Evaluation:** Manager  
 **Responsibility and direction needed:** Takes ownership of complex projects and leads them from idea to production with moderate supervision.
