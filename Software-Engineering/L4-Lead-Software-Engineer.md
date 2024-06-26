@@ -66,6 +66,8 @@
 - I performed interviews for engineering candidates, providing detailed and useful feedback.
 - I confidently pitched an idea, positively influencing and convincing people to take decisive action.
 - I convinced my peers of a technical decision through asynchronous discussion by effectively communicating my perspective and understanding. 
+- I published an RFC on a technical approach and then engaged with feedback from other teams, incorporating the results of discussions to create a better path forward for my team.
+- I supported a colleague's idea by articulating its benefits and addressing concerns, leading to its acceptance.
 - I identified waste in our team processes, formulated a new approach, and got the rest of the team to buy into a new and better way of doing things.
 - I noticed a project was going to become blocked by another team, or take longer than expected, so I pulled together relevant stakeholders to propose an updated plan and reach a consensus.
 - I thoughtfully challenged and provided alternatives to a direction given by my manager or a Principal Software Engineer, with good results.
