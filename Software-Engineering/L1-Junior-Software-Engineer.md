@@ -41,6 +41,8 @@
 - I show independent initiative and problem solving.
 - I demonstrate a collaborative attitude.
 - I take responsibility for my own work.
+- I avoid going dark for long periods of time.
+- I reach out to my peers for guidance and to ask questions when input is required to move forwards.
 
 <details>
 <summary>Examples</summary>
@@ -48,6 +50,7 @@
 - I found it difficult to set up my environment based on the instructions so I updated the instructions.
 - I didn't understand why our team wouldn't rewrite a difficult part of the codebase, so I asked my team lead to explain it to me.
 - A senior engineer on my team gave me some critical feedback on my work, so I took the time to understand how to improve.
+- I was working on a task and had a few options for moving forward, so I reached out to a team member to discuss the options and my thoughts. I used their input to help me choose a path to proceed.
 
 </details>
 

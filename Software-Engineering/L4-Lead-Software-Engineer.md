@@ -9,9 +9,9 @@
 
 ## 🦉 Domain expertise
 
-- I am a well-rounded developer, architect and problem solver
-- I am an expert in my team's domain
-- I am comfortable diving head-first into moderately risky situations with relatively little upfront information and oversight
+- I am a well-rounded developer, architect and problem solver.
+- I am an expert in my team's domain.
+- I am comfortable diving head-first into moderately risky or uncertain situations with relatively little upfront information and oversight.
 - I am confident making architectural decisions, taking cross-cutting concerns (for example, infrastructure, identity management, security, scalability, concurrency, and maintainability) into consideration as appropriate.
 - I stay up to date on evolving standards, platform features, and critical vendor and community-provided technologies.
 
@@ -45,15 +45,16 @@
 
 ## 🧭 Culture and Leadership
 
-- I encompass all of the qualities listed in [Leadership](https://github.com/OctopusDeploy/People/blob/main/Leadership.md)
-- I avoid becoming a bottleneck, by setting up other engineers on my team for success for longer periods of time before needing to check back in
-- I make sure difficult work that needs to be done gets done, like hard debugging, incident response, and reverse-engineering tasks
+- I encompass all of the qualities listed in [Leadership](https://github.com/OctopusDeploy/People/blob/main/Leadership.md).
+- I avoid becoming a bottleneck, by setting up other engineers on my team for success for longer periods of time before needing to check back in.
+- I make sure difficult work that needs to be done gets done, like hard debugging, incident response, and reverse-engineering tasks.
 - I understand our organisation structure and how we schedule work, and help my team find their highest value contributions in this environment.
 - I am comfortable with transparently assessing risk, making recommendations, escalating appropriately, and dealing with the consequences along the way.
 - I recognise problems and proactively engage with other people to prevent or resolve them quickly.
 - I am comfortable coordinating projects where success requires the input of multiple teams and diverse technical roles.
 - I am an adept communicator, and can effectively steer technical and non-technical conversations to positive outcomes over any medium.
 - I proactively improve and implement processes that help uplift the way my team works together.
+- I collaborate effectively with team members from other functions (Eg. Product Managers and Designers). I help to guide these team members towards the outcomes I need of them, and I ensure their needs are met in the work I do.
 
 <details>
 <summary>Examples</summary>
@@ -62,9 +63,11 @@
 - I provided principles to my team that allowed other engineers to navigate more decisions of their own, without relying on me as a sole decision maker.
 - I accurately documented the options considered in decision making to ensure that we did not re-tread the same ground next time.
 - I took ownership of my team's retrospective process, making sure everyone had a voice in how our team works and evolves together.
-- I performed interviews for engineering candidates, providing detailed and useful feedback 
+- I performed interviews for engineering candidates, providing detailed and useful feedback.
 - I confidently pitched an idea, positively influencing and convincing people to take decisive action.
-- I effectively steered technical and non-technical conversations to positive outcomes.
+- I convinced my peers of a technical decision through asynchronous discussion by effectively communicating my perspective and understanding. 
+- I published an RFC on a technical approach and then engaged with feedback from other teams, incorporating the results of discussions to create a better path forward for my team.
+- I supported a colleague's idea by articulating its benefits and addressing concerns, leading to its acceptance.
 - I identified waste in our team processes, formulated a new approach, and got the rest of the team to buy into a new and better way of doing things.
 - I noticed a project was going to become blocked by another team, or take longer than expected, so I pulled together relevant stakeholders to propose an updated plan and reach a consensus.
 - I thoughtfully challenged and provided alternatives to a direction given by my manager or a Principal Software Engineer, with good results.
@@ -77,7 +80,7 @@
 - I invest in sustainable delivery, maintaining professional standards and striking a pragmatic balance between idealistic purity and business pressures.
 - I understand our fixed-time/high-quality/variable-scope approach to software projects.
 - I assess what work supports the product strategy and make insightful recommendations regarding priorities.
-- I identify key gaps in product offerings and functionality that will drive significant revenue and customer excitement.
+- I identify key gaps in product offerings and functionality, then work with responsible team members (e.g. Product Managers, Business Stakeholders) to shape the opportunities.
 - I pragmatically plan minimum viable infrastructure for product launch.
 
 <details>
@@ -86,5 +89,6 @@
 - I contributed to shaping a pitch, identified risks and appropriate scoping, that helped us ship value to customers as soon as possible, and meet the team's objectives over one or more cycles.
 - I was comfortable building a product vision based on the needs of multiple customers.
 - In delivering a pitch, I used the "scope hammer" judiciously, to maintain high quality while shipping as much value as possible to users within a cycle.
+- I ensured that appropriate time was allocated to validate our assumptions and test our designs with customers.
 
 </details>
