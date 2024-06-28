@@ -1,8 +1,8 @@
 # L4: Lead Cloud Engineer
 
-I am a pivotal member of the Octopus team, balancing the responsibilities of delivering high-quality projects and guiding technical initiatives. I bridge the gap between engineering and architecture, providing leadership, technical expertise, and a focus on reliability and security to drive projects forward.
+> _I am a pivotal member of the Octopus team, balancing the responsibilities of delivering high-quality projects and guiding technical initiatives. I bridge the gap between engineering and architecture, providing leadership, technical expertise, and a focus on reliability and security to drive projects forward._
 
-**Planning horizon:**  Next cycle to 6 months 
+**Planning horizon:**  Next cycle to 6 months  
 **Impact radius:** Team (4-10)  
 **Evaluation:** Manager  
 **Responsibility and direction needed:** Takes ownership of complex projects and leads them from idea to production with moderate supervision.
@@ -13,9 +13,9 @@ I am a pivotal member of the Octopus team, balancing the responsibilities of del
 - I am comfortable exploring moderately risky situations with limited upfront information.
 - I stay updated with evolving standards, platform features, critical technologies, and security best practices from vendors and the community.
 - I can design and implement infrastructure as code and guide my team in these practices.
-- I am proficient with and array of cloud technologies (virtualization, containerization, serverless, virtual networking), making informed decisions on scaling, reliability, and maintenance.
+- I am proficient with an array of cloud technologies (virtualization, containerization, serverless, virtual networking), making informed decisions on scalability, reliability, and maintainability.
 - I identify and address technical debt in line with team priorities.
-- I have a good understanding of .NET fundamentals and contribute efficiently to the Octopus Cloud codebase (Equivalent to at least [L3 Senior Software Engineer](../Software-Engineering/L3-Senior-Software-Engineer.md)).
+- I have a good understanding of .NET fundamentals and contribute efficiently to the Octopus Cloud codebase (equivalent to at least [L3 Senior Software Engineer](../Software-Engineering/L3-Senior-Software-Engineer.md)).
 - I make informed architectural decisions considering cross-cutting concerns such as infrastructure, security, scalability, and maintainability.
 - I raise potential problems with my team before getting blocked, ask for help when needed, and offer help when I can assist.
 - I integrate reliability engineering principles into my work, focusing on automation, observability, and efficient incident response.
