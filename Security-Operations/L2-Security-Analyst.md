@@ -1,11 +1,11 @@
 # L2: Security Analyst
 
-> _I possess strong analytic skills and a keen eye for detail to identify potential vulnerabilities and threats in systems and networks. I am responsible for continuously monitoring and assessing security measures, developing strategies to mitigate risks, and ensuring the overall safety and integrity of the organization's data and infrastructure._
+> _I possess strong analytical skills and a keen eye for detail to identify potential vulnerabilities and threats in systems and networks. I am responsible for continuously monitoring and assessing security measures, developing strategies to mitigate risks, and ensuring the overall safety and integrity of the organisation's data and infrastructure._
 
-- **Planning horizon**: Current and next cycle
-- **Impact radius**: Self plus some teammates
-- **Evaluation**: Manager
-- **Responsibility and direction needed**: Weekly supervision is needed from their manager or more senior analysts.
+- **Planning Horizon**: Current and next cycle.
+- **Impact Radius**: Self plus some teammates.
+- **Evaluation**: Manager.
+- **Responsibility and Direction Needed**: Weekly supervision is needed from their manager or more senior analysts.
 
 ## 🦉 Domain expertise
 
@@ -61,7 +61,7 @@
 <details>
 <summary>Examples</summary>
 
-- I received an alert via PagerDuty and created a new incident in The Hive.
+- I received an alert via PagerDuty and created a new security incident in The Hive.
 - I triaged Bugcrowd submissions and worked with the Fire and Motion team to remedy them.
 - I triaged customer issues and guided the Customer Support team.
 
