@@ -12,7 +12,7 @@
 - I am a subject matter expert in my domain and recognised as such within the organisation.
 - I am confident diving head-first into risky or contentious situations with relatively little upfront information and oversight.
 - I proactively identify and work with cross-functional teams to mitigate risks and product vulnerabilities.
-- I stay up to date on evolving standards, platform features, and critical vendor and community-provided technologies.
+- I stay up to date on the latest trends, platform features, and critical vendor technologies to anticipate and mitigate potential threats.
 
 <details>
 <summary>Examples</summary>
@@ -63,6 +63,7 @@
 - I supported a colleague's idea by articulating its benefits and addressing concerns, leading to its acceptance.
 - I identified waste in our team processes, formulated a new approach, and convinced the rest of the team to adopt a new and better way of doing things.
 - I thoughtfully challenged and provided alternatives to a direction given by my manager, with good results.
+- I gave actionable feedback on a PR for an advisory, which led to a clearer and more concise CVE advisory.
 
 </details>
 
