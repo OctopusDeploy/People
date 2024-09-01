@@ -1,6 +1,6 @@
 # L4: Security Analyst Technical Lead
 
-> _I possess expert-level knowledge and experience in cybersecurity, with the ability to lead and shape the direction of the Security Analyst team. I am responsible for overseeing complex security projects, mentoring senior and junior analysts, and driving innovation to enhance the organisation's security posture._
+> _I possess expert-level knowledge and experience in cybersecurity, with the ability to lead advanced threat hunting and forensic analysis, mentor other analysts, and influence security strategy across the Security Analyst team. I am responsible for driving large-scale security initiatives, technical direction, and innovation to enhance the organisation's security posture._
 
 - **Planning Horizon**: 6-12 months.
 - **Impact Radius**: Team (5-15).
@@ -13,11 +13,13 @@
 - I am confident diving head-first into risky or contentious situations with relatively little upfront information and oversight.
 - I proactively identify and work with cross-functional teams to mitigate risks and product vulnerabilities.
 - I stay up to date on the latest trends, platform features, and critical vendor technologies to anticipate and mitigate potential threats.
+- I provide expert-level guidance and support during security incident investigations and post-mortems.
+- I ensure that our Security Information and Event Management (SIEM) system is optimised to ensure we only receive actionable alerts.
 
 <details>
 <summary>Examples</summary>
 
-- I led a comprehensive architecture review for a critical project, identifying potential vulnerabilities and proposing a remediation plan that was integrated into the early stages of the project lifecycle.
+- I provided expert input on a critical Pitch or RFC, identifying potential vulnerabilities and influencing decisions for remediation in the early stages of the project lifecycle.
 - I developed and implemented a new threat-hunting program that significantly improved our ability to detect advanced persistent threats (APTs).
 - I represented our organisation at a cybersecurity conference or meetup, presenting our innovative approach to cybersecurity.
 
@@ -26,10 +28,10 @@
 ## 🌱 Teaching and Mentoring
 
 - I define, document, and evolve best practices in my team's area of focus.
-- I am constantly working to broaden the technical capabilities of my team.
+- I establish training programs, workshops, or knowledge-sharing sessions that uplift the technical technical capabilities of my team.
 - I am comfortable with challenging and mentoring senior and junior analysts, guiding them to take on more responsibility and complex tasks.
 - I help people determine the most valuable ways they can contribute and grow, and I help them block out the noise.
-- I mentored a senior analyst, guiding them through a significant project.
+- I lead by example, demonstrating best practices and high standards in all aspects of my work.
 
 <details>
 <summary>Examples</summary>
@@ -37,8 +39,9 @@
 - I developed and led a comprehensive training program for the Security Operations team, covering advanced topics like threat intelligence and malware analysis.
 - I broke up a project in such a way that I lined up appropriate challenges for each of my teammates, which helped them grow.
 - I had some difficult conversations with my teammates, challenging them directly while showing them my care for them personally.
-- I mentored a senior analyst through the process of obtaining an advanced cybersecurity certification, which they successfully achieved.
+- I mentored a more junior analyst through the process of obtaining an advanced cybersecurity certification, which they successfully achieved.
 - I worked closely with my manager to create a career development plan for a more junior security analyst, helping them understand their growth paths and required skills.
+- I developed a playbook for handling security incidents that has since become a go-to resource for new hires and seasoned engineers.
 
 </details>
 
@@ -77,5 +80,6 @@
 
 - I expanded our bug bounty program by introducing a critical new in-scope application, which resulted in the identification and remediation of several high-impact vulnerabilities.
 - I worked closely with the Compliance team and external auditors to effectively demonstrate how we satisfy ISO 27001 and SOC 2 controls.
+- I significantly reduced the number of phishing emails received by employees, directly preventing potential data theft and safeguarding our sensitive company information.
 
 </details>
