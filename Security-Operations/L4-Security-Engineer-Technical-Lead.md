@@ -36,12 +36,12 @@
 <details>
 <summary>Examples</summary>
 
-- I created and led a workshop on advanced threat modeling techniques, enhancing the team's ability to identify security gaps.
+- I created and led a workshop on advanced threat modelling techniques, enhancing the team's ability to identify security gaps.
 - I regularly provide guidance during code reviews, significantly raising the team's overall code quality.
 - I had some difficult conversations with my teammates, challenging them directly while showing them my care for them personally.
-- I mentored a more junior engineer through a challenging project involving the deployment of a new security solution, guiding them through each phase and empowering them to be a subject matter expert.
+- I mentored a more junior engineer through a challenging project involving the deployment of a new security solution, guiding them through each phase and empowering them to become subject matter experts.
 - I coached other engineers on how to present security findings effectively to teams outside of the security operations team, enhancing their communication skills and ensuring security concerns were better understood across the organisation.
-- ?
+- I developed a security engineering onboarding program, significantly reducing the time it takes for a new team member to become productive.
 
 </details>
 
@@ -59,14 +59,15 @@
 <details>
 <summary>Examples</summary>
 
+- I identified the work involved with delivering a Pitch or RFC, broke it down into tasks, and managed the project to completion.
+- I led a post-mortem after a security incident, facilitating an open and blame-free discussion that resulted in actionable improvements to our security posture.
+- I accurately documented the options considered in decision-making to ensure that we did not re-tread the same ground next time.
 - I facilitated a difficult conversation around a vulnerability between teams, helping reach a consensus.
 - I took ownership of an underperforming system, led a task force to overhaul it, and presented the results to stakeholders.
-- ?
-- ?
-- ?
-- ?
-- ?
-- ?
+- I successfully negotiated with a vendor to improve the security features of a critical tool.
+- I championed the adoption of a new threat modelling framework, guiding the team through the change process and helping them see the long-term benefits.
+- I foster a culture of continuous learning by encouraging others to demo what they've been working on at our weekly show-and-tell sessions.
+I led an effort to standardise our approach to infrastructure as code, ensuring that all engineers adhered to security best practices. This reduced the risk of configuration errors in our production environment.
 
 </details>
 
@@ -80,7 +81,7 @@
 <summary>Examples</summary>
 
 - I partnered with an engineering team to ensure that security considerations are prioritised from the design phase.
+- I worked closely with the Compliance team and external auditors to effectively demonstrate how we satisfy ISO 27001 and SOC 2 controls.
 - I presented a business case for a new security tool that was adopted across the organisation, resulting in the early detection of vulnerabilities.
-- ?
 
 </details>
