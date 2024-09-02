@@ -1,6 +1,6 @@
 # L3: Senior Security Analyst
 
-> _I have extensive knowledge and experience in the field of cybersecurity, along with advanced skills in risk management, incident response, and security architecture. I am responsible for driving strategic security initiatives to enhance the organisations overall security posture, conducting thorough investigations, and mentoring junior security analysts._
+> _I have extensive knowledge and experience in the field of cybersecurity, along with advanced skills in risk management, incident response, and security architecture. I am responsible for driving strategic security initiatives to enhance the organisation's overall security posture, conducting thorough investigations, and mentoring junior security analysts._
 
 - **Planning Horizon**: Current and next cycle.
 - **Impact Radius**: Peers (2-5).

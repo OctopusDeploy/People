@@ -2,10 +2,10 @@
 
 > _I have a strong technical background and expertise in designing and implementing security systems and infrastructure. I am responsible for assessing and addressing vulnerabilities, developing and deploying security solutions, and working closely with cross-functional teams to ensure the effective implementation of security controls._
 
-- **Planning horizon**: Current and next cycle
-- **Impact radius**: Self plus some teammates
-- **Evaluation**: Manager
-- **Responsibility and direction needed**: Weekly supervision is needed from their manager or more senior engineers.
+- **Planning Horizon**: Current and next cycle.
+- **Impact Radius**: Self plus some teammates.
+- **Evaluation**: Manager.
+- **Responsibility and Direction Needed**: Weekly supervision is needed from their manager or more senior engineers.
 
 ## 🦉 Domain expertise
 
@@ -18,14 +18,14 @@
 <summary>Examples</summary>
 
 - I was nominated as the incident controller and successfully followed the relevant incident response plan.
-- When faced with a small project, I understood the brief the first time and was able to reach out myself to find the answers I needed to complete it.
-- I added a new module to the Beholder.
+- When faced with a small project, I understood the brief the first time and was comfortable reaching out to my peers to find the answers I needed to complete it.
+- I added a new module to the Beholder that helped fully automate access to an application.
 
 </details>
 
 ## 🌱 Teaching and Mentoring
 
-- I use code reviews to strengthen the patterns and practices in use by our team.
+- I use code reviews to strengthen the patterns and practices our team uses.
 - I help new hires get up to speed with the team's style and existing code base.
 
 <details>

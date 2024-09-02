@@ -31,7 +31,7 @@
 <summary>Examples</summary>
 
 - I shared a demo of my work in a weekly show-and-tell session.
-- I applied a pattern I learned from training and I asked a senior analyst on my team to review it for me to ensure I applied it correctly.
+- I applied a pattern I learned from training, and I asked a senior analyst on my team to review it to ensure I applied it correctly.
 - I shadowed a senior analyst during an incident to become more familiar with our Security Incident Response Plan (SIRP).
 
 </details>
