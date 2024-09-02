@@ -60,6 +60,7 @@
 <summary>Examples</summary>
 
 - I identified the work involved with delivering a Pitch or RFC, broke it down into tasks, and managed the project to completion.
+- I led a post-mortem after a security incident, facilitating an open and blame-free discussion that resulted in actionable improvements to our security posture.
 - I accurately documented the options considered in decision-making to ensure that we did not re-tread the same ground next time.
 - I led an interview for a Security Operations team candidate following our interview framework and provided detailed and useful feedback.
 - I successfully managed a critical security incident involving multiple teams, coordinating efforts across the organisation to minimise the impact on business operations.
@@ -74,6 +75,7 @@
 
 - I assess what work supports the organisation's security posture and advocate for security needs that align with business objectives.
 - I identify and mitigate risks, ensuring security and business continuity.
+- I contribute to the development of security metrics and KPIs to help demonstrate the value of our security initiatives.
 
 <details>
 <summary>Examples</summary>
