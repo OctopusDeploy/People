@@ -16,7 +16,7 @@
 <details>
 <summary>Examples</summary>
 
-- I was nominated as the incident controller and successfully followed our Security Incident Response Plan (SIRP).
+- I was nominated as the incident controller and successfully followed our [Security Incident Response Plan (SIRP)](https://docs.google.com/document/d/1A9sG4UQy3pw6R--es_apBDAw1oWBZw1wJof2jjq_t2c/edit?usp=sharing).
 - I confidently triage alerts and escalate to senior security analysts when required.
 - When faced with a small project, I understood the brief the first time and was able to reach out myself to find the answers I needed to complete it.
 

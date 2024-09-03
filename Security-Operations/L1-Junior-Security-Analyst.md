@@ -32,7 +32,7 @@
 
 - I shared a demo of my work in a weekly show-and-tell session.
 - I applied a pattern I learned from training, and I asked a senior analyst on my team to review it to ensure I applied it correctly.
-- I shadowed a senior analyst during an incident to become more familiar with our Security Incident Response Plan (SIRP).
+- I shadowed a senior analyst during an incident to become more familiar with our [Security Incident Response Plan (SIRP)](https://docs.google.com/document/d/1A9sG4UQy3pw6R--es_apBDAw1oWBZw1wJof2jjq_t2c/edit?usp=sharing).
 
 </details>
 
