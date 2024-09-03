@@ -13,9 +13,9 @@
 - I competently demonstrate my lived experience of server operating systems, network, and security fundamentals.
 - I can confidently step outside my comfort zone and adapt quickly to new technologies.
 - I can design and implement infrastructure as code.
-- I am proficient with virtualisation, containerisation, and serverless technologies.
+- I am proficient with virtualization, containerization, and serverless technologies.
 - I make appropriate scaling, reliability, and maintenance trade-offs as they occur in practice.
-- I identify, qualify and reduce technical debt as appropriate to my team's priorities.
+- I identify, qualify, and reduce technical debt as appropriate to my team's priorities.
 - I confidently provide security expertise during peer reviews for the Cloud Platform codebase.
 
 <details>
@@ -59,7 +59,7 @@
 
 - I took on a significant share of unplanned work and other "housekeeping" tasks.
 - I spotted a contentious issue that could have gone badly and helped everyone make a decision that resolved the situation.
-- I recognised a problem early and fixed it.
+- I recognized a problem early and fixed it.
 - I wrote a clear and concise proposal that persuaded the team to act on my idea.
 
 </details>
@@ -75,8 +75,8 @@
 <summary>Examples</summary>
 
 - I sought input from others outside of my team when planning a change with significant impact and acted on that feedback.
-- I helped unblock the delivery pipeline to ensure we could verify the expected behaviour of the changes we made to production.
-- I analysed metrics to make technical and scope decisions during project planning.
+- I helped unblock the delivery pipeline to ensure we could verify the expected behavior of the changes we made to production.
+- I analyzed metrics to make technical and scope decisions during project planning.
 - I defined and led a shaped pitch or RFC from idea to production and ensured that it met security requirements.
 
 </details>

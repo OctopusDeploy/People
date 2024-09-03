@@ -1,6 +1,6 @@
 # L3: Senior Security Analyst
 
-> _I have extensive knowledge and experience in the field of cybersecurity, along with advanced skills in risk management, incident response, and security architecture. I am responsible for driving strategic security initiatives to enhance the organisation's overall security posture, conducting thorough investigations, and mentoring junior security analysts._
+> _I have extensive knowledge and experience in the field of cybersecurity, along with advanced skills in risk management, incident response, and security architecture. I am responsible for driving strategic security initiatives to enhance the organization's overall security posture, conducting thorough investigations, and mentoring junior security analysts._
 
 - **Planning Horizon**: Current and next cycle.
 - **Impact Radius**: Peers (2-5).
@@ -12,7 +12,7 @@
 - I am advanced in my team's domain.
 - I can confidently step outside my comfort zone and adapt quickly to new technologies.
 - I can scope and lead complex projects that have a wider impact on the business.
-- I identify, qualify and reduce technical debt according to my team's priorities.
+- I identify, qualify, and reduce technical debt according to my team's priorities.
 
 <details>
 <summary>Examples</summary>
@@ -20,7 +20,7 @@
 - I successfully took over the role of IC during a security incident that escalated in severity and involved multiple teams.
 - I reviewed and provided analysis on a complex detection from Crowdstrike.
 - I worked with cross-functional teams to replicate a submission in Bugcrowd that involved working with the Octopus Server codebase.
-- I wrote an RFC and addressed the feedback from the wider organisation.
+- I wrote an RFC and addressed the feedback from the wider organization.
 - People asked me for my opinion when making technical decisions because I have a proven track record of making wise choices.
 
 </details>
@@ -53,7 +53,7 @@
 - I participated in an interview for a Security Operations team candidate and provided detailed and useful feedback.
 - I took on a significant share of unplanned work and other "housekeeping" tasks.
 - I spotted a contentious issue that could have gone badly and helped everyone make a decision that resolved the situation.
-- I recognised a problem early and fixed it.
+- I recognized a problem early and fixed it.
 - I wrote a clear and concise proposal that persuaded the team to act on my idea.
 
 </details>

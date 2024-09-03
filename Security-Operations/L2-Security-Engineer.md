@@ -12,7 +12,7 @@
 - I am competent in my domain.
 - I can work independently on small projects.
 - I identify and raise potential problems with my peers or lead before getting blocked.
-- I provide security expertise in areas I am familiar with during peer reviews for codebases across the organisation.
+- I provide security expertise in areas I am familiar with during peer reviews for codebases across the organization.
 
 <details>
 <summary>Examples</summary>
@@ -62,8 +62,8 @@
 <details>
 <summary>Examples</summary>
 
-- Throughout the implementation of a pitch I maintained up-to-date documentation consisting of how-to guides and infrastructure architecture.
-- In conjunction with the Security Analysts I set up alerts in Sumo Logic to capture potential issues.
+- Throughout the implementation of a pitch, I maintained up-to-date documentation consisting of how-to guides and infrastructure architecture.
+- In conjunction with the Security Analysts, I set up alerts in Sumo Logic to capture potential issues.
 - While on QRF, I got an alert when an application we maintain fell over and created a PR to fix the root cause.
 
 </details>

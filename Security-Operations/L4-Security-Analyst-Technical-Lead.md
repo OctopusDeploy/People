@@ -1,6 +1,6 @@
 # L4: Security Analyst Technical Lead
 
-> _I possess expert-level knowledge and experience in cybersecurity, with the ability to lead advanced threat hunting and forensic analysis, mentor other analysts, and influence security strategy across the Security Analyst team. I am responsible for driving large-scale security initiatives, technical direction, and innovation to enhance the organisation's security posture._
+> _I possess expert-level knowledge and experience in cybersecurity, with the ability to lead advanced threat hunting and forensic analysis, mentor other analysts, and influence security strategy across the Security Analyst team. I am responsible for driving large-scale security initiatives, technical direction, and innovation to enhance the organization's security posture._
 
 - **Planning Horizon**: 6-12 months.
 - **Impact Radius**: Team (5-15).
@@ -9,19 +9,19 @@
 
 ## 🦉 Domain expertise
 
-- I am a subject matter expert in my domain and recognised as such within the organisation.
+- I am a subject matter expert in my domain and recognized as such within the organization.
 - I am confident diving head-first into risky or contentious situations with relatively little upfront information and oversight.
 - I proactively identify and work with cross-functional teams to mitigate risks and product vulnerabilities.
 - I stay up to date on the latest trends, platform features, and critical vendor technologies to anticipate and mitigate potential threats.
 - I provide expert-level guidance and support during security incident investigations and post-mortems.
-- I ensure that our Security Information and Event Management (SIEM) system is optimised to ensure we only receive actionable alerts.
+- I ensure that our Security Information and Event Management (SIEM) system is optimized to ensure we only receive actionable alerts.
 
 <details>
 <summary>Examples</summary>
 
 - I provided expert input on a critical Pitch or RFC, identifying potential vulnerabilities and influencing decisions for remediation in the early stages of the project lifecycle.
 - I developed and implemented a new threat-hunting program that significantly improved our ability to detect advanced persistent threats (APTs).
-- I represented our organisation at a cybersecurity conference or meetup, presenting our innovative approach to cybersecurity.
+- I represented our organization at a cybersecurity conference or meetup, presenting our innovative approach to cybersecurity.
 
 </details>
 
@@ -50,11 +50,11 @@
 - I encompass all of the qualities listed in [Leadership](https://github.com/OctopusDeploy/People/blob/main/Leadership.md).
 - I avoid becoming a bottleneck by setting up my team for success for longer periods before needing to check back in.
 - I ensure that difficult work, such as troubleshooting, security incident response, and threat hunting, gets done.
-- I understand our organisational structure and how we schedule work, and I help my team find their highest-value contributions in this environment.
+- I understand our organizational structure and how we schedule work, and I help my team find their highest-value contributions in this environment.
 - I am comfortable with transparently assessing risk, making recommendations, escalating appropriately, and dealing with the consequences along the way.
-- I recognise problems and proactively engage with other people to prevent or resolve them quickly.
+- I recognize problems and proactively engage with other people to prevent or resolve them quickly.
 - I am comfortable coordinating projects where success requires the input of multiple teams and diverse technical roles.
-- I am an adept communicator, and can effectively steer technical and non-technical conversations to positive outcomes over any medium.
+- I am an adept communicator and can effectively steer technical and non-technical conversations to positive outcomes over any medium.
 
 <details>
 <summary>Examples</summary>
@@ -63,7 +63,7 @@
 - I led a post-mortem after a security incident, facilitating an open and blame-free discussion that resulted in actionable improvements to our security posture.
 - I accurately documented the options considered in decision-making to ensure that we did not re-tread the same ground next time.
 - I led an interview for a Security Operations team candidate following our interview framework and provided detailed and useful feedback.
-- I successfully managed a critical security incident involving multiple teams, coordinating efforts across the organisation to minimise the impact on business operations.
+- I successfully managed a critical security incident involving multiple teams, coordinating efforts across the organization to minimize the impact on business operations.
 - I supported a colleague's idea by articulating its benefits and addressing concerns, leading to its acceptance.
 - I identified waste in our team processes, formulated a new approach, and convinced the rest of the team to adopt a new and better way of doing things.
 - I thoughtfully challenged and provided alternatives to a direction given by my manager, with good results.
@@ -73,7 +73,7 @@
 
 ## 🏆 Business Success
 
-- I assess what work supports the organisation's security posture and advocate for security needs that align with business objectives.
+- I assess what work supports the organization's security posture and advocate for security needs that align with business objectives.
 - I identify and mitigate risks, ensuring security and business continuity.
 - I contribute to the development of security metrics and KPIs to help demonstrate the value of our security initiatives.
 

@@ -11,9 +11,9 @@
 
 - I am advanced in my team's domain.
 - I can confidently step outside my comfort zone and adapt quickly to new technologies.
-- I confidently provide security expertise during peer reviews for codebases across the organisation.
+- I confidently provide security expertise during peer reviews for codebases across the organization.
 - I make appropriate scaling, reliability, and maintenance trade-offs as they occur in practice.
-- I identify, qualify and reduce technical debt as appropriate to my team's priorities.
+- I identify, qualify, and reduce technical debt as appropriate to my team's priorities.
 
 <details>
 <summary>Examples</summary>
@@ -57,7 +57,7 @@
 - I performed regular interviews for engineering candidates and provided detailed and useful feedback.
 - I took on a significant share of unplanned work and other "housekeeping" tasks.
 - I spotted a contentious issue that could have gone badly and helped everyone make a decision that resolved the situation.
-- I recognised a problem early and fixed it.
+- I recognized a problem early and fixed it.
 - I wrote a clear and concise proposal that persuaded the team to act on my idea.
 
 </details>
@@ -65,7 +65,7 @@
 ## 🏆 Business Success
 
 - I ship ideas from conception to production.
-- I advocate for improving the organisation's overall security posture.
+- I advocate for improving the organization's overall security posture.
 - I decompose larger requirements into smaller, more manageable pieces to deliver functionality incrementally and iteratively.
 - I build requirements and technical recommendations based on real needs.
 
@@ -74,7 +74,7 @@
 
 - I led a shaped pitch or RFC from idea to production.
 - I helped define an Engineering RFC so that it meets security requirements.
-- I helped unblock the delivery pipeline to ensure we could verify the expected behaviour of the changes we made to production.
-- I analysed telemetry to make technical and scope decisions.
+- I helped unblock the delivery pipeline to ensure we could verify the expected behavior of the changes we made to production.
+- I analyzed telemetry to make technical and scope decisions.
 
 </details>

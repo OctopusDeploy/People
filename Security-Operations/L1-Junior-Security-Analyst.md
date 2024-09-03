@@ -17,7 +17,7 @@
 <summary>Examples</summary>
 
 - I attended workshops and training to increase my skills with our core platforms, such as Sumo Logic, CSE, The Hive, Crowdstrike, and Azure Entra ID.
-- I was stuck on a problem but I reached out to my team lead to help me.
+- I was stuck on a problem, but I reached out to my team lead for help.
 - I was assigned a Hive case, and I completed it on my own.
 
 </details>
@@ -48,7 +48,7 @@
 - I have a passion for attending community events related to cybersecurity.
 - I found it difficult to set up my environment based on the instructions, so I updated them.
 - A senior analyst on my team gave me some critical feedback on my work, so I took the time to understand how to improve.
-- I was comfortable sharing my thoughts towards how a particular problem should be solved.
+- I was comfortable sharing my thoughts on how a particular problem should be solved.
 
 </details>
 

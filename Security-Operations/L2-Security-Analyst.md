@@ -1,6 +1,6 @@
 # L2: Security Analyst
 
-> _I possess strong analytical skills and a keen eye for detail to identify potential vulnerabilities and threats in systems and networks. I am responsible for continuously monitoring and assessing security measures, developing strategies to mitigate risks, and ensuring the overall safety and integrity of the organisation's data and infrastructure._
+> _I possess strong analytical skills and a keen eye for detail to identify potential vulnerabilities and threats in systems and networks. I am responsible for continuously monitoring and assessing security measures, developing strategies to mitigate risks, and ensuring the overall safety and integrity of the organization's data and infrastructure._
 
 - **Planning Horizon**: Current and next cycle.
 - **Impact Radius**: Self plus some teammates.
