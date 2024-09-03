@@ -15,6 +15,7 @@
 - I stay up to date on the latest trends, platform features, and critical vendor technologies to anticipate and mitigate potential threats.
 - I provide expert-level guidance and support during security incident investigations and post-mortems.
 - I lead and drive security architecture discussions, setting technical direction for large-scale projects.
+- I identify gaps, inefficiences, or breakages in our security processes and take action to rectify them.
 
 <details>
 <summary>Examples</summary>

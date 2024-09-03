@@ -15,6 +15,7 @@
 - I stay up to date on the latest trends, platform features, and critical vendor technologies to anticipate and mitigate potential threats.
 - I provide expert-level guidance and support during security incident investigations and post-mortems.
 - I ensure that our Security Information and Event Management (SIEM) system is optimized to ensure we only receive actionable alerts.
+- I identify gaps, inefficiences, or breakages in our security processes and take action to rectify them.
 
 <details>
 <summary>Examples</summary>
