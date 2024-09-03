@@ -18,7 +18,7 @@
 <summary>Examples</summary>
 
 - I was nominated as the incident controller and successfully followed the relevant incident response plan.
-- When faced with a small project, I understood the brief the first time and was comfortable reaching out to my peers to find the answers I needed to complete it.
+- When faced with a small project, I understood the brief the first time and I completed the project, proactively reaching out to peers for help when I needed help or a sounding board.
 - I added a new module to the Beholder that helped fully automate access to an application.
 
 </details>
