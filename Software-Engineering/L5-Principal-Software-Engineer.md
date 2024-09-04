@@ -6,29 +6,33 @@
 - **Impact radius**: Group
 - **Evaluation**: Director
 - **Responsibility and direction needed**: I drive technical strategy in alignment with product strategy for my group. Point me in the right direction with helpful constraints and good outcomes happen with minimal oversight.
+- **Links**: [2023/24 Octopus Technical Strategy](https://docs.google.com/document/d/1onaZ7qRWc7BSLWyGw8duIIlOCd2k812zMIXXtlBfXL8/edit#heading=h.a65d8nqv4wgr) | [Target Architecture](https://github.com/OctopusDeploy/OctopusDeploy/tree/main/docs/target-architecture)
 
 ## 🦉 Domain expertise
 
-- I maintain a clear and understandable vision for the technical direction for teams within my group.
-- I have a deep understanding of the technical strategy and target architecture aligned with my group.
-- I help teams in my group make critical product architecture and implementation decisions that result in better outcomes.
-- I have a broad understanding of the Octopus technical strategy and target architecture.
-- I assist in maintaining the Octopus technical strategy by contributing helpful ideas and peer review.
-- I am an effective custodian for part of the Octopus target architecture.
-- I contribute to the engineering standards and principles used across Octopus.
-- I manage technical risks effectively, and architect to reduce technical risk.
-- I collaborate with other Principal Software Engineers to ensure we are making cohesive and complimentary decisions that align with the Octopus technical strategy.
+- Within my group:
+    - I maintain a clear and understandable technical direction for teams within my group to help them achieve their missions with high-quality at speed.
+    - I have a deep understanding of the technical direction for all teams within my group so I can detect and correct issues early.
+    - I help teams in my group make critical product architecture and implementation decisions that result in better outcomes.
+    - I manage technical risks effectively, and architect to reduce technical risk.
+- Across Octopus:
+    - I have a broad understanding of the Octopus technical strategy and target architecture.
+    - I am an effective custodian for part of the Octopus target architecture.
+    - I assist in maintaining the Octopus technical strategy by contributing helpful ideas and peer review.
+    - I contribute to the engineering standards and principles used across Octopus.
+    - I collaborate with other Principal Software Engineers to ensure we are making cohesive and complimentary decisions that align with the Octopus technical strategy.
 
 <details>
 <summary>Examples</summary>
 
-- I successfully completed complex tasks spanning multiple domains and teams with high impact. 
-- I contributed to building blocks or core technologies used by a variety of teams.
+- I successfully completed complex tasks spanning multiple domains and teams with high impact.
+- I explored ahead of my team(s) and helped build a technical direction to achieve their mission. I did some exploration solo and some exploration with the team. We experimented with different approaches. We discovered risks and accelerators. We updated the plan when we uncovered new risks/accelerators.
 - I helped a team reduce complexity and risk through sound architectural thinking resulting in better outcomes.
 - I developed a plan to evolve the architecture of a particularly difficult/risky/ambigious part of the core components of Octopus iterating in the open with other people using techniques like RFCs and presentations/breakouts at R&D Weekly and RADAR sessions.
 - I worked with teams to manage multiple conflicting priorities, navigated difficult tradeoffs, and helped sequence work resulting in the best collective outcome.
 - I collaborated with another principal engineer to ensure that a feature I was helping a team with would support a feature I knew another team was planning.
 - I developed a section of the Octopus target architecture, which required a thorough understanding of the problem space, proposing potential solutions, and offering a strong and informed opinion on the best solution.
+- I contributed to building blocks or core technologies used by a variety of teams.
 
 </details>
 
