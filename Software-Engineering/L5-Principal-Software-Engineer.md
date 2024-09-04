@@ -39,7 +39,7 @@
 ## 🌱 Teaching and Mentoring
 
 - I am an expert mentor and teacher.
-- I am curious, listen, and encourage healthy debate.
+- I am curious, listen, and encourage healthy conflict.
 - I allow myself to be persuaded by great ideas.
 - I create clarity by communicating complex things in simple and accessible ways.
 - I understand my broadest impact comes from empowering those around me.
