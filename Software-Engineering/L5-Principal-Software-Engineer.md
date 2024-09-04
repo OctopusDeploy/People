@@ -39,14 +39,15 @@
 ## 🌱 Teaching and Mentoring
 
 - I am an expert mentor and teacher.
+- I am curious, listen, and encourage healthy debate.
+- I allow myself to be persuaded by great ideas.
 - I create clarity by communicating complex things in simple and accessible ways.
 - I understand my broadest impact comes from empowering those around me.
 - I am an expert at designing and reviewing software architecture and code.
 - I help teams and individuals understand our technical strategy, how it connects to our product strategy, and the things we are doing to progress it.
 - I regularly provide training and support for new methods, tools, and patterns.
+- I actively share knowledge relevant to multiple teams.
 - I collaborate with managers and lead software engineers to identify and find ways to fill any gaps in technical skills required in my teams.
-- I am curious, listen, and encourage healthy debate.
-- I allow myself to be persuaded by great ideas.
 
 <details>
 <summary>Examples</summary>
@@ -64,6 +65,7 @@
 
 ## 🧭 Culture and Leadership
 
+- I am a proponent of [operational excellence](https://en.wikipedia.org/wiki/Operational_excellence) and [learning from incidents](https://www.learningfromincidents.io/about).
 - I get things right a lot of the time.
 - I create an environment where others feel safe to take risks and make mistakes, by modeling vulnerability, thinking in the open, being wrong sometimes, and accepting corrections.
 - I generate energy in the teams I work with, motivating them to achieve great outcomes.
@@ -72,12 +74,12 @@
 - I recognise patterns of organisational dysfunction, by observing data points, amplifying these signals, and advocating effectively for improvement.
 - I am an advisor or contributor to the leadership teams in my group.
 - I set a positive example throughout the company for quality, accountability, and responsibility.
-- I actively share knowledge relevant to product delivery teams.
 - I help define hiring standards and practices.
 
 <details>
 <summary>Examples</summary>
 
+- During a post-incident review, I recognised a valuable lesson and found a way to disseminate the lesson throughout R&D.
 - I drove an entire multiteam program from inception through to shipping code, without regular oversight.
 - I collaborated with other senior leaders to ensure I was aware of all major initiatives at Octopus and could account for them in my own initiatives.
 - The teams I work with are consistently winning. They chose ambitious targets, managed scope and expectations effectively, and delivered customer value frequently with customer adoption trends going in the right direction.
