@@ -95,7 +95,7 @@
 ## 🏆 Customer Success
 
 - I have a broad understanding of Octopus product offerings and product strategy.
-- I have a deep understanding my group's product offerings and product strategy.
+- I have a deep understanding of my group's product offerings and product strategy.
 - I understand what technical challenges are most impacting our customers at present, and how my own plans and the Octopus technical strategy seek to solve them.
 - I am able to anticipate and adapt systems and practices to changes in load, usage, and customer requirements.
 - I work closely with my product managers and designers to ensure the best outcomes for our customers and continued product/market fit.
