@@ -18,7 +18,7 @@
 <summary>Examples</summary>
 
 - I successfully took over the role of IC during a security incident that escalated in severity and involved multiple teams.
-- I reviewed and provided analysis on a complex detection from Crowdstrike.
+- I reviewed and provided analysis on a complex detection from CrowdStrike.
 - I worked with cross-functional teams to replicate a submission in Bugcrowd that involved working with the Octopus Server codebase.
 - I wrote an RFC and addressed the feedback from the wider organization.
 - People asked me for my opinion when making technical decisions because I have a proven track record of making wise choices.
