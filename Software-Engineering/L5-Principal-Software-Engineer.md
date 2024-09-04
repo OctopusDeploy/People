@@ -104,7 +104,7 @@
 - I hold myself and my teams to a high standard of quality, thinking holistically about reliability, usability, and functionality.
 - I am responsive to changes in product priorities, keeping multiple teams focused on important, high-value efforts.
 - I inform product strategy by helping senior leadership understand the organisation's engineering capabilities and technical strategy.
-- I help people from other departments, primarily support, customer success, revenue, and marketing, when my expertise will deliver better outcomes for our customers.
+- I collaborate with people from other departments, primarily support, customer success, revenue, and marketing, when my expertise will help us deliver better outcomes for our customers.
 
 <details>
 <summary>Examples</summary>
