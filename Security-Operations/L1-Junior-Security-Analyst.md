@@ -7,7 +7,7 @@
 - **Evaluation**: Manager.
 - **Responsibility and Direction Needed**: Daily to weekly supervision is needed from their manager or more senior analysts.
 
-## 🦉 Domain expertise
+## 🦉 Domain Expertise
 
 - I am actively learning my domain and my team's processes.
 - I escalate with my peers or lead when appropriate.

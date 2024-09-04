@@ -7,7 +7,7 @@
 - **Evaluation**: Manager.
 - **Responsibility and Direction Needed**: Takes vertical slices of larger products from idea to production.
 
-## 🦉 Domain expertise
+## 🦉 Domain Expertise
 
 - I am advanced in my team's domain.
 - I competently demonstrate my lived experience of server operating systems, network, and security fundamentals.

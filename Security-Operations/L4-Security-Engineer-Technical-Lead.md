@@ -7,7 +7,7 @@
 - **Evaluation**: Manager or Director.
 - **Responsibility and Direction Needed**: Takes brand new ideas from inception to production with limited supervision.
 
-## 🦉 Domain expertise
+## 🦉 Domain Expertise
 
 - I am a subject matter expert in my domain and recognized as such within the organization.
 - I am confident diving head-first into risky or contentious situations with relatively little upfront information and oversight.

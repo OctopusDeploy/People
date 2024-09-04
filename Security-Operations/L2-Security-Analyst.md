@@ -7,7 +7,7 @@
 - **Evaluation**: Manager.
 - **Responsibility and Direction Needed**: Weekly supervision is needed from their manager or more senior analysts.
 
-## 🦉 Domain expertise
+## 🦉 Domain Expertise
 
 - I am competent in my domain.
 - I can work independently on small projects.

@@ -7,7 +7,7 @@
 - **Evaluation**: Manager.
 - **Responsibility and Direction Needed**: Takes vertical slices of larger products from idea to production.
 
-## 🦉 Domain expertise
+## 🦉 Domain Expertise
 
 - I am advanced in my team's domain.
 - I can confidently step outside my comfort zone and adapt quickly to new technologies.
