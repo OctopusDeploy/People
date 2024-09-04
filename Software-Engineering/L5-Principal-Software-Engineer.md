@@ -118,7 +118,7 @@
 - I regularly tried the software delivered by my teams (I "tasted the food") and provided feedback where the reliability, usability, or functionality didn't meet our standard.
 - I identified a risk in our product strategy or delivery that required a difficult tradeoff and influenced a change to mitigate that risk.
 - I built an influential case to change direction/priority with a focus on promoting customer success.
-- I helped transform a customer at risk of churn into a case study. I did this by joining several calls with the customer, understanding the big picture, diagnosing the critical problems, making the customer feel heard, and ultimately delivering on our commitments.
-- I helped close-win a complex deal where my contributions provided the buyer with confidence in the functionality and quality of the services we offer today, and/or confidence in the product direction aligned to my group/teams. I also identified some areas we can improve in our current service offerings that will simplify similar deals in the future.
+- I joined several calls with a customer who was at risk of churn. I used my listening skills and my insight into the technical capabilities of our product to add clarity to the discussion. This enabled us to transform this customer into a case study.
+- I was pulled into a complex deal negotiation. I used my insight into the functionality and quality of the services we offer today, and my group's product direction, to provide the buyer with confidence. This enabled the deal to get to Closed-Won.
 
 </details>
