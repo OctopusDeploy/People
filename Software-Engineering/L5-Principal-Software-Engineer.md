@@ -59,7 +59,7 @@
 - After reviewing a code contribution from an engineer I saw could be improved, I worked directly with that engineer and their manager or team leader to uplift their skills in the identified growth area.
 - I helped a team make a course correction based on new information or ideas.
 - I provided appropriate technical freedom, and framing, that allowed the Lead Software Engineers on my teams to thrive independently.
-- I have elevated/shifted my focus significantly because the team(s) I support have been uplifted and empowered to the point they can deliver their mission with me as a sounding board.
+- I have elevated my focus significantly because the teams I support have been uplifted and empowered to the point they can deliver their mission with me as a sounding board.
 
 </details>
 
