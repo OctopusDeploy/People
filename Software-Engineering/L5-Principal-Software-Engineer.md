@@ -72,7 +72,7 @@
 - I facilitate effective and timely decision making, especially when the decision affects multiple teams.
 - I build solutions that improve the productivity and/or quality of work of many people/teams.
 - I recognise patterns of organisational dysfunction, by observing data points, amplifying these signals, and advocating effectively for improvement.
-- I am an advisor or contributor to the leadership teams in my group.
+- I am a contributor to or member of the leadership teams in my group.
 - I set a positive example throughout the company for quality, accountability, and responsibility.
 - I help define hiring standards and practices.
 
