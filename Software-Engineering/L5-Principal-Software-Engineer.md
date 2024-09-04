@@ -79,7 +79,7 @@
 <details>
 <summary>Examples</summary>
 
-- During a post-incident review, I recognised a valuable lesson and found a way to disseminate the lesson throughout R&D.
+- During an incident postmortem, I recognised a valuable lesson and found a way to disseminate the lesson throughout R&D.
 - I drove an entire multiteam program from inception through to shipping code, without regular oversight.
 - I collaborated with other senior leaders to ensure I was aware of all major initiatives at Octopus and could account for them in my own initiatives.
 - The teams I work with are consistently winning. They chose ambitious targets, managed scope and expectations effectively, and delivered customer value frequently with customer adoption trends going in the right direction.
