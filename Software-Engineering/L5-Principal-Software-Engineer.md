@@ -61,7 +61,7 @@
 ## 🧭 Culture and Leadership
 
 - I get things right a lot of the time.
-- I create an environment where others feel safe to take risks and make mistakes, by modeling vulnerability, thinking in the open, okay with being wrong sometimes, and accepting corrections.
+- I create an environment where others feel safe to take risks and make mistakes, by modeling vulnerability, thinking in the open, being wrong sometimes, and accepting corrections.
 - I generate energy in the teams I work with, motivating them to achieve great outcomes.
 - I facilitate effective and timely decision making, especially when the decision affects multiple teams.
 - I build solutions that improve the productivity and/or quality of work of many people/teams.
