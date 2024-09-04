@@ -31,7 +31,7 @@
 ## 🌱 Teaching and Mentoring
 
 - I define, document, and evolve best practices in my team's area of focus.
-- I establish training programs, workshops, or knowledge-sharing sessions that uplift the technical technical capabilities of my team.
+- I establish training programs, workshops, or knowledge-sharing sessions that uplift the technical capabilities of my team.
 - I am comfortable with challenging and mentoring senior and junior analysts, guiding them to take on more responsibility and complex tasks.
 - I help people determine the most valuable ways they can contribute and grow, and I help them block out the noise.
 - I lead by example, demonstrating best practices and high standards in all aspects of my work.
