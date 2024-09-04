@@ -98,7 +98,7 @@
 - I have a deep understanding of my group's product offerings and product strategy.
 - I understand what technical challenges are most impacting our customers at present, and how my own plans and the Octopus technical strategy seek to solve them.
 - I am able to anticipate and adapt systems and practices to changes in load, usage, and customer requirements.
-- I work closely with my product managers and designers to ensure the best outcomes for our customers and continued product/market fit.
+- I work with my teams (including product managers and designers) to ensure the best outcomes for our customers and continued product/market fit.
 - I find the balance between doing it right and getting it done.
 - I am an expert at managing scope, finding ways to help my teams consistently deliver the high value to customers at speed.
 - I hold myself and my teams to a high standard of quality, with a specific focus on reliability, usability, and functionality.
