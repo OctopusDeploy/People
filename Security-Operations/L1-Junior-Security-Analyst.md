@@ -16,7 +16,7 @@
 <details>
 <summary>Examples</summary>
 
-- I attended workshops and training to increase my skills with our core platforms, such as Sumo Logic, CSE, The Hive, Crowdstrike, and Azure Entra ID.
+- I attended workshops and training to increase my skills with our core platforms, such as Sumo Logic, CSE, The Hive, CrowdStrike, and Azure Entra ID.
 - I was stuck on a problem, but I reached out to my team lead for help.
 - I was assigned a Hive case, and I completed it on my own.
 
