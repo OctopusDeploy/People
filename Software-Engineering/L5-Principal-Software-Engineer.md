@@ -6,7 +6,7 @@
 - **Impact radius**: Group
 - **Evaluation**: Director
 - **Responsibility and direction needed**: I drive technical strategy in alignment with product strategy for my group. I develop that technical strategy and deliver good outcomes through it, with minimal oversight.
-- **Links**: [2023/24 Octopus Technical Strategy](https://docs.google.com/document/d/1onaZ7qRWc7BSLWyGw8duIIlOCd2k812zMIXXtlBfXL8/edit#heading=h.a65d8nqv4wgr) | [Target Architecture](https://github.com/OctopusDeploy/OctopusDeploy/tree/main/docs/target-architecture)
+- **Glossary (examples from 2023/24)**: ["Octopus Technical Strategy"](https://docs.google.com/document/d/1onaZ7qRWc7BSLWyGw8duIIlOCd2k812zMIXXtlBfXL8/edit#heading=h.a65d8nqv4wgr) | ["Target Architecture"](https://github.com/OctopusDeploy/OctopusDeploy/tree/main/docs/target-architecture)
 
 ## 🦉 Domain expertise
 
