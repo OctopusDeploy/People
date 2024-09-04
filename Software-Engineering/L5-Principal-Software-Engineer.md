@@ -112,7 +112,7 @@
 - I helped a team pivot effectively in response to a direction change.
 - I helped a team find a faster path to market/customer value/adoption, helping them make acceptable tradeoffs in scope, time, and quality.
 - I identified a risk where multiple teams would make life harder for each other, got them aligned, and accelerated their deliveries.
-- I contributed to the Octopus blog, a webinar, or a conference, explaining a lesson we learned as a way to reinforce the learning and to attract customers and potential future employees.
+- I contributed publicly to the Octopus blog, a webinar, or a conference, explaining a lesson we learned as a way to reinforce the learning and to attract customers and potential future employees.
 - I participated actively and willingly in discovery activities, like customer research calls, and generated insights that improved overall customer outcomes.
 - I noticed one of my teams getting bogged down in delivery. I helped them tease apart their scope and sequence their work to get themselves unblocked and get back to delivering value more quickly.
 - I regularly tried the software delivered by my teams (I "tasted the food") and provided feedback where the reliability, usability, or functionality didn't meet our standard.
