@@ -110,7 +110,7 @@
 <summary>Examples</summary>
 
 - I helped a team pivot effectively in response to a direction change.
-- I helped a team find a faster path to market/customer value/adoption, helping them make acceptable tradeoffs in scope, time, and quality.
+- I helped a team find a faster path to customer impact, through making acceptable tradeoffs in scope, time, and quality.
 - I identified a risk where multiple teams would make life harder for each other, got them aligned, and accelerated their deliveries.
 - I contributed publicly to the Octopus blog, a webinar, or a conference, explaining a lesson we learned as a way to reinforce the learning and to attract customers and potential future employees.
 - I participated actively and willingly in discovery activities, like customer research calls, and generated insights that improved overall customer outcomes.
