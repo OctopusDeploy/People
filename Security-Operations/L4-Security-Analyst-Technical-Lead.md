@@ -23,6 +23,8 @@
 - I provided expert input on a critical Pitch or RFC, identifying potential vulnerabilities and influencing decisions for remediation in the early stages of the project lifecycle.
 - I developed and implemented a new threat-hunting program that significantly improved our ability to detect advanced persistent threats (APTs).
 - I represented our organization at a cybersecurity conference or meetup, presenting our innovative approach to cybersecurity.
+- I improved the signal-to-noise ratio of our SIEM by fune-tuning rules and refining match lists, reducing the number of non-actionable alerts.
+- I identified a critical gap in our SIEM configuration that was causing key threat indicators to be missed and helped rectifiy it.
 
 </details>
 
