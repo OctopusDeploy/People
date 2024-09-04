@@ -83,7 +83,6 @@
 - I drove an entire multiteam program from inception through to shipping code, without regular oversight.
 - I collaborated with other senior leaders to ensure I was aware of all major initiatives at Octopus and could account for them in my own initiatives.
 - The teams I work with are consistently winning. They chose ambitious targets, managed scope and expectations effectively, and delivered customer value frequently with customer adoption trends going in the right direction.
-- I identified a problem that was timely, important, and impactful, and worked closely with product, engineering, and executive stakeholders to articulate and refine a solution and delivery plan.
 - I identified a significant problem that was increasing cognitive load for engineers resulting in multiple defects, then created a lasting best-fit solution that aligned with our strategy and solved the problem.
 - I identified a pattern of organisational dysfunction that was causing poor outcomes, shared my observations with my leadership team, and escalated the signal effectively, resulting in the dysfunction being corrected and collectively getting better outcomes.
 - I regularly shared timely information in the right forums, like Slack and R&D Weekly, to amplify the work being done by my team(s), to detect misalignment or surprises, and to build confidence in our collective delivery plans.
