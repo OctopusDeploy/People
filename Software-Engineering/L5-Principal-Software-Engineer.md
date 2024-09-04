@@ -66,7 +66,6 @@
 ## 🧭 Culture and Leadership
 
 - I am a proponent of [operational excellence](https://en.wikipedia.org/wiki/Operational_excellence) and [learning from incidents](https://www.learningfromincidents.io/about).
-- I get things right a lot of the time.
 - I create an environment where others feel safe to take risks and make mistakes, by modeling vulnerability, thinking in the open, being wrong sometimes, and accepting corrections.
 - I generate energy in the teams I work with, motivating them to achieve great outcomes.
 - I facilitate effective and timely decision making, especially when the decision affects multiple teams.
