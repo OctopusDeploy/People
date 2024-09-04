@@ -101,7 +101,7 @@
 - I work with my teams (including product managers and designers) to ensure the best outcomes for our customers and continued product/market fit.
 - I find the balance between doing it right and getting it done.
 - I am an expert at managing scope, finding ways to help my teams consistently deliver the high value to customers at speed.
-- I hold myself and my teams to a high standard of quality, with a specific focus on reliability, usability, and functionality.
+- I hold myself and my teams to a high standard of quality, thinking holistically about reliability, usability, and functionality.
 - I am responsive to changes in product priorities, keeping multiple teams focused on important, high-value efforts.
 - I inform product strategy by helping senior leadership understand the organisation's engineering capabilities and technical strategy.
 - I help people from other departments, primarily support, customer success, revenue, and marketing, when my expertise will deliver better outcomes for our customers.
