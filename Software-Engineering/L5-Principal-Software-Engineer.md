@@ -80,7 +80,7 @@
 - I identified a problem that was timely, important, and impactful, and worked closely with product, engineering, and executive stakeholders to articulate and refine a solution and delivery plan.
 - I identified a significant problem that was increasing cognitive load for engineers resulting in multiple defects, then created a lasting best-fit solution that aligned with our strategy and solved the problem.
 - I identified a pattern of organisational dysfunction that was causing poor outcomes, shared my observations with my leadership team, and escalated the signal effectively, resulting in the dysfunction being corrected and collectively getting better outcomes.
-- I regularly shared timely information in the right forums, like Slack and R&D Weekly, to amplify the work being done by my team(s), detect misalignment or surprises, and build confidence in our collective delivery plans.
+- I regularly shared timely information in the right forums, like Slack and R&D Weekly, to amplify the work being done by my team(s), to detect misalignment or surprises, and to build confidence in our collective delivery plans.
 - Instead of simply patching or extending an existing solution that was not fit for purpose anymore, my contribution opened up a whole new area of strategic possibility.
 - I regularly participated in our code review and interview processes and provided feedback on how they could be improved.
 
