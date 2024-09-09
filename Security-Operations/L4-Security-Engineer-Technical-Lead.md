@@ -68,7 +68,7 @@
 - I successfully negotiated with a vendor to improve the security features of a critical tool.
 - I championed the adoption of a new threat modeling framework, guiding the team through the change process and helping them see the long-term benefits.
 - I foster a culture of continuous learning by encouraging others to demo what they've been working on at our weekly show-and-tell sessions.
-I led an effort to standardize our approach to infrastructure as code, ensuring that all engineers adhered to security best practices. This reduced the risk of configuration errors in our production environment.
+- I led an effort to standardize our approach to infrastructure as code, ensuring that all engineers adhered to security best practices. This reduced the risk of configuration errors in our production environment.
 
 </details>
 
