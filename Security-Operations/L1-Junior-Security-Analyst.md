@@ -2,12 +2,12 @@
 
 > _I actively engage in continuous learning, striving to develop expertise within my domain. I effectively collaborate with both peers and senior members of my team, enabling the successful completion of tasks with minimal guidance and support._
 
-- **Planning horizon**: Current cycle
-- **Impact radius**: Self
-- **Evaluation**: Manager
-- **Responsibility and direction needed**: Daily to weekly supervision is needed from their manager or more senior analysts.
+- **Planning Horizon**: Current cycle.
+- **Impact Radius**: Self.
+- **Evaluation**: Manager.
+- **Responsibility and Direction Needed**: Daily to weekly supervision is needed from their manager or more senior analysts.
 
-## 🦉 Domain expertise
+## 🦉 Domain Expertise
 
 - I am actively learning my domain and my team's processes.
 - I escalate with my peers or lead when appropriate.
@@ -16,9 +16,9 @@
 <details>
 <summary>Examples</summary>
 
-- I attended workshops and training to increase my skills with our core platforms. For example, Sumo Logic, CSE, The Hive, Crowdstrike, and Azure AD.
-- I was stuck on a problem but I reached out to my team lead to help me.
-- I was assigned a Hive case and I completed it on my own.
+- I attended workshops and training to increase my skills with our core platforms, such as Sumo Logic, CSE, The Hive, CrowdStrike, and Azure Entra ID.
+- I was stuck on a problem, but I reached out to my team lead for help.
+- I was assigned a Hive case, and I completed it on my own.
 
 </details>
 
@@ -31,8 +31,8 @@
 <summary>Examples</summary>
 
 - I shared a demo of my work in a weekly show-and-tell session.
-- I applied a pattern I learned from training and I asked a senior analyst on my team to review it for me to ensure I applied it correctly.
-- I shadowed a senior analyst during an incident to become more familiar with the incident response process.
+- I applied a pattern I learned from training, and I asked a senior analyst on my team to review it to ensure I applied it correctly.
+- I shadowed a senior analyst during an incident to become more familiar with our [Security Incident Response Plan (SIRP)](https://docs.google.com/document/d/1A9sG4UQy3pw6R--es_apBDAw1oWBZw1wJof2jjq_t2c/edit?usp=sharing).
 
 </details>
 
@@ -40,15 +40,15 @@
 
 - I show independent initiative and problem-solving.
 - I demonstrate a collaborative attitude.
-- I take responsibility for my own work.
+- I take responsibility for my work.
 
 <details>
 <summary>Examples</summary>
 
 - I have a passion for attending community events related to cybersecurity.
-- I found it difficult to set up my environment based on the instructions so I updated the instructions.
+- I found it difficult to set up my environment based on the instructions, so I updated them.
 - A senior analyst on my team gave me some critical feedback on my work, so I took the time to understand how to improve.
-- I was comfortable sharing my thoughts towards how a particular problem should be solved.
+- I was comfortable sharing my thoughts on how a particular problem should be solved.
 
 </details>
 
