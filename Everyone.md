@@ -12,7 +12,7 @@ The culture at Octopus is the sum of its people and the way they interact. We wa
 
 These are the defining characteristics of all Octopus people: all of the other roles and specialities build on these.
 
-## I use Radical Candor as a foundational approach to giving and receiving feedback (see also our [handbook](https://handbook.octopus.com/life-octopus/career) and [internal wiki](https://octopushq.atlassian.net/wiki/spaces/PC/pages/614858769/Feedback))
+## I use Radical Candor as a foundational approach to giving and receiving feedback (see also our [handbook](https://handbook.octopus.com/life-octopus/career#feedback) and [internal wiki](https://octopushq.atlassian.net/wiki/spaces/PC/pages/614858769/Feedback))
 - I enthusiastically seek feedback
 - I take feedback well, challenging myself to remove my ego as much as possible, and thank people for their feedback
 - I directly give timely, specific, and sincere praise
