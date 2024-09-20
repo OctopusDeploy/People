@@ -3,7 +3,7 @@
 > I am a well-rounded domain expert and leader. I'm trusted to autonomously lead people through complex problems, with a proven record of delivering brand new ideas from inception to production. I deliver high-quality results, and guide technical initiatives using my leadership skills, technical expertise, and a focus on reliability and security.
 
 **Planning horizon:** 6-12 months  
-**Impact radius:** Team (4-10)  
+**Impact radius:** Team (5-15)
 **Evaluation:** Manager  
 **Responsibility and direction needed:** Takes ownership of complex projects and leads them from idea to production with moderate supervision.
 
