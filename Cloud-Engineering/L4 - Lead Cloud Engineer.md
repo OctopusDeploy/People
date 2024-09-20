@@ -44,6 +44,7 @@
 
 ## 🧭 Culture and Leadership
 
+- I encompass all of the qualities listed in [Leadership](https://github.com/OctopusDeploy/People/blob/main/Leadership.md).
 - I collaborate on technical direction within already-defined projects and maintain/improve quality across the stack.
 - I take on necessary and unglamorous work to get things done and take responsibility for my mistakes while learning from others.
 - I manage difficult conversations and tactfully challenge others, improving team productivity and delivery.
