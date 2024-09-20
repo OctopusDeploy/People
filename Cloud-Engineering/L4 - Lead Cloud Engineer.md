@@ -41,6 +41,7 @@
 - I shared my on-the-job learning and experiences to enhance the effectiveness of others in their roles.
 - I broke up a project to align appropriate challenges for each teammate, aiding their growth.
 - I had difficult conversations with teammates, challenging them directly while showing personal care.
+- I adjusted my interactions to adapt to the different working styles and needs of individuals on my team.
 
 ## 🧭 Culture and Leadership
 
