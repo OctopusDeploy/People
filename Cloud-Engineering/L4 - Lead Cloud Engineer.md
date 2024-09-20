@@ -1,6 +1,6 @@
 # L4: Lead Cloud Engineer
 
-> _I am a pivotal member of the Octopus team, balancing the responsibilities of delivering high-quality projects and guiding technical initiatives. I bridge the gap between engineering and architecture, providing leadership, technical expertise, and a focus on reliability and security to drive projects forward._
+> I am a well-rounded domain expert and leader. I'm trusted to autonomously lead people through complex problems, with a proven record of delivering brand new ideas from inception to production. I deliver high-quality results, and guide technical initiatives using my leadership skills, technical expertise, and a focus on reliability and security.
 
 **Planning horizon:**  Next cycle to 6 months  
 **Impact radius:** Team (4-10)  
