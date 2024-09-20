@@ -55,6 +55,7 @@
 
 - I took on a significant share of unplanned work and other "housekeeping" tasks.
 - I spotted a contentious issue early, facilitated a resolution, and ensured positive outcomes.
+- I identified waste in our team processes, formulated a new approach, and got the rest of the team to buy into a new and better way of doing things.
 - I wrote a clear proposal that persuaded the team to act on my idea.
 - I confidently pitched ideas, influencing and convincing people to take decisive action.
 
