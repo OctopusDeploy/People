@@ -26,7 +26,7 @@
 - I led a medium-sized project for Octopus Cloud and product teams from pitch to production, collaborating with my team and stakeholders.
 - I made pragmatic decisions to ship a product, engaging stakeholders and keeping them informed.
 - People seek my opinion for technical decisions due to my proven track record of wise choices.
-- I guided my team’s decision-making around operational and security concerns, balancing delivery and quality.
+- I guided my team’s decision-making around operational and security concerns, balancing speed and quality.
 
 ## 🌱 Teaching and Mentoring
 
