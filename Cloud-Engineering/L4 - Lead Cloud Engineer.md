@@ -4,7 +4,7 @@
 
 **Planning horizon:** 6-12 months  
 **Impact radius:** Team (5-15)
-**Evaluation:** Manager  
+**Evaluation:** Manager or Director
 **Responsibility and direction needed:** Takes ownership of complex projects and leads them from idea to production with moderate supervision.
 
 ## 🦉 Domain Expertise
