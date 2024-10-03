@@ -28,7 +28,7 @@
 
 ## 🌱 Teaching and Mentoring
 
-> _ I collaborate effectively with engineering managers to champion a high-performance engineering culture helping them create an environment for continuous growth and development._
+> _I collaborate effectively with engineering managers to champion a high-performance engineering culture helping them create an environment for continuous growth and development._
 
 - I have a strong positive influence over the engineering career framework, including how we interview candidate engineers and help successful candidates do the best work of their lives at Octopus.
 - I actively mentor current and aspiring principal engineers and work closely with their managers to build credible and helpful development plans.
