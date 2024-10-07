@@ -15,10 +15,10 @@
 - I can design and implement infrastructure as code and guide my team in these practices.
 - I am proficient with an array of cloud technologies (virtualization, containerization, serverless, virtual networking), making informed decisions on scalability, reliability, and maintainability.
 - I identify and address technical debt in line with team priorities.
-- I have a good understanding of .NET fundamentals and contribute efficiently to the Octopus Cloud codebase (equivalent to at least [L3 Senior Software Engineer](../Software-Engineering/L3-Senior-Software-Engineer.md)).
+- I have a good understanding of .NET fundamentals and contribute effectivly to the Octopus Cloud codebase (equivalent to at least [L3 Senior Software Engineer](../Software-Engineering/L3-Senior-Software-Engineer.md)).
 - I make informed architectural decisions considering cross-cutting concerns such as infrastructure, security, scalability, and maintainability.
 - I raise potential problems with my team before getting blocked, ask for help when needed, and offer help when I can assist.
-- I integrate reliability engineering principles into my work, focusing on automation, observability, and efficient incident response.
+- I integrate reliability engineering principles into my work, focusing on automation, observability, and effective incident response.
 - I implement and advocate for cloud security best practices, ensuring the protection of our infrastructure and data.
 
 **Examples:**
