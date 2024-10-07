@@ -25,7 +25,7 @@
 
 - I successfully led and completed a large, complex project from pitch to production, collaborating with my team and stakeholders.
 - I made pragmatic decisions to ship a product, engaging stakeholders and keeping them informed.
-- People seek my opinion for technical decisions due to my proven track record of wise choices.
+- People sought my opinion for a technical decision due to my proven track record of wise choices.
 - I guided my team’s decision-making around operational and security concerns, balancing speed and quality.
 
 ## 🌱 Teaching and Mentoring
