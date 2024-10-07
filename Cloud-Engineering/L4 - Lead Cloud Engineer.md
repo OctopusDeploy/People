@@ -10,7 +10,7 @@
 ## 🦉 Domain Expertise
 
 - I demonstrate solid experience with server operating systems, network, and security fundamentals.
-- I am comfortable exploring moderately risky situations with limited upfront information.
+- I am comfortable diving head-first into moderately risky or uncertain situations with relatively little upfront information and oversight.
 - I stay updated with evolving standards, platform features, critical technologies, and security best practices from vendors and the community.
 - I can design and implement infrastructure as code and guide my team in these practices.
 - I am proficient with an array of cloud technologies (virtualization, containerization, serverless, virtual networking), making informed decisions on scalability, reliability, and maintainability.
