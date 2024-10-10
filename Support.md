@@ -2,7 +2,7 @@
 
 ## Junior DevOps Support Engineer / DevOps Support Engineer
 
-    We avoid distinguishing too much between the Junior DevOps Support Engineer and DevOps Support Engineer roles. These roles are primarily focused on learning with the aim to grow into the contribution of a Senior Application Support Engineer and beyond. The primary indicator inside these levels is how far you are along your journey from dependent contribution to independent contribution.
+    We avoid distinguishing too much between the Junior DevOps Support Engineer and DevOps Support Engineer roles. These roles are primarily focused on learning with the aim to grow into the contribution of a Senior DevOps Support Engineer and beyond. The primary indicator inside these levels is how far you are along your journey from dependent contribution to independent contribution.
 
 >I am a valuable and enthusiastic member of the Octopus Support team. I show great potential and have a high growth trajectory toward independent contribution.
 
@@ -148,7 +148,7 @@ I take responsibility for 6-10 people in the DevOps Support team and the results
 - I proactively coach people, accelerating them along their personal growth trajectory.
 - I give radically candid feedback which is timely, actionable, and helpful.
 - The feedback I give in performance reviews is rarely a surprise because it summarises the timely, actionable, and helpful feedback my teammate has been receiving.
-- I am a positive contributor to how we approach people and culture in the Application Support team, including hiring, performance reviews, culture fit, salary reviews, and how we pay.
+- I am a positive contributor to how we approach people and culture in the DevOps Support team, including hiring, performance reviews, culture fit, salary reviews, and how we pay.
 
 The Senior DevOps Support Manager encompasses everything in the Support manager role, with added confidence and ability to execute. Rather than re-writing the same PD, I have extracted two examples below to highlight the differing expectations between the roles.
 
