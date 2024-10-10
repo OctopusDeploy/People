@@ -1,8 +1,8 @@
 # Support Roles
 
-## Junior Application Support Engineer / Application Support Engineer
+## Junior DevOps Support Engineer / DevOps Support Engineer
 
-    We avoid distinguishing too much between the Junior Application Support Engineer and Application Support Engineer roles. These roles are primarily focused on learning with the aim to grow into the contribution of a Senior Application Support Engineer and beyond. The primary indicator inside these levels is how far you are along your journey from dependent contribution to independent contribution.
+    We avoid distinguishing too much between the Junior DevOps Support Engineer and DevOps Support Engineer roles. These roles are primarily focused on learning with the aim to grow into the contribution of a Senior Application Support Engineer and beyond. The primary indicator inside these levels is how far you are along your journey from dependent contribution to independent contribution.
 
 >I am a valuable and enthusiastic member of the Octopus Support team. I show great potential and have a high growth trajectory toward independent contribution.
 
@@ -38,9 +38,9 @@
 - I go out of my way to develop a friendly and professional rapport with my customers and their team members.
 - My contributions to team discussions are net-positive, informative, and helpful.
 
-## Senior Application Support Engineer
+## Senior DevOps Support Engineer
 
-The Senior Application Support Engineer role builds upon the foundation of the Application Support Engineer role.
+The Senior DevOps Support Engineer role builds upon the foundation of the DevOps Support Engineer role.
 
 > I am a confident, secure member of the Octopus support team with a proven record of excellent customer support.
 
@@ -81,9 +81,9 @@ The Senior Application Support Engineer role builds upon the foundation of the A
 - I am actively introspective and take time to work on my personal and professional development.
 - I happily take responsibility for my own mistakes and I learn from the mistakes of others.
 
-## DevOps Application Engineer
+## Lead DevOps Support Engineer
 
-The DevOps Application Engineer role builds upon the foundation of the Application Support Engineer and Senior Application Support Engineer roles.
+The Lead DevOps Support Engineer role builds upon the foundation of the Senior DevOps Support Engineer and DevOps Support Engineer roles.
 
 > I am a technical leader, a person that is recognised both within the Support team and as part of the wider Octopus community for the breadth and depth of your technical ability.
 
@@ -109,9 +109,9 @@ The DevOps Application Engineer role builds upon the foundation of the Applicati
 - I am working to improve our processes, making it easier for everyone in our team to grow and learn.
 
 
-## Senior DevOps Application Engineer
+## Principal DevOps Support Engineer
 
-The Senior DevOps Application Engineer role builds upon the foundation of the DevOps Application Engineer role.
+The Principal DevOps Support Engineer role builds upon the foundation of the Lead DevOps Support Engineer role.
 
 > I am an expert in the DevOps space, a person that is recognised both within Octopus and as part of the wider DevOps community for the breadth and depth of your technical ability.
 
@@ -136,9 +136,9 @@ The Senior DevOps Application Engineer role builds upon the foundation of the De
 - I share the lessons I learn so the entire team and Octopus can benefit.
 
 
-## Application Support Manager / Senior Application Support Manager
+## DevOps Support Manager / Senior DevOps Support Manager
 
-I take responsibility for 6-10 people in the Application Support team and the results they ultimately deliver. A [Support Manager](https://octopushq.atlassian.net/wiki/spaces/PC/pages/628981849/Managers+at+Octopus) encompasses all of the qualities listed in Leadership and is a full-time role.
+I take responsibility for 6-10 people in the DevOps Support team and the results they ultimately deliver. A [DevOps Support Manager](https://octopushq.atlassian.net/wiki/spaces/PC/pages/628981849/Managers+at+Octopus) encompasses all of the qualities listed in Leadership and is a full-time role.
 
 - I take responsibility for the people in my team, the way they work, and the results they deliver.
 - I empower my team to get things done and I drive results collaboratively.
@@ -150,7 +150,7 @@ I take responsibility for 6-10 people in the Application Support team and the re
 - The feedback I give in performance reviews is rarely a surprise because it summarises the timely, actionable, and helpful feedback my teammate has been receiving.
 - I am a positive contributor to how we approach people and culture in the Application Support team, including hiring, performance reviews, culture fit, salary reviews, and how we pay.
 
-The Senior Application Support Manager encompasses everything in the Support manager role, with added confidence and ability to execute. Rather than re-writing the same PD, I have extracted two examples below to highlight the differing expectations between the roles.
+The Senior DevOps Support Manager encompasses everything in the Support manager role, with added confidence and ability to execute. Rather than re-writing the same PD, I have extracted two examples below to highlight the differing expectations between the roles.
 
 - I proactively recognise dysfunction in my team and work effectively to resolve it in a timely manner.
 - I help form team strategy with the VP of Support, actively working to execute on wider company goals.
