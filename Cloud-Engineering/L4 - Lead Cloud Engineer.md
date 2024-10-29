@@ -69,7 +69,7 @@
 - I invest in sustainable delivery, maintaining professional standards and balancing idealistic purity with business pressures.
 - I implement and improve automation to enhance system reliability and efficiency, ensuring smooth and continuous delivery of services.
 - I incorporate security considerations into all stages of development and deployment, ensuring robust protection for customer data and applications.
-
+- I pragmatically plan minimum viable infrastructure for product launch.
 **Examples:**
 
 - I sought input from others outside my team when planning significant changes and acted on that feedback.
