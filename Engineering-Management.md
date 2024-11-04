@@ -32,7 +32,7 @@ I ensure that my team has an environment where engineers can do their best work
 - I recognise dysfunction in my team and work effectively to resolve it in a timely manner.
 - I listen to different perspectives and I remove biases from my words and actions 
 - I create an inclusive environment for my team where it’s safe to speak up
-- I create a a sense of connection for individuals in my team by ensuring everyone has repeated, frequent and predicatble access to their colleagues and mentors
+- I create a sense of connection for individuals in my team by ensuring everyone has repeated, frequent and predictable access to their colleagues and mentors
 
 ## L5 Senior Engineering Manager
 
