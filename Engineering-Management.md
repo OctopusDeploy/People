@@ -32,6 +32,7 @@ I ensure that my team has an environment where engineers can do their best work
 - I recognise dysfunction in my team and work effectively to resolve it in a timely manner.
 - I listen to different perspectives and I remove biases from my words and actions 
 - I create an inclusive environment for my team where it’s safe to speak up
+- I create a sense of connection for individuals in my team by ensuring everyone has repeated, frequent and predictable access to their colleagues and mentors
 
 ## L5 Senior Engineering Manager
 
@@ -60,6 +61,7 @@ I use my experienced knowledge of team management to create a high-functioning t
 - My team members feel a high level of psychological safety at work
 - I am knowledgeable about issues that affect minorities within the software industry and I use this awareness to create a safe environment for members of my team
 - I create a team culture that is resilient and adaptable to organisational change
+- I create connections beyond the scope of my team, helping individuals build relationships across the company
 
 ## L6 Director of Engineering
 > I deliver results against a strategic company-level business objective or key component of the Octopus R&D mission
