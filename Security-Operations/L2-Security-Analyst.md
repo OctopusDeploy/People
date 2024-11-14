@@ -1,13 +1,13 @@
 # L2: Security Analyst
 
-> _I possess strong analytic skills and a keen eye for detail to identify potential vulnerabilities and threats in systems and networks. I am responsible for continuously monitoring and assessing security measures, developing strategies to mitigate risks, and ensuring the overall safety and integrity of the organization's data and infrastructure._
+> _I possess strong analytical skills and a keen eye for detail to identify potential vulnerabilities and threats in systems and networks. I am responsible for continuously monitoring and assessing security measures, developing strategies to mitigate risks, and ensuring the overall safety and integrity of the organization's data and infrastructure._
 
-- **Planning horizon**: Current and next cycle
-- **Impact radius**: Self plus some teammates
-- **Evaluation**: Manager
-- **Responsibility and direction needed**: Weekly supervision is needed from their manager or more senior analysts.
+- **Planning Horizon**: Current and next cycle.
+- **Impact Radius**: Self plus some teammates.
+- **Evaluation**: Manager.
+- **Responsibility and Direction Needed**: Weekly supervision is needed from their manager or more senior analysts.
 
-## 🦉 Domain expertise
+## 🦉 Domain Expertise
 
 - I am competent in my domain.
 - I can work independently on small projects.
@@ -16,7 +16,7 @@
 <details>
 <summary>Examples</summary>
 
-- I was nominated as the incident controller and successfully followed our Security Incident Response Plan (SIRP).
+- I was nominated as the incident controller and successfully followed our [Security Incident Response Plan (SIRP)](https://docs.google.com/document/d/1A9sG4UQy3pw6R--es_apBDAw1oWBZw1wJof2jjq_t2c/edit?usp=sharing).
 - I confidently triage alerts and escalate to senior security analysts when required.
 - When faced with a small project, I understood the brief the first time and was able to reach out myself to find the answers I needed to complete it.
 
@@ -61,7 +61,7 @@
 <details>
 <summary>Examples</summary>
 
-- I received an alert via PagerDuty and created a new incident in The Hive.
+- I received an alert via PagerDuty and created a new security incident in The Hive.
 - I triaged Bugcrowd submissions and worked with the Fire and Motion team to remedy them.
 - I triaged customer issues and guided the Customer Support team.
 

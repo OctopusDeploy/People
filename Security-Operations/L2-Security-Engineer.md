@@ -2,30 +2,30 @@
 
 > _I have a strong technical background and expertise in designing and implementing security systems and infrastructure. I am responsible for assessing and addressing vulnerabilities, developing and deploying security solutions, and working closely with cross-functional teams to ensure the effective implementation of security controls._
 
-- **Planning horizon**: Current and next cycle
-- **Impact radius**: Self plus some teammates
-- **Evaluation**: Manager
-- **Responsibility and direction needed**: Weekly supervision is needed from their manager or more senior engineers.
+- **Planning Horizon**: Current and next cycle.
+- **Impact Radius**: Self plus some teammates.
+- **Evaluation**: Manager.
+- **Responsibility and Direction Needed**: Weekly supervision is needed from their manager or more senior engineers.
 
-## 🦉 Domain expertise
+## 🦉 Domain Expertise
 
 - I am competent in my domain.
 - I can work independently on small projects.
 - I identify and raise potential problems with my peers or lead before getting blocked.
-- I provide security expertise in areas I am familiar with during peer reviews for codebases across the organisation.
+- I provide security expertise in areas I am familiar with during peer reviews for codebases across the organization.
 
 <details>
 <summary>Examples</summary>
 
 - I was nominated as the incident controller and successfully followed the relevant incident response plan.
-- When faced with a small project, I understood the brief the first time and was able to reach out myself to find the answers I needed to complete it.
-- I added a new module to the Beholder.
+- When faced with a small project, I understood the brief the first time and I completed the project, proactively reaching out to peers for help when I needed help or a sounding board.
+- I added a new module to the Beholder that helped fully automate access to an application.
 
 </details>
 
 ## 🌱 Teaching and Mentoring
 
-- I use code reviews to strengthen the patterns and practices in use by our team.
+- I use code reviews to strengthen the patterns and practices our team uses.
 - I help new hires get up to speed with the team's style and existing code base.
 
 <details>
@@ -62,8 +62,8 @@
 <details>
 <summary>Examples</summary>
 
-- Throughout the implementation of a pitch I maintained up-to-date documentation consisting of how-to guides and infrastructure architecture.
-- In conjunction with the Security Analysts I set up alerts in Sumo Logic to capture potential issues.
+- Throughout the implementation of a pitch, I maintained up-to-date documentation consisting of how-to guides and infrastructure architecture.
+- In conjunction with the Security Analysts, I set up alerts in Sumo Logic to capture potential issues.
 - While on QRF, I got an alert when an application we maintain fell over and created a PR to fix the root cause.
 
 </details>
