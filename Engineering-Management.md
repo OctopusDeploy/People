@@ -33,6 +33,15 @@ I ensure that my team has an environment where engineers can do their best work
 - I listen to different perspectives and I remove biases from my words and actions 
 - I create an inclusive environment for my team where it’s safe to speak up
 
+<details>
+<summary>Examples</summary>
+
+- I helped my team feel connected by giving them clear expectations from me so that they didn't have to guess as what I expect from them. 
+- I created a space with my team members where they can talk with me about problems they're facing without me taking any actions, allowing them a safe space to express what's on their mind without concern of it becoming a larger issue. 
+- I invited and gave permission to everyone on my team to give me feedback at any point 
+
+</details>
+
 ## L5 Senior Engineering Manager
 
 > I am an experienced Engineering Manager that leads one or more teams of engineers to deliver direct business impact. My manager can "set and forget" when it comes to my team, knowing that I can solve most problems independently using a robust managerial toolbox, and will keep them in the loop.
