@@ -11,8 +11,9 @@
 ## 🦉 Domain expertise
 
 - Within my group:
-    - I maintain a clear and understandable technical direction for teams within my group to help them achieve their missions with high-quality at speed.
-    - I have a deep understanding of the technical direction for all teams within my group so I can detect and correct issues early.
+    - I maintain a clear and understandable technical direction for my teams within my group to help them achieve their missions with high-quality at speed.
+    - I have a deep understanding of the technical direction of my teams within my group so I can detect and correct issues early.
+    - I understand the general technical direction of other teams at Octopus so I can detect and correct issues early.
     - I help teams in my group make critical product architecture and implementation decisions that result in better outcomes.
     - I manage technical risks effectively, and architect to reduce technical risk.
 - Across Octopus:
