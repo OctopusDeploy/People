@@ -5,7 +5,8 @@
 > I am an Engineering Manager that leads a team of engineers to deliver direct business impact. I require some support from my manager to solve difficult management problems that are beyond my current experience level.
 
 ### :triangular_flag_on_post: Leadership
-I take accountability for the engineers in my team, the way they work, and the results they deliver.
+> I take accountability for the engineers in my team, the way they work, and the results they deliver.
+
 - I follow through on my commitments and take accountability for my work and the work of my team 
 - When it comes to team planning, I’m responsible for bringing my unique knowledge of the people on our team, headcount constraints, and other people-related matters
 - I empower my team to get things done and I drive results collaboratively.
@@ -16,7 +17,8 @@ I take accountability for the engineers in my team, the way they work, and the r
 - I proactively share information so the right people are informed and aligned
 
 ### :deciduous_tree: Managing Individuals
-I take accountability for the engineering talent on my team and their career growth.
+> I take accountability for the engineering talent on my team and their career growth.
+
 - I can effectively resolve issues with underperformers with some guidance from my manager
 - I can confidently and proactively coach engineers up to senior (L3) level, accelerating them along their personal growth trajectory. I can coach engineers beyond senior (L3) level with support from my manager
 - I give direct feedback which is timely, actionable, and helpful. The feedback I give in performance reviews is rarely a surprise because it summarises the timely, actionable, and helpful feedback my teammate has been receiving.
@@ -24,7 +26,8 @@ I take accountability for the engineering talent on my team and their career gro
 - I structure my team so the right people are in the right roles with clearly defined responsibilities. In consultation with my manager, I ensure projects are staffed appropriately to set them up for success, placing my strongest technical leaders where they are the most needed and impactful
 
 ### :octopus: Managing teams
-I ensure that my team has an environment where engineers can do their best work
+> I ensure that my team has an environment where engineers can do their best work
+
 - I keep my team focused on quality and regular releases
 - I keep my team focused on customer success
 - I help my team navigate organisational change
@@ -41,21 +44,24 @@ I ensure that my team has an environment where engineers can do their best work
 I encompass all of the qualities listed in the L4 Engineering Manager definition, and I build on them in the following ways.
 
 ### :triangular_flag_on_post: Leadership
-I am able to independently identify and tackle projects that solve open-ended, ambiguous problems that are often beyond the scope of my immediate team.
-- I am effective at influencing outcomes across multiple teams and with cross-functional partners, often requiring conflict resolution and managing ambiguity.
+> I am able to independently identify and tackle projects that solve open-ended, ambiguous problems that are often beyond the scope of my immediate team.
+
+- I am effective at influencing outcomes across multiple teams and with cross-functional partners, often requiring managing ambiguity, making difficult tradeoffs, and encouragin healthy conflict.
 - I identify ways that my team can work more effectively with other teams in the company and create lasting change
 - I drive impactful outcomes in the face of significant organizational and technical ambiguity and change.
 - I effectively manage outwards and upwards
 
 ### :deciduous_tree: Managing individuals
-I autonomously guide my team to the sustainable delivery of business impact through my mastery of execution and people management.
+> I autonomously guide my team to the sustainable delivery of business impact through my mastery of execution and people management.
+
 - I am sensitive to the needs of my team, and I help them through difficult situations
 - I can confidently and effectively resolve issues with underperformers
 - I coach engineers up to Principal (L5) level, accelerating them along their personal growth trajectory.
 - I have a strong pulse on my team's engagement and a proactive retention strategy
 
 ### :octopus: Managing teams
-I use my experienced knowledge of team management to create a high-functioning team that consistently delivers on commitments
+> I use my experienced knowledge of team management to create a high-functioning team that consistently delivers on commitments
+
 - I set a high standard for results on my team and enforce it
 - I introduce delivery processes to my team that improve velocity, quality and scope management
 - My team members feel a high level of psychological safety at work
@@ -78,6 +84,7 @@ I use my experienced knowledge of team management to create a high-functioning t
 
 ### :deciduous_tree: Talent
 > I drive the full talent lifecycle for my org, holding myself and my managers accountable for creating a healthy culture of support, growth and excitement that empowers our teams to deliver at a high level.
+
 - I can guide and grow both engineering managers and Principal Engineers.
 - I plan for long-term headcount and recruiting needs to guarantee the long-term success of my group.
 - I champion a high-performance culture across the company, create an environment for continuous growth and development, and identify career opportunities for Octonauts across teams ensuring they are well leveraged.
