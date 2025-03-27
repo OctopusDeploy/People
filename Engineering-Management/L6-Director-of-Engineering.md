@@ -13,6 +13,7 @@
 
 ## :deciduous_tree: Talent
 > I drive the full talent lifecycle for my org, holding myself and my managers accountable for creating a healthy culture of support, growth and excitement that empowers our teams to deliver at a high level.
+
 - I can guide and grow both engineering managers and Principal Engineers.
 - I plan for long-term headcount and recruiting needs to guarantee the long-term success of my group.
 - I champion a high-performance culture across the company, create an environment for continuous growth and development, and identify career opportunities for Octonauts across teams ensuring they are well leveraged.
