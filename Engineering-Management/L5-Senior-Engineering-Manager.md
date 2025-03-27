@@ -7,7 +7,7 @@ I encompass all of the qualities listed in the L4 Engineering Manager definition
 ## :triangular_flag_on_post: Leadership
 > I am able to independently identify and tackle projects that solve open-ended, ambiguous problems that are often beyond the scope of my immediate team.
 
-- I am effective at influencing outcomes across multiple teams and with cross-functional partners, often requiring conflict resolution and managing ambiguity.
+- I am effective at influencing outcomes across multiple teams and with cross-functional partners. This often requires me to manage ambiguity, make difficult tradeoffs, and encourage healthy conflict.
 - I identify ways that my team can work more effectively with other teams in the company and create lasting change
 - I drive impactful outcomes in the face of significant organizational and technical ambiguity and change.
 - I effectively manage outwards and upwards
