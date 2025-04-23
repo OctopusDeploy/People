@@ -10,7 +10,7 @@ Summarising, we want to ensure that:
 Octopus People (this repository) is a core building block we use to help people navigate their career at Octopus and one area that deserves a bit more explanation is job levels and maturity and how we use performance reviews at Octopus.
 
 In short:
-- **Level** (i.e. L1-5) is used to set the person's role title (e.g. Junior Software Engineer, Senior Software Engineer), to broadcast expectations and reinforce archetypes, to the person, across Octopus and beyond.
+- **Level** (i.e. L1-6) is used to set the person's role title (e.g. Junior Software Engineer, Senior Software Engineer), to broadcast expectations and reinforce archetypes, to the person, across Octopus and beyond.
 - **Maturity** (i.e. Maturing/Performing/Exceeding) is used to reflect value contributed within that level and provide a sense of progression within each level and smoother transitions to the next level
 - **Performance Reviews** are an opportunity for you and your manager to reflect on your demonstrated performance against the expectations of that level + maturity, and determine whether you are ready for a promotion to the next level/maturity.
 
