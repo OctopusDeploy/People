@@ -33,4 +33,16 @@
 - I recognise dysfunction in my team and work effectively to resolve it in a timely manner.
 - I listen to different perspectives and I remove biases from my words and actions 
 - I create an inclusive environment for my team where it’s safe to speak up
+- I create an emotionally and psychologically safe environment for the team to allow everyone to be themselves at work and to express their ideas and opinions without negative consequences. 
 - I create a sense of connection for individuals in my team by ensuring everyone has repeated, frequent and predictable access to their colleagues and mentors
+
+<details>
+ <summary>Examples</summary>
+ 
+ - I ensured that a junior developer on our team had access to a mentor, myself as their manager, and their colleagues on a scheduled, frequent cadence to allow them to feel consistently connected with the team.  
+ - I helped a team member feel more certain about their role by outlining my clear expectations of them in their role in a 1:1 situation. 
+ - I created a space with my team members where they can talk with me about problems they're facing without me having to taking any actions, allowing them a safe space to express what's on their mind without concern of it becoming a larger issue. 
+ - I gave permission to a team member to give me feedback, allowing myself to be vulnerable and open the door to feedback to allow me to improve or change my ways. 
+ - I acknowledged that there is a power dynamic between myself and a junior engineer, but was able to listen to that team member and use my position to advocate for their needs. 
+ 
+ </details>
