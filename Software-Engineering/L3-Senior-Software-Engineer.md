@@ -51,6 +51,7 @@
 - I manage difficult conversations and tactfully challenge others.
 - I improve the productivity and delivery of my team.
 - I help raise the bar for working at Octopus by providing regular code reviews and / or interviews for engineering candidates.
+- I practice healthy conflict, using negotiation to arrive at positive, constructive outcomes.
 
 <details>
 <summary>Examples</summary>
@@ -60,6 +61,7 @@
 - I spotted a contentious issue that could have gone badly and facilitated everyone toward a decision that resolved the situation.
 - I recognised a problem early and got in to fix it even though it wasn't my fault.
 - I wrote a clear and concise proposal that persuaded the team to act on my idea.
+- I successfully engaged in a negotiation around the requirements of a project by bringing an engineering perspective, listening to understand Product's and Design's perspectives, and advocating for outcomes that bring the best value to our customers from all perspectives. 
 
 </details>
 
