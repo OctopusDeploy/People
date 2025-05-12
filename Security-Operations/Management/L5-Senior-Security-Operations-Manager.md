@@ -2,7 +2,7 @@
 
 > I am an experienced Security Operations Manager who leads one or more teams to proactively detect, respond to, and mitigate security threats, strengthening our overall security posture. My manager can "set and forget" when it comes to my team, knowing that I can solve most problems independently using a robust managerial toolbox, and will keep them in the loop.
 
-## :triangular_flag_on_post: Leadership
+## 🚩 Leadership
 
 > I am able to independently identify, prioritise, and execute security initiatives that enhance our detection, response, and mitigation capabilities, even in highly ambiguous or evolving threat landscapes.
 
@@ -15,7 +15,7 @@
 - I foster a security-aware culture through education, communication, and positive reinforcement.
 - I am a core member of our iSPORT team where I am accountable for the ownership and maintenance of our Information Security Management System (ISMS) policies. I actively review and update these policies to ensure they are accurate, reflect current practices, and minimize unnecessary friction across the organization.
 
-## :deciduous_tree: Managing Individuals
+## 🌳 Managing Individuals
 
 > I autonomously guide my team to sustainably reduce risk and improve security operations through my mastery of execution and people management.
 
@@ -24,7 +24,7 @@
 - I coach security analysts and security engineers up to Principal (L5) level, accelerating them along their personal growth trajectory.
 - I have a strong pulse on my team's engagement and a proactive retention strategy.
 
-## :octopus: Managing Teams
+## 🐙 Managing Teams
 
 > I use my experienced knowledge of team management to create a high-functioning team proactively reduces risk and responds effectively to security threats.
 
