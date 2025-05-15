@@ -14,7 +14,7 @@
 - I proactively identify and work with cross-functional teams to mitigate risks and product vulnerabilities.
 - I stay up to date on the latest trends, platform features, and critical vendor technologies to anticipate and mitigate potential threats.
 - I provide expert-level guidance and support during security incident investigations and post-mortems.
-- I ensure that our Security Information and Event Management (SIEM) system is optimized to ensure we only receive actionable alerts.
+- I am passionate about optimising alert quality, reducing false positives, and increasing detection capabilities to prevent alert fatigue and enhance security response.
 - I identify gaps, inefficiences, or breakages in our security processes and take action to rectify them.
 
 <details>

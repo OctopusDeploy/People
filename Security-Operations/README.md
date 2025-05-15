@@ -24,14 +24,15 @@ Our roles are defined by expectations for each level in terms of:
 
 The following pages provide demonstrable values and concrete examples to describe these expectations:
 
-1. [L1 Junior Security Analyst](L1-Junior-Security-Analyst.md)
-1. [L2 Security Analyst](L2-Security-Analyst.md)
-1. [L2 Security Engineer](L2-Security-Engineer.md)
-1. [L3 Senior Security Analyst](L3-Senior-Security-Analyst.md)
-1. [L3 Senior Security Engineer](L3-Senior-Security-Engineer.md)
-1. [L3 Senior Cloud Security Engineer](L3-Senior-Cloud-Security-Engineer.md)
-1. [L4 Security Analyst Technical Lead](L4-Security-Analyst-Technical-Lead.md)
-1. [L4 Security Engineer Technical Lead](L4-Security-Engineer-Technical-Lead.md)
+1. [L1 Junior Security Analyst](./Security-Analyst/L1-Junior-Security-Analyst.md)
+1. [L2 Security Analyst](./Security-Analyst/L2-Security-Analyst.md)
+1. [L2 Security Engineer](./Security-Engineer/L2-Security-Engineer.md)
+1. [L3 Senior Security Analyst](./Security-Analyst/L3-Senior-Security-Analyst.md)
+1. [L3 Senior Security Engineer](./Security-Engineer/L3-Senior-Security-Engineer.md)
+1. [L3 Senior Cloud Security Engineer](./Security-Engineer/L3-Senior-Cloud-Security-Engineer.md)
+1. [L4 Security Analyst Technical Lead](./Security-Analyst/L4-Security-Analyst-Technical-Lead.md)
+1. [L4 Security Engineer Technical Lead](./Security-Engineer/L4-Security-Engineer-Technical-Lead.md)
+1. [L5 Senior Security Operations Manager](./Management/L5-Senior-Security-Operations-Manager.md)
 
 💡 Tip: To help guide conversations about your progression with your manager, open multiple tabs and contrast the expectations across adjacent levels.
 
