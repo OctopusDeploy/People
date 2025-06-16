@@ -9,8 +9,8 @@
 
 ## 🦉 Domain expertise
 
-- I am a versatile developer, architect, and problem solver.
-- I have deep domain expertise in my team's focus area.
+- I am a well-rounded developer, architect and problem solver.
+- I am an expert in my team's domain.
 - I confidently tackle uncertain or risky situations with minimal upfront information and oversight.
 - I make thoughtful architectural decisions, addressing cross-cutting concerns like infrastructure, security, scalability, and maintainability.
 - I stay informed on evolving standards, platform features, and key vendor and community technologies.
@@ -18,7 +18,7 @@
 <details>
 <summary>Examples</summary>
 
-- I delivered a large, complex project with multiple components to successful completion.
+- I successfully completed a large, complex project with multiple components.
 - I led the investigation and resolution of a bug or incident in a highly ambiguous or risky area.
 - I consulted with experts on a complex problem outside my domain and ensured their insights were applied effectively by my team.
 
@@ -45,7 +45,7 @@
 
 ## 🧭 Culture and Leadership
 
-- I exhibit all qualities outlined in [Leadership](https://github.com/OctopusDeploy/People/blob/main/Leadership.md).
+- I encompass all of the qualities listed in [Leadership](https://github.com/OctopusDeploy/People/blob/main/Leadership.md).
 - I empower engineers to work independently and avoid becoming a bottleneck.
 - I tackle challenging tasks, like debugging, incident response, and reverse-engineering, ensuring the work gets done.
 - I guide my team to focus on their highest value contributions within the organization’s structure and scheduling.
