@@ -31,6 +31,7 @@
 - I work to expand the technical skill sets of my team.
 - I challenge and coach my peers to improve and grow.
 - I help people determine the most valuable ways they can contribute, and grow, and I help them block out the noise.
+- I help teammates prioritise their efforts, develop their strengths, and stay focused on impactful work.
 
 <details>
 <summary>Examples</summary>
@@ -52,7 +53,7 @@
 - I assess risk transparently, provide actionable recommendations, escalate when necessary, and manage outcomes responsibly.
 - I actively identify problems and collaborate with others to prevent or resolve them quickly.
 - I coordinate projects requiring input from multiple teams and diverse roles.
-- I communicate effectively across technical and non-technical contexts, steering conversations toward positive outcomes.
+- I am an adept communicator, and can effectively steer technical and non-technical conversations to positive outcomes over any medium.
 - I refine processes and implement improvements that strengthen team collaboration.
 - I work effectively with cross-functional team members (e.g., Product Managers and Designers), aligning on outcomes and ensuring mutual needs are met.
 
