@@ -27,10 +27,10 @@
 ## 🌱 Teaching and Mentoring
 
 - I define, document, and refine best practices in my team's area of focus.
-- I help guide and support the development of new projects across the organization.
+- I help guide and support the development of new projects across the organisation.
 - I work to expand the technical skill sets of my team.
 - I challenge and coach my peers to improve and grow.
-- I help teammates identify key contributions, foster growth, and stay focused by filtering out distractions.
+- I help people determine the most valuable ways they can contribute, and grow, and I help them block out the noise.
 
 <details>
 <summary>Examples</summary>
@@ -48,7 +48,7 @@
 - I encompass all of the qualities listed in [Leadership](https://github.com/OctopusDeploy/People/blob/main/Leadership.md).
 - I empower engineers to work independently and avoid becoming a bottleneck.
 - I tackle challenging tasks, like debugging, incident response, and reverse-engineering, ensuring the work gets done.
-- I guide my team to focus on their highest value contributions within the organization’s structure and scheduling.
+- I guide my team to focus on their highest value contributions within the organisation’s structure and scheduling.
 - I assess risk transparently, provide actionable recommendations, escalate when necessary, and manage outcomes responsibly.
 - I actively identify problems and collaborate with others to prevent or resolve them quickly.
 - I coordinate projects requiring input from multiple teams and diverse roles.
