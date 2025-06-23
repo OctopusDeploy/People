@@ -48,7 +48,7 @@
 
 - I encompass all of the qualities listed in [Leadership](https://github.com/OctopusDeploy/People/blob/main/Leadership.md).
 - I empower engineers to work independently and avoid becoming a bottleneck.
-- I tackle challenging tasks, like debugging, incident response, and reverse-engineering, ensuring the work gets done.
+- I make sure difficult work that needs to be done gets done, like hard debugging, incident response, and reverse-engineering tasks.
 - I guide my team to focus on their highest value contributions within the organisation’s structure and scheduling.
 - I assess risk transparently, provide actionable recommendations, escalate when necessary, and manage outcomes responsibly.
 - I actively identify problems and collaborate with others to prevent or resolve them quickly.
