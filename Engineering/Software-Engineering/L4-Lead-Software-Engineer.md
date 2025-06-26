@@ -13,14 +13,14 @@
 - I am an expert in my team's domain.
 - I confidently tackle uncertain or risky situations with minimal upfront information and oversight.
 - I make thoughtful architectural decisions, addressing cross-cutting concerns like infrastructure, security, scalability, and maintainability.
-- I stay informed on evolving standards, platform features, and key vendor and community technologies.
+- I stay informed on evolving standards, platform features, and relevant technologies.
 
 <details>
 <summary>Examples</summary>
 
 - I successfully completed a large, complex project with multiple components.
 - I led the investigation and resolution of a bug or incident in a highly ambiguous or risky area.
-- I consulted with experts on a complex problem outside my domain and ensured their insights were applied effectively by my team.
+- I consulted with experts on a complex problem outside my domain and ensured their insights were applied effectively.
 
 </details>
 
@@ -28,9 +28,8 @@
 
 - I define, document, and evolve best practices in my team's area of focus.
 - I help guide and support the development of new projects across the organisation.
-- I work to expand the technical skill sets of my team.
+- I work to expand the technical capabilities of my team.
 - I challenge and coach my peers to improve and grow.
-- I help people determine the most valuable ways they can contribute, and grow, and I help them block out the noise.
 - I help teammates prioritise their efforts, develop their strengths, and stay focused on impactful work.
 
 <details>
@@ -38,8 +37,8 @@
 
 - I trained and mentored team members, helping them develop well-rounded skill sets.
 - I shared my experiences to help others become more effective in their roles.
-- I divided a project into tasks that presented appropriate challenges to help teammates grow.
-- I had constructive conversations that provided direct feedback while showing personal care for teammates.
+- I divided a project into tasks that presented appropriate challenges for each of my teammates that helped them grow.
+- I had some difficult conversations with my teammates, challenging them directly while showing care for them personally.
 - I tailored my interactions to suit the working styles and needs of individual team members.
 
 </details>
@@ -47,14 +46,14 @@
 ## 🧭 Culture and Leadership
 
 - I encompass all of the qualities listed in [Leadership](https://github.com/OctopusDeploy/People/blob/main/Leadership.md).
-- I empower engineers to work independently and avoid becoming a bottleneck.
+- I avoid becoming a bottleneck, by setting up other engineers on my team for success for longer periods of time before needing to check back in.
 - I make sure difficult work that needs to be done gets done, like hard debugging, incident response, and reverse-engineering tasks.
-- I guide my team to focus on their highest value contributions within the organisation’s structure and scheduling.
-- I assess risk transparently, provide actionable recommendations, escalate when necessary, and manage outcomes responsibly.
-- I actively identify problems and collaborate with others to prevent or resolve them quickly.
-- I coordinate projects requiring input from multiple teams and diverse roles.
+- I understand our organisation structure and how we schedule work, and help my team find their highest value contributions in this environment.
+- I transparently assess risk, provide actionable recommendations, escalate when necessary, and manage outcomes.
+- I recognise problems and proactively engage with other people to prevent or resolve them quickly.
+- I am comfortable coordinating projects where success requires the input of multiple teams and diverse technical roles.
 - I am an adept communicator, and can effectively steer technical and non-technical conversations to positive outcomes over any medium.
-- I refine processes and implement improvements that strengthen team collaboration.
+- I proactively refine processes and implement improvements that strengthen team collaboration.
 - I work effectively with cross-functional team members (e.g., Product Managers and Designers), aligning on outcomes and ensuring mutual needs are met.
 
 <details>
@@ -77,7 +76,7 @@
 
 ## 🏆 Customer Success
 
-- I transform complex pitch documents into actionable, well-defined work for delivery.
+- I transform complex product goals into actionable, well-defined work for delivery.
 - I focus on sustainable delivery, balancing professional standards with business demands.
 - I follow our fixed-time, high-quality, variable-scope approach to software projects.
 - I align work with product strategy and make insightful recommendations on priorities.
