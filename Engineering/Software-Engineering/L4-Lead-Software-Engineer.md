@@ -27,7 +27,7 @@
 ## 🌱 Teaching and Mentoring
 
 - I define, document, and evolve best practices in my team's area of focus.
-- I help guide and support the development of new projects across the organisation.
+- I guide and support the development of new projects across the organisation.
 - I work to expand the technical capabilities of my team.
 - I challenge and coach my peers to improve and grow.
 - I help teammates prioritise their efforts, develop their strengths, and stay focused on impactful work.
