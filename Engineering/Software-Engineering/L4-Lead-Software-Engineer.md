@@ -88,7 +88,7 @@
 
 - I shaped a pitch, identified risks and scope, and delivered value to customers while meeting team objectives over multiple cycles.
 - I developed a product vision based on the needs of multiple customers.
-- I judiciously optimized scope to maintain high quality while delivering maximum value within a cycle.
+- I judiciously optimised scope to maintain high quality while delivering maximum value within a cycle.
 - I allocated time to validate assumptions and test designs with customers.
 
 </details>
