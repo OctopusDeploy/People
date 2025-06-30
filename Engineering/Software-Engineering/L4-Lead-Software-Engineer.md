@@ -11,35 +11,35 @@
 
 - I am a well-rounded developer, architect and problem solver.
 - I am an expert in my team's domain.
-- I am comfortable diving head-first into moderately risky or uncertain situations with relatively little upfront information and oversight.
-- I am confident making architectural decisions, taking cross-cutting concerns (for example, infrastructure, identity management, security, scalability, concurrency, and maintainability) into consideration as appropriate.
-- I stay up to date on evolving standards, platform features, and critical vendor and community-provided technologies.
+- I confidently tackle uncertain or risky situations with minimal upfront information and oversight.
+- I make thoughtful architectural decisions, addressing cross-cutting concerns like infrastructure, security, scalability, and maintainability.
+- I stay informed on evolving standards, platform features, and relevant technologies.
 
 <details>
 <summary>Examples</summary>
 
 - I successfully completed a large, complex project with multiple components.
-- I dived head-first into a bug fix or incident in an area of significant ambiguity or risk, led the investigation and resolved the issue.
-- I engaged with experts on another team for help approaching a complex problem outside of my domain and then ensured that my team understood the response and were able to implement the advice consistently in our work.
+- I led the investigation and resolution of a bug or incident in a highly ambiguous or risky area.
+- I consulted with experts on a complex problem outside my domain and ensured their insights were applied effectively.
 
 </details>
 
 ## 🌱 Teaching and Mentoring
 
-- I define, document, and evolve best practices for development in my team's area of focus.
-- I shepherd and aid in development of new projects across the organization.
-- I am constantly working to broaden the technical capabilities of my team.
-- I am comfortable with challenging and coaching my peers.
-- I help people determine the most valuable ways they can contribute, and grow, and I help them block out the noise.
+- I define, document, and evolve best practices in my team's area of focus.
+- I guide and support the development of new projects across the organisation.
+- I work to expand the technical capabilities of my team.
+- I challenge and coach my peers to improve and grow.
+- I help teammates prioritise their efforts, develop their strengths, and stay focused on impactful work.
 
 <details>
 <summary>Examples</summary>
 
-- I provided training and mentoring for multiple team members, deliberately helping them to round out their skill sets.
-- I shared my on-the-job learning and experiences with others so they can understand and be more effective in their own roles.
-- I broke up a project in such a way that lined up appropriate challenges for each of my teammates that helped them grow.
-- I had some difficult conversations with my teammates, challenging them directly while showing them my care for them personally.
-- I adjusted my interactions to adapt to the different working styles and needs of individuals on my team.
+- I trained and mentored team members, helping them develop well-rounded skill sets.
+- I shared my experiences to help others become more effective in their roles.
+- I divided a project into tasks that presented appropriate challenges for each of my teammates that helped them grow.
+- I had some difficult conversations with my teammates, challenging them directly while showing care for them personally.
+- I tailored my interactions to suit the working styles and needs of individual team members.
 
 </details>
 
@@ -49,46 +49,46 @@
 - I avoid becoming a bottleneck, by setting up other engineers on my team for success for longer periods of time before needing to check back in.
 - I make sure difficult work that needs to be done gets done, like hard debugging, incident response, and reverse-engineering tasks.
 - I understand our organisation structure and how we schedule work, and help my team find their highest value contributions in this environment.
-- I am comfortable with transparently assessing risk, making recommendations, escalating appropriately, and dealing with the consequences along the way.
+- I transparently assess risk, provide actionable recommendations, escalate when necessary, and manage outcomes.
 - I recognise problems and proactively engage with other people to prevent or resolve them quickly.
 - I am comfortable coordinating projects where success requires the input of multiple teams and diverse technical roles.
 - I am an adept communicator, and can effectively steer technical and non-technical conversations to positive outcomes over any medium.
-- I proactively improve and implement processes that help uplift the way my team works together.
-- I collaborate effectively with team members from other functions (Eg. Product Managers and Designers). I help to guide these team members towards the outcomes I need of them, and I ensure their needs are met in the work I do.
+- I proactively refine processes and implement improvements that strengthen team collaboration.
+- I work effectively with cross-functional team members (e.g., Product Managers and Designers), aligning on outcomes and ensuring mutual needs are met.
 
 <details>
 <summary>Examples</summary>
 
-- I identified the work involved with delivering a Pitch, broke it into tasks and managed the project to completion.
-- I provided principles to my team that allowed other engineers to navigate more decisions of their own, without relying on me as a sole decision maker.
-- I accurately documented the options considered in decision making to ensure that we did not re-tread the same ground next time.
-- I took ownership of my team's retrospective process, making sure everyone had a voice in how our team works and evolves together.
-- I performed interviews for engineering candidates, providing detailed and useful feedback.
-- I confidently pitched an idea, positively influencing and convincing people to take decisive action.
-- I convinced my peers of a technical decision through asynchronous discussion by effectively communicating my perspective and understanding. 
-- I published an RFC on a technical approach and then engaged with feedback from other teams, incorporating the results of discussions to create a better path forward for my team.
-- I supported a colleague's idea by articulating its benefits and addressing concerns, leading to its acceptance.
-- I identified waste in our team processes, formulated a new approach, and got the rest of the team to buy into a new and better way of doing things.
-- I noticed a project was going to become blocked by another team, or take longer than expected, so I pulled together relevant stakeholders to propose an updated plan and reach a consensus.
-- I thoughtfully challenged and provided alternatives to a direction given by my manager or a Principal Software Engineer, with good results.
+- I planned and managed the delivery of a pitch, breaking it into tasks and ensuring successful completion.
+- I provided principles that enabled engineers to make decisions independently, without relying on me.
+- I documented decision-making options to prevent redundant discussions.
+- I facilitated retrospectives, ensuring everyone contributed to how the team operates and evolves.
+- I conducted engineering candidate interviews, offering constructive and detailed feedback.
+- I successfully pitched an idea and convinced stakeholders to take action.
+- I used asynchronous communication to persuade peers of a technical decision and build consensus.
+- I published an RFC, engaged with feedback from other teams, and improved the technical approach based on discussions.
+- I supported a colleague’s idea, articulated benefits, addressed concerns, and helped achieve buy-in.
+- I identified inefficiencies in team processes, developed improvements, and gained team support for new approaches.
+- I prevented a project blockage by bringing together stakeholders and proposing a consensus-driven updated plan.
+- I thoughtfully challenged direction from leadership, offering alternatives that led to better outcomes.
 
 </details>
 
 ## 🏆 Customer Success
 
-- I take pitch documents describing a complex problem space and help turn them into well-shaped work for myself or others to deliver.
-- I invest in sustainable delivery, maintaining professional standards and striking a pragmatic balance between idealistic purity and business pressures.
-- I understand our fixed-time/high-quality/variable-scope approach to software projects.
-- I assess what work supports the product strategy and make insightful recommendations regarding priorities.
-- I identify key gaps in product offerings and functionality, then work with responsible team members (e.g. Product Managers, Business Stakeholders) to shape the opportunities.
-- I pragmatically plan minimum viable infrastructure for product launch.
+- I transform complex product goals into actionable, well-defined work for delivery.
+- I focus on sustainable delivery, balancing professional standards with business demands.
+- I follow our fixed-time, high-quality, variable-scope approach to software projects.
+- I align work with product strategy and make insightful recommendations on priorities.
+- I identify gaps in product offerings and collaborate with stakeholders to shape opportunities.
+- I plan minimum viable infrastructure to support product launches.
 
 <details>
 <summary>Examples</summary>
 
-- I contributed to shaping a pitch, identified risks and appropriate scoping, that helped us ship value to customers as soon as possible, and meet the team's objectives over one or more cycles.
-- I was comfortable building a product vision based on the needs of multiple customers.
-- In delivering a pitch, I used the "scope hammer" judiciously, to maintain high quality while shipping as much value as possible to users within a cycle.
-- I ensured that appropriate time was allocated to validate our assumptions and test our designs with customers.
+- I shaped a pitch, identified risks and scope, and delivered value to customers while meeting team objectives over multiple cycles.
+- I developed a product vision based on the needs of multiple customers.
+- I judiciously optimised scope to maintain high quality while delivering maximum value within a cycle.
+- I allocated time to validate assumptions and test designs with customers.
 
 </details>
