@@ -41,13 +41,13 @@ We view progression through our IC (Individual Contributor) levels as a journey 
 
 The following levels are defined:
 
-- [L1: Junior DevOps Support Engineer](./L1-junior-devops-support-engineer.md)
-- [L2: DevOps Support Engineer](./L2-devops-support-engineer.md)
-- [L3: Senior DevOps Support Engineer](./L3-senior-devops-support-engineer.md)
-- [L4: Lead DevOps Support Engineer](./L4-lead-devops-support-engineer.md)
-- [L5: Principal DevOps Support Engineer](./L5-principal-devops-support-engineer.md)
-- [L4: Support Manager](./L4-support-manager.md)
-- [L5: Senior Support Manager](./L5-senior-support-manager.md)
+- [L1: Junior DevOps Support Engineer](./L1-Junior-DevOps-Support-Engineer.md)
+- [L2: DevOps Support Engineer](./L2-DevOps-Support-Engineer.md)
+- [L3: Senior DevOps Support Engineer](./L3-Senior-DevOps-Support-Engineer.md)
+- [L4: Lead DevOps Support Engineer](./L4-Lead-DevOps-Support-Engineer.md)
+- [L5: Principal DevOps Support Engineer](./L5-Principal-DevOps-Support-Engineer.md)
+- [L4: Support Manager](./L4-Support-Manager.md)
+- [L5: Senior Support Manager](./L5-Senior-Support-Manager.md)
 
 ## Contributing
 
