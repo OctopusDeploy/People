@@ -21,7 +21,8 @@ The following pages provide demonstrable values and concrete examples to describ
 3. [L3: Senior Software Engineer](L3-Senior-Software-Engineer.md)
 4. [L4: Lead Software Engineer](L4-Lead-Software-Engineer.md)
 5. [L5: Principal Software Engineer](L5-Principal-Software-Engineer.md)
+6. [L6: Senior Principal Software Engineer](L6-Senior-Principal-Software-Engineer.md)
 
 💡 Tip: To help guide conversations about your progression with your manager, open multiple tabs and contrast the expectations across adjacent levels.
 
-See also: Guidance on [Levels, Maturity, and Performance Reviews](../Software-Engineering/Levels-Maturity-And-Performance-Reviews.md).
+See also: Guidance on [Levels, Maturity, and Performance Reviews](../Engineering/Levels-Maturity-And-Performance-Reviews.md).
