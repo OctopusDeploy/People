@@ -36,18 +36,18 @@
 
 ## 🌱 Teaching and Mentoring
 - I define, document, and evolve best practices for reliability engineering.
+- I help everyone learn from incidents, both those within my team and across the company.
 - I shepherd and aid in development of new projects across the organization.
 - I work to expand the technical capabilities of my team.
 - I challenge and coach my peers to improve and grow.
 maybe:
-- I am an expert teacher.
 - I am curious, listen, and encourage healthy conflict.
 - I allow myself to be persuaded by great ideas.
 - I create clarity by communicating complex things in simple and accessible ways.
-- I am an expert at designing and reviewing software architecture and code with a reliability focus.
+- I am an expert at designing and reviewing software/system architecture and code with a reliability focus.
 - I regularly provide training and support for new methods, tools, and patterns.
 - I actively share knowledge relevant to multiple teams.
-- I help everyone learn from incidents, both those within my team and across the company.
+
 
 <details>
 <summary> Examples </summary>
@@ -89,9 +89,7 @@ maybe:
 - I focus on sustainable operations, balancing professional standards with business demands.
 - I follow our fixed-time, high-quality, variable-scope approach to projects.
 - I align work with product strategy and make insightful recommendations on priorities.
-- I identify gaps in product or service offerings and collaborate with stakeholders to shape opportunities.
 - I plan minimum viable infrastructure to support product launches.
-- I understand what technical challenges are most impacting our customers at present, and how my own plans and the Octopus technical strategy seek to solve them.
 - I am able to anticipate and adapt systems and practices to changes in load, usage, and customer requirements.
 - I hold myself and the teams I work with to a high (but always contextually _appropriate_) standard of reliability.
 - I inform product strategy by helping senior leadership understand the organisation's operations capabilities and technical strategy.
