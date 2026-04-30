@@ -37,9 +37,9 @@
 
 At this level, success means scaling your impact across teams and systems while enabling others to succeed. These examples reflect the principles in [How We Work in Support](./README.md#how-we-work-in-support).
 
-- Lead cross-team projects or initiatives that improve support outcomes  
-- Mentor and coach others to think clearly and grow in their roles  
-- Identify systemic issues and drive improvements through sustainable solutions  
-- Guide others through complexity with empathy and strategic awareness  
-- Represent the Support function thoughtfully in cross-functional collaboration  
-- Help the team focus on what matters most and deliver high-quality work at scale
+- Identify and lead organisation-wide initiatives that meaningfully improve how Octopus supports customers at scale
+- Spot trends, risks, and systemic issues before they become problems, and drive sustainable solutions
+- Define what "great support" looks like at Octopus, and influence others to move toward it
+- Mentor senior engineers and leads, shaping how they think, grow, and operate
+- Influence hiring, onboarding, career development, and team culture in ways that strengthen support long-term
+- Contribute to strategic planning and help align the support function with Octopus's broader company direction
