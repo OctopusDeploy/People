@@ -35,9 +35,9 @@
 
 At this level, success means scaling your impact across teams and systems while enabling others to succeed. These examples reflect the principles in [How We Work in Support](./README.md#how-we-work-in-support).
 
-- Lead cross-team projects or initiatives that improve support outcomes  
-- Mentor and coach others to think clearly and grow in their roles  
-- Identify systemic issues and drive improvements through sustainable solutions  
-- Guide others through complexity with empathy and strategic awareness  
-- Represent the Support function thoughtfully in cross-functional collaboration  
-- Help the team focus on what matters most and deliver high-quality work at scale
+- Own and resolve the most complex or sensitive customer issues, and help others navigate similar challenges
+- Lead initiatives that improve how the support team operates - through better processes, tooling, or documentation
+- Coach and mentor others in their thinking, communication, and technical judgment
+- Build strong working relationships with Engineering, Product, and Customer teams to drive better support outcomes
+- Represent the Support team clearly and constructively in cross-functional discussions
+- Help the team stay focused, operate consistently, and deliver high-quality work under pressure
