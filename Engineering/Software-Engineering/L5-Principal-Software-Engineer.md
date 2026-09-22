@@ -10,30 +10,22 @@
 
 ## 🦉 Domain expertise
 
-- Within my group:
-    - I maintain a clear and understandable technical direction for my teams within my group to help them achieve their missions with high-quality at speed.
-    - I have a deep understanding of the technical direction of my teams within my group so I can detect and correct issues early.
-    - I understand the general technical direction of other teams at Octopus so I can detect and correct issues early.
-    - I help teams in my group make critical product architecture and implementation decisions that result in better outcomes.
-    - I manage technical risks effectively, and architect to reduce technical risk.
-- Across Octopus:
-    - I have a broad understanding of the Octopus technical strategy and target architecture.
-    - I am an effective custodian for part of the Octopus target architecture.
-    - I assist in maintaining the Octopus technical strategy by contributing helpful ideas and peer review.
-    - I contribute to the engineering standards and principles used across Octopus.
-    - I collaborate with other Principal Software Engineers to ensure we are making cohesive and complimentary decisions that align with the Octopus technical strategy.
+- I am deeply involved in our directional work, and devote most of my time and attention to directional efforts
+- I use my understanding of our product, our customers, and our solutions to reduce risk in our directional bets
+- I hold strong opinions on which risks need to be addressed before directional bets can transition into delivery
+- I work closely with teams when breaking ground on new directional bets to ensure they are set up for success
+- I anticipate and translate our emerging product direction into technical direction, contributing to the overall Octopus Target Architecture
+- I collaborate regularly with other Principle Engineers to ensure emerging technical vectors align
+- I contribute to the engineering standards and principles used across Octopus
 
 <details>
 <summary>Examples</summary>
 
-- I successfully completed complex tasks spanning multiple domains and teams with high impact.
-- I explored ahead of my team(s) and helped build a technical direction to achieve their mission. I did some exploration solo and some exploration with the team. We experimented with different approaches. We discovered risks and accelerators. We updated the plan when we uncovered new risks/accelerators.
-- I helped a team reduce complexity and risk through sound architectural thinking resulting in better outcomes.
-- I developed a plan to evolve the architecture of a particularly difficult/risky/ambigious part of the core components of Octopus iterating in the open with other people using techniques like RFCs and presentations/breakouts at R&D Weekly and RADAR sessions.
-- I worked with teams to manage multiple conflicting priorities, navigated difficult tradeoffs, and helped sequence work resulting in the best collective outcome.
-- I collaborated with another principal engineer to ensure that a feature I was helping a team with would support a feature I knew another team was planning.
-- I developed a section of the Octopus target architecture, which required a thorough understanding of the problem space, proposing potential solutions, and offering a strong and informed opinion on the best solution.
-- I contributed to building blocks or core technologies used by a variety of teams.
+- I participated in early workshops to establish our strong opinions on how to solve an emerging problem. My contributions made a meaningful impact on the end result.
+- I set the solution constraints for a problem we agreed is worth solving by conducting customer research, and leveraging my own continuous delivery expertise.
+- I helped our product managers navigate solution options by helping them understand the feasibility and viability of them based on my knowledge of our teams, our existing solutions, and our customers.
+- I worked with a team who were starting on a new initiative, helping them find what decisions needed to be made up front to lower the risk and boost the success of subsequent delivery efforts.
+- I developed and delivered a workshop across engineering to uplift our engineers software design skills.
 
 </details>
 
