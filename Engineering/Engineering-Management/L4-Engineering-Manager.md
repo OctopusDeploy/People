@@ -46,3 +46,19 @@
  - I acknowledged that there is a power dynamic between myself and a junior engineer, but was able to listen to that team member and use my position to advocate for their needs. 
  
  </details>
+
+## 🫴 Ownership
+> I am accountable for keeping my team focussed on what matters most, and helping them fulfill their ownership responsibilities. 
+
+- I am the primary custodian of my team's ownership space, and I have strong opinions about what opportunities exist within the space, and their relative priorities
+- I direct my teams efforts and investments based on a clear understanding of Octopus's product goals for the year
+- I help my team make clear and explicit decisions about technical investment, architectural advancement, and technical debt accrual
+
+<details>
+ <summary>Examples</summary>
+
+- I captured an issue that arrived in my team's request channel from front door triage in our opportunity backlog, and prioritised it based on my knowledge of the impact of the issue, and our upcoming capacity and commitments
+- I keep a rough plan of the work I'd like my team to invest in so that as our commitments change over time, we can prosecute opportunities that deliver value to our customers
+- I worked with my team's lead engineer to make a call on a technical debt tradeoff that would allow us to deliver a better outcome to our customers within our budget appetite, at the expense of accruing an amount of technical debt
+
+</details>
