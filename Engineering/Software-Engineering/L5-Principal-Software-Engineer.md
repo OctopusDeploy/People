@@ -89,27 +89,21 @@
 - I have a deep understanding of my group's product offerings and product strategy.
 - I understand what technical challenges are most impacting our customers at present, and how my own plans and the Octopus technical strategy seek to solve them.
 - I am able to anticipate and adapt systems and practices to changes in load, usage, and customer requirements.
-- I work with my teams (including product managers and designers) to ensure the best outcomes for our customers and continued product/market fit.
+- I work with teams (including product managers and designers) to ensure the best outcomes for our customers and continued product/market fit.
 - I find the balance between doing it right and getting it done.
 - I am an expert at managing scope, finding ways to help my teams consistently deliver the high value to customers at speed.
-- I hold myself and my teams to a high standard of quality, thinking holistically about reliability, usability, and functionality.
-- I am responsive to changes in product priorities, keeping multiple teams focused on important, high-value efforts.
-- I inform product strategy by helping senior leadership understand the organisation's engineering capabilities and technical strategy.
+- I hold myself to a high standard of quality, thinking holistically about reliability, usability, and functionality.
 - I collaborate with people from other departments, primarily support, customer success, revenue, and marketing, when my expertise will help us deliver better outcomes for our customers.
 
 <details>
 <summary>Examples</summary>
 
-- I helped a team pivot effectively in response to a direction change.
 - I helped a team find a faster path to customer impact, through making acceptable tradeoffs in scope, time, and quality.
 - I identified a risk where multiple teams would make life harder for each other, got them aligned, and accelerated their deliveries.
 - I contributed publicly to the Octopus blog, a webinar, or a conference, explaining a lesson we learned as a way to reinforce the learning and to attract customers and potential future employees.
-- I participated actively and willingly in discovery activities, like customer research calls, and generated insights that improved overall customer outcomes.
-- I noticed one of my teams getting bogged down in delivery. I helped them tease apart their scope and sequence their work to get themselves unblocked and get back to delivering value more quickly.
 - I regularly tried the software delivered by my teams (I "tasted the food") and provided feedback where the reliability, usability, or functionality didn't meet our standard.
 - I identified a risk in our product strategy or delivery that required a difficult tradeoff and influenced a change to mitigate that risk.
 - I built an influential case to change direction/priority with a focus on promoting customer success.
 - I joined several calls with a customer who was at risk of churn. I used my listening skills and my insight into the technical capabilities of our product to add clarity to the discussion. This enabled us to transform this customer into a case study.
-- I was pulled into a complex deal negotiation. I used my insight into the functionality and quality of the services we offer today, and my group's product direction, to provide the buyer with confidence. This enabled the deal to get to Closed-Won.
 
 </details>
