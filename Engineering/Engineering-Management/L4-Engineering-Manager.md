@@ -53,6 +53,8 @@
 - I am the custodian of my team's ownership space, and I have strong opinions about what opportunities exist within the space, and their relative priorities
 - I direct my teams efforts and investments based on a clear understanding of Octopus's product goals for the year, and my own opinions on which investments in my team's ownership space are timely and should be prioritised 
 - I help my team make clear and explicit decisions about technical investment, architectural advancement, and technical debt accrual
+- I know the architecture well enough to identify and manage dependencies, and can recognise designs that need Principal review
+- I know the level of deferred maintenance for every system in my team's ownership space
 
 <details>
  <summary>Examples</summary>

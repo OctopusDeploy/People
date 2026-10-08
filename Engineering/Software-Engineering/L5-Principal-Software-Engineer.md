@@ -2,21 +2,20 @@
 
 > _I am an influential Engineering leader who identifies problems and opportunities relevant to Octopus product and technical strategies, builds consensus to invest in solutions, and guides Engineering to deliver significant lasting change across Octopus._
 
-- **Thinking horizon**: 1 year
+- **Thinking horizon**: 18 months
 - **Impact radius**: Group
 - **Evaluation**: Director
 - **Responsibility and direction needed**: I drive technical strategy in alignment with product strategy for my group. I develop that technical strategy and deliver good outcomes through it, with minimal oversight.
-- **Glossary (examples from 2023/24)**: ["Octopus Technical Strategy"](https://docs.google.com/document/d/1onaZ7qRWc7BSLWyGw8duIIlOCd2k812zMIXXtlBfXL8/edit#heading=h.a65d8nqv4wgr) | ["Target Architecture"](https://github.com/OctopusDeploy/OctopusDeploy/tree/main/docs/target-architecture)
 
 ## 🦉 Domain expertise
 
-- I am deeply involved in our directional work, and devote most of my time and attention to directional efforts
-- I use my understanding of our product, our customers, and our solutions to reduce risk in our directional bets
-- I hold strong opinions on which risks need to be addressed before directional bets can transition into delivery
-- I work closely with teams when breaking ground on new directional bets to ensure they are set up for success
-- I anticipate and translate our emerging product direction into technical direction, contributing to the overall Octopus Target Architecture
-- I collaborate regularly with other Principle Engineers to ensure emerging technical vectors align
-- I contribute to the engineering standards and principles used across Octopus
+- I help Octopus make directional bets that are valuable, feasible, and viable, leveraging my understanding of Octopus's business strategy and customers, my expertise as an engineer, and my knowledge of Octopus's systems and technology.
+- I hold strong opinions on which risks need to be addressed before directional bets can transition into delivery.
+- I work closely with teams when breaking ground on new directional bets to ensure they are set up for success.
+- I maintain a broad understanding of the Octopus technical strategy and target architecture.
+- I contribute to the Octopus target architecture by defining architecture that supports emerging product direction.
+- I collaborate regularly with other Principal Engineers to ensure emerging technical vectors align.
+- I contribute to the engineering standards and principles used across Octopus.
 
 <details>
 <summary>Examples</summary>
@@ -24,7 +23,9 @@
 - I participated in early workshops to establish our strong opinions on how to solve an emerging problem. My contributions made a meaningful impact on the end result.
 - I set the solution constraints for a problem we agreed is worth solving by conducting customer research, and leveraging my own continuous delivery expertise.
 - I helped our product managers navigate solution options by helping them understand the feasibility and viability of them based on my knowledge of our teams, our existing solutions, and our customers.
+- I developed a section of the Octopus target architecture, which required a thorough understanding of the emerging problem space, proposing potential solutions, and offering a strong and informed opinion on the best solution.
 - I worked with a team who were starting on a new initiative, helping them find what decisions needed to be made up front to lower the risk and boost the success of subsequent delivery efforts.
+- I helped a team reduce complexity and risk through sound architectural thinking resulting in better outcomes.
 - I developed and delivered a workshop across engineering to uplift our engineers software design skills.
 
 </details>
@@ -45,7 +46,6 @@
 <details>
 <summary>Examples</summary>
 
-- I was consistently in demand for design and code review.
 - I became aware that I was a bottleneck and worked proactively with managers to uplift and empower other people to make the team more effective.
 - I am actively mentoring multiple Octopus engineers, including a Lead Software Engineer aspiring to become a Principal Software Engineer.
 - Engineers at Octopus seek out to work on my teams to learn from me.
