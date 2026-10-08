@@ -13,6 +13,8 @@
 - I am an expert in my team's domain.
 - I confidently tackle uncertain or risky situations with minimal upfront information and oversight.
 - I make thoughtful architectural decisions, addressing cross-cutting concerns like infrastructure, security, scalability, and maintainability.
+- I drive or participate in driving target architecture for the system(s) my team owns.
+- I identify and advocate for accrual or pay down of technical debt in my team's ownership space.
 - I stay informed on evolving standards, platform features, and relevant technologies.
 
 <details>
@@ -21,6 +23,8 @@
 - I successfully completed a large, complex project with multiple components.
 - I led the investigation and resolution of a bug or incident in a highly ambiguous or risky area.
 - I consulted with experts on a complex problem outside my domain and ensured their insights were applied effectively.
+- I designed the target state for our event handling abstractions in Octopus Server, clearly articulating a simpler design that addressed the existing sprawl of abstractions.
+- I worked with my team's EM to make a call on a technical debt tradeoff when pursuing a directional goal.
 
 </details>
 
