@@ -76,7 +76,7 @@ When it comes to salary review and promotion:
 
 ## Background, Purpose, and Attribution
 
-The concept is drawn from [work Michael Noonan did at Readify in 2015](https://github.com/Readify/madskillz), but written specifically for Octopus.
+The concept is drawn from work Michael Noonan did at Readify in 2015, but written specifically for Octopus.
 
 > In 2014 at Readify (a software consultancy) we had a very "human resources" approach to ~~resources~~ people. Processes were written in language nobody really understood and couldn't apply to their daily life or personal growth. We were expected to recommend or exclude people for promotion based on our best memory of their performance during the entire year, often based on third-hand information. Personal interaction and mentoring was inconsistent.
 >
